@@ -28,10 +28,10 @@ scripts/onmt-test-%.sh:
 	cat scripts/onmt-test.sh | sed "s/SOMELAN/$*/" > $@
 
 models/%-model_step_10000.pt:opennmtdata/%.train.1.pt scripts/onmt-train-%.sh
-	sbatch scripts/onmt-train-$*.sh
+	bash scripts/onmt-train-$*.sh
 
 results/%-src-test.txt.nbest.out:scripts/onmt-test-%.sh models/%-model_step_10000.pt
-	sbatch scripts/onmt-test-$*.sh
+	bash scripts/onmt-test-$*.sh
 
 # These probability and firm threshold values need to be tuned using a
 # development set. This target is for demonstration only.
@@ -40,3 +40,4 @@ results/%-src-test.txt.sys: results/%-src-test.txt.nbest.out
 
 evaluation/%-src-test.txt.sys.eval: results/%-src-test.txt.sys
 	python3 scripts/compute_fscore.py results/$*-src-test.txt.sys opennmtdata/$*-tgt-test.all.txt > $@
+
