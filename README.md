@@ -1,6 +1,10 @@
 # calma
 
-Before running, you need to change the value of the variable `ONMTTRAIN` in `scripts/onmt-train.sh`, `ONMTTEST` in `scripts/onmt-test.sh` and `ONMTPREPROCESS` in `Makefile`.
-
-To build everything, run `make all`.
+(will be transformed to colab notebook soon) To run using colab, you need to:
+* `git clone https://github.com/OpenNMT/OpenNMT-py.git`
+* `mv OpenNMT-py ~`
+* `git clone https://gist.github.com/f7b7c7758a46da49f84bc68b47997d69.git colab_cuda_upgrader`
+* `!bash colab_cuda_upgrader/pytorch041_cuda92_colab.sh`
+* `git clone https://github.com/NIS-2018-CROSS-M/calma.git`
+* `make all -C calma`
 
