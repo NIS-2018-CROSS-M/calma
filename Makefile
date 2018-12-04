@@ -1,6 +1,6 @@
 ONMTPREPROCESS=~/OpenNMT-py/preprocess.py
 
-LANGS=ast bak cat crh est fin fra ita kaz kir kpv mdf mhr mrj myv por sme spa tat tur udm
+LANGS=ast bak cat fin
 
 all: opennmtdata models results eval
 
