@@ -1,0 +1,5189 @@
+spravovat +<vblex> +<impf> +<tgv> +<pprs> +<mi> +<sg>
+spravovat +<vblex> +<impf> +<tgv> +<pprs> +<ma> +<sg>
+spravovat +<vblex> +<impf> +<pres> +<p3> +<sg>
+vzorek +<n> +<mi> +<pl> +<gen>
+náboženství +<n> +<nt> +<pl> +<gen>
+náboženství +<n> +<nt> +<sg> +<dat>
+náboženství +<n> +<nt> +<sg> +<loc>
+náboženství +<n> +<nt> +<sg> +<gen>
+náboženství +<n> +<nt> +<sg> +<voc>
+náboženství +<n> +<nt> +<pl> +<voc>
+náboženství +<n> +<nt> +<pl> +<nom>
+náboženství +<n> +<nt> +<pl> +<acc>
+náboženství +<n> +<nt> +<sg> +<nom>
+náboženství +<n> +<nt> +<sg> +<acc>
+domácí +<adj> +<f> +<sg> +<loc>
+domácí +<adj> +<f> +<sg> +<ins>
+domácí +<adj> +<ma> +<pl> +<acc>
+domácí +<adj> +<f> +<sg> +<acc>
+domácí +<adj> +<mi> +<pl> +<acc>
+domácí +<adj> +<nt> +<sg> +<nom>
+domácí +<adj> +<nt> +<sg> +<acc>
+domácí +<adj> +<f> +<pl> +<voc>
+domácí +<adj> +<nt> +<pl> +<voc>
+domácí +<adj> +<mi> +<sg> +<acc>
+domácí +<adj> +<f> +<pl> +<nom>
+domácí +<adj> +<f> +<pl> +<acc>
+domácí +<adj> +<ma> +<pl> +<nom>
+domácí +<adj> +<ma> +<pl> +<voc>
+domácí +<adj> +<f> +<sg> +<gen>
+domácí +<adj> +<ma> +<sg> +<voc>
+domácí +<adj> +<nt> +<pl> +<nom>
+domácí +<adj> +<f> +<sg> +<nom>
+domácí +<adj> +<ma> +<sg> +<nom>
+domácí +<adj> +<f> +<sg> +<voc>
+domácí +<adj> +<mi> +<sg> +<nom>
+domácí +<adj> +<mi> +<pl> +<voc>
+domácí +<adj> +<nt> +<sg> +<voc>
+domácí +<adj> +<mi> +<pl> +<nom>
+domácí +<adj> +<nt> +<pl> +<acc>
+domácí +<adj> +<f> +<sg> +<dat>
+domácí +<adj> +<mi> +<sg> +<voc>
+registrace +<n> +<f> +<sg> +<dat>
+registrace +<n> +<f> +<sg> +<loc>
+registrace +<n> +<f> +<sg> +<acc>
+komunista +<n> +<ma> +<pl> +<acc>
+komunista +<n> +<ma> +<sg> +<gen>
+komunista +<n> +<ma> +<pl> +<ins>
+podpora +<n> +<f> +<sg> +<loc>
+podpora +<n> +<f> +<sg> +<dat>
+obraz +<n> +<mi> +<pl> +<gen>
+probíhat +<vblex> +<impf> +<pres> +<p3> +<sg>
+zápas +<n> +<mi> +<sg> +<voc>
+zápasit +<vblex> +<impf> +<tgv> +<pprs> +<mi> +<sg>
+zápasit +<vblex> +<impf> +<tgv> +<pprs> +<ma> +<sg>
+společný +<adj> +<sint> +<nt> +<sg> +<gen>
+společný +<adj> +<sint> +<ma> +<sg> +<gen>
+společný +<adj> +<sint> +<ma> +<sg> +<acc>
+společný +<adj> +<sint> +<mi> +<sg> +<gen>
+kříž +<n> +<mi> +<sg> +<dat>
+kříž +<n> +<mi> +<sg> +<voc>
+kříž +<n> +<mi> +<sg> +<loc>
+kříž +<n> +<mi> +<pl> +<ins>
+předpokládat +<vblex> +<impf> +<past> +<m> +<sg>
+tisíciletí +<n> +<mi> +<sg> +<gen>
+tisíciletí +<n> +<mi> +<sg> +<acc>
+tisíciletý +<adj> +<sint> +<ma> +<pl> +<voc>
+tisíciletý +<adj> +<sint> +<ma> +<pl> +<nom>
+tisíciletí +<n> +<mi> +<pl> +<gen>
+tisíciletí +<n> +<mi> +<sg> +<dat>
+tisíciletí +<n> +<mi> +<sg> +<nom>
+tisíciletí +<n> +<mi> +<sg> +<loc>
+tisíciletí +<n> +<mi> +<pl> +<acc>
+tisíciletí +<n> +<mi> +<pl> +<nom>
+tisíciletí +<n> +<mi> +<sg> +<voc>
+tisíciletí +<n> +<mi> +<pl> +<voc>
+úkol +<n> +<mi> +<sg> +<acc>
+úkol +<n> +<mi> +<sg> +<nom>
+kosmonaut +<n> +<ma> +<sg> +<nom>
+československý +<adj> +<f> +<sg> +<ins>
+československý +<adj> +<f> +<sg> +<acc>
+představovat +<vblex> +<impf> +<tgv> +<pprs> +<ma> +<sg>
+představovat +<vblex> +<impf> +<tgv> +<pprs> +<mi> +<sg>
+představovat +<vblex> +<impf> +<pres> +<p3> +<sg>
+dohoda +<n> +<f> +<sg> +<dat>
+dohoda +<n> +<f> +<sg> +<loc>
+dělat +<vblex> +<impf> +<pres> +<p3> +<sg>
+letectvo +<n> +<nt> +<sg> +<dat>
+letectvo +<n> +<nt> +<sg> +<loc>
+gravitační +<adj> +<f> +<pl> +<voc>
+gravitační +<adj> +<f> +<pl> +<nom>
+gravitační +<adj> +<f> +<sg> +<ins>
+gravitační +<adj> +<nt> +<pl> +<nom>
+gravitační +<adj> +<f> +<sg> +<loc>
+gravitační +<adj> +<mi> +<pl> +<nom>
+gravitační +<adj> +<mi> +<sg> +<acc>
+gravitační +<adj> +<nt> +<sg> +<acc>
+gravitační +<adj> +<nt> +<sg> +<nom>
+gravitační +<adj> +<mi> +<sg> +<voc>
+gravitační +<adj> +<ma> +<sg> +<nom>
+gravitační +<adj> +<ma> +<pl> +<acc>
+gravitační +<adj> +<f> +<sg> +<nom>
+gravitační +<adj> +<f> +<sg> +<voc>
+gravitační +<adj> +<ma> +<sg> +<voc>
+gravitační +<adj> +<f> +<pl> +<acc>
+gravitační +<adj> +<ma> +<pl> +<nom>
+gravitační +<adj> +<mi> +<sg> +<nom>
+gravitační +<adj> +<nt> +<pl> +<acc>
+gravitační +<adj> +<f> +<sg> +<dat>
+gravitační +<adj> +<nt> +<sg> +<voc>
+gravitační +<adj> +<f> +<sg> +<acc>
+gravitační +<adj> +<nt> +<pl> +<voc>
+gravitační +<adj> +<mi> +<pl> +<voc>
+gravitační +<adj> +<ma> +<pl> +<voc>
+gravitační +<adj> +<mi> +<pl> +<acc>
+gravitační +<adj> +<f> +<sg> +<gen>
+odpovídat +<vblex> +<impf> +<pres> +<p3> +<pl>
+dusík +<n> +<mi> +<sg> +<gen>
+dusík +<n> +<mi> +<sg> +<voc>
+dusík +<n> +<mi> +<sg> +<loc>
+dusík +<n> +<mi> +<sg> +<dat>
+slunce +<n> +<nt> +<sg> +<loc>
+slunce +<n> +<nt> +<sg> +<dat>
+slunce +<n> +<nt> +<pl> +<ins>
+hlava +<n> +<f> +<sg> +<ins>
+velvyslanectví +<n> +<mi> +<pl> +<nom>
+velvyslanectví +<n> +<mi> +<sg> +<loc>
+velvyslanectví +<n> +<mi> +<sg> +<voc>
+velvyslanectví +<n> +<mi> +<pl> +<acc>
+velvyslanectví +<n> +<mi> +<sg> +<acc>
+velvyslanectví +<n> +<mi> +<sg> +<gen>
+velvyslanectví +<n> +<mi> +<pl> +<voc>
+velvyslanectví +<n> +<mi> +<sg> +<dat>
+velvyslanectví +<n> +<mi> +<pl> +<gen>
+velvyslanectví +<n> +<mi> +<sg> +<nom>
+okresní +<adj> +<nt> +<pl> +<gen>
+okresní +<adj> +<ma> +<pl> +<gen>
+okresní +<adj> +<mi> +<pl> +<gen>
+okresní +<adj> +<mi> +<pl> +<loc>
+okresní +<adj> +<f> +<pl> +<loc>
+okresní +<adj> +<nt> +<pl> +<loc>
+okresní +<adj> +<f> +<pl> +<gen>
+okresní +<adj> +<ma> +<pl> +<loc>
+znamenat +<vblex> +<impf> +<past> +<m> +<sg>
+náměstek +<n> +<ma> +<sg> +<nom>
+rozlišovat +<vblex> +<impf> +<pres> +<p1> +<pl>
+elektronický +<adj> +<ma> +<sg> +<voc>
+elektronický +<adj> +<mi> +<sg> +<acc>
+elektronický +<adj> +<mi> +<sg> +<nom>
+elektronický +<adj> +<ma> +<sg> +<nom>
+elektronický +<adj> +<mi> +<sg> +<voc>
+významný +<adj> +<sint> +<f> +<sg> +<acc>
+významný +<adj> +<sint> +<f> +<sg> +<ins>
+pitný +<adj> +<sint> +<ma> +<pl> +<acc>
+pitný +<adj> +<sint> +<f> +<pl> +<nom>
+pitný +<adj> +<sint> +<f> +<pl> +<voc>
+pitný +<adj> +<sint> +<nt> +<sg> +<nom>
+pitný +<adj> +<sint> +<mi> +<pl> +<voc>
+pitný +<adj> +<sint> +<f> +<sg> +<dat>
+pitný +<adj> +<sint> +<mi> +<pl> +<acc>
+pitný +<adj> +<sint> +<nt> +<sg> +<voc>
+pitný +<adj> +<sint> +<f> +<pl> +<acc>
+pitný +<adj> +<sint> +<f> +<sg> +<gen>
+pitný +<adj> +<sint> +<mi> +<pl> +<nom>
+pitný +<adj> +<sint> +<nt> +<sg> +<acc>
+pitný +<adj> +<sint> +<f> +<sg> +<loc>
+týden +<n> +<mi> +<sg> +<dat>
+týden +<n> +<mi> +<sg> +<loc>
+formule +<n> +<f> +<sg> +<gen>
+formule +<n> +<f> +<pl> +<nom>
+formule +<n> +<f> +<pl> +<acc>
+formule +<n> +<f> +<sg> +<nom>
+teč +<n> +<f> +<pl> +<voc>
+teč +<n> +<f> +<pl> +<nom>
+teč +<n> +<f> +<pl> +<acc>
+teč +<n> +<f> +<sg> +<gen>
+ruský +<adj> +<f> +<sg> +<acc>
+ruský +<adj> +<f> +<sg> +<ins>
+následovat +<vblex> +<impf> +<past> +<m> +<sg>
+rozpad +<n> +<mi> +<sg> +<acc>
+rozpad +<n> +<mi> +<sg> +<nom>
+zemřelý +<adj> +<cpd>
+hora +<n> +<f> +<sg> +<ins>
+provizorní +<adj> +<mi> +<sg> +<voc>
+provizorní +<adj> +<mi> +<pl> +<acc>
+provizorní +<adj> +<nt> +<sg> +<acc>
+provizorní +<adj> +<mi> +<pl> +<voc>
+provizorní +<adj> +<nt> +<sg> +<nom>
+provizorní +<adj> +<ma> +<pl> +<voc>
+provizorní +<adj> +<f> +<pl> +<voc>
+provizorní +<adj> +<f> +<sg> +<nom>
+provizorní +<adj> +<f> +<sg> +<loc>
+provizorní +<adj> +<mi> +<pl> +<nom>
+provizorní +<adj> +<f> +<sg> +<ins>
+provizorní +<adj> +<mi> +<sg> +<acc>
+provizorní +<adj> +<ma> +<pl> +<acc>
+provizorní +<adj> +<mi> +<sg> +<nom>
+provizorní +<adj> +<nt> +<pl> +<acc>
+provizorní +<adj> +<ma> +<sg> +<nom>
+provizorní +<adj> +<f> +<pl> +<acc>
+provizorní +<adj> +<nt> +<pl> +<nom>
+provizorní +<adj> +<nt> +<pl> +<voc>
+provizorní +<adj> +<f> +<sg> +<dat>
+provizorní +<adj> +<f> +<sg> +<voc>
+provizorní +<adj> +<ma> +<pl> +<nom>
+provizorní +<adj> +<f> +<pl> +<nom>
+provizorní +<adj> +<nt> +<sg> +<voc>
+provizorní +<adj> +<f> +<sg> +<acc>
+provizorní +<adj> +<ma> +<sg> +<voc>
+provizorní +<adj> +<f> +<sg> +<gen>
+herecký +<adj> +<ma> +<sg> +<voc>
+herecký +<adj> +<ma> +<sg> +<nom>
+herecký +<adj> +<mi> +<sg> +<nom>
+herecký +<adj> +<mi> +<sg> +<acc>
+herecký +<adj> +<mi> +<sg> +<voc>
+doprava +<n> +<f> +<pl> +<voc>
+doprava +<n> +<f> +<sg> +<gen>
+doprava +<n> +<f> +<pl> +<nom>
+doprava +<n> +<f> +<pl> +<acc>
+synovec +<n> +<ma> +<sg> +<nom>
+databáze +<n> +<f> +<sg> +<loc>
+databáze +<n> +<f> +<sg> +<dat>
+databáze +<n> +<f> +<sg> +<acc>
+pouhý +<adj> +<mi> +<sg> +<acc>
+pouhý +<adj> +<ma> +<sg> +<nom>
+pouhý +<adj> +<ma> +<sg> +<voc>
+pouhý +<adj> +<mi> +<sg> +<voc>
+pouhý +<adj> +<mi> +<sg> +<nom>
+vyhlášený +<adj> +<sint> +<cpd>
+název +<n> +<mi> +<sg> +<acc>
+název +<n> +<mi> +<sg> +<nom>
+důležitý +<adj> +<sint> +<mi> +<sg> +<ins>
+důležitý +<adj> +<sint> +<mi> +<pl> +<dat>
+důležitý +<adj> +<sint> +<f> +<pl> +<dat>
+důležitý +<adj> +<sint> +<nt> +<pl> +<dat>
+důležitý +<adj> +<sint> +<ma> +<pl> +<dat>
+důležitý +<adj> +<sint> +<ma> +<sg> +<ins>
+důležitý +<adj> +<sint> +<nt> +<sg> +<ins>
+výsledek +<n> +<mi> +<sg> +<ins>
+válka +<n> +<f> +<sg> +<ins>
+linka +<n> +<f> +<sg> +<ins>
+stránka +<n> +<f> +<pl> +<gen>
+město +<n> +<nt> +<sg> +<loc>
+město +<n> +<nt> +<sg> +<dat>
+potvrzený +<adj> +<sint> +<cpd>
+blesk +<n> +<mi> +<sg> +<acc>
+blesk +<n> +<mi> +<sg> +<nom>
+opačný +<adj> +<sint> +<mi> +<pl> +<acc>
+opačný +<adj> +<sint> +<ma> +<pl> +<acc>
+opačný +<adj> +<sint> +<f> +<pl> +<nom>
+opačný +<adj> +<sint> +<f> +<pl> +<acc>
+opačný +<adj> +<sint> +<mi> +<pl> +<nom>
+opačný +<adj> +<sint> +<mi> +<pl> +<voc>
+opačný +<adj> +<sint> +<f> +<sg> +<dat>
+opačný +<adj> +<sint> +<f> +<sg> +<gen>
+opačný +<adj> +<sint> +<f> +<pl> +<voc>
+opačný +<adj> +<sint> +<nt> +<sg> +<acc>
+opačný +<adj> +<sint> +<nt> +<sg> +<voc>
+opačný +<adj> +<sint> +<f> +<sg> +<loc>
+opačný +<adj> +<sint> +<nt> +<sg> +<nom>
+měsíc +<n> +<mi> +<pl> +<loc>
+ocasní +<adj> +<ma> +<pl> +<voc>
+ocasní +<adj> +<f> +<sg> +<nom>
+ocasní +<adj> +<mi> +<pl> +<acc>
+ocasní +<adj> +<ma> +<pl> +<nom>
+ocasní +<adj> +<f> +<sg> +<ins>
+ocasní +<adj> +<ma> +<pl> +<acc>
+ocasní +<adj> +<ma> +<sg> +<nom>
+ocasní +<adj> +<mi> +<sg> +<acc>
+ocasní +<adj> +<ma> +<sg> +<voc>
+ocasní +<adj> +<f> +<pl> +<acc>
+ocasní +<adj> +<f> +<sg> +<acc>
+ocasní +<adj> +<f> +<pl> +<voc>
+ocasní +<adj> +<nt> +<pl> +<voc>
+ocasní +<adj> +<mi> +<pl> +<voc>
+ocasní +<adj> +<nt> +<sg> +<voc>
+ocasní +<adj> +<f> +<sg> +<loc>
+ocasní +<adj> +<nt> +<sg> +<acc>
+ocasní +<adj> +<nt> +<sg> +<nom>
+ocasní +<adj> +<f> +<sg> +<dat>
+ocasní +<adj> +<f> +<sg> +<gen>
+ocasní +<adj> +<mi> +<sg> +<voc>
+ocasní +<adj> +<nt> +<pl> +<acc>
+ocasní +<adj> +<f> +<sg> +<voc>
+ocasní +<adj> +<nt> +<pl> +<nom>
+ocasní +<adj> +<mi> +<pl> +<nom>
+ocasní +<adj> +<f> +<pl> +<nom>
+ocasní +<adj> +<mi> +<sg> +<nom>
+jazz +<n> +<mi> +<sg> +<acc>
+jazz +<n> +<mi> +<sg> +<nom>
+sametový +<adj> +<sint> +<mi> +<pl> +<nom>
+sametový +<adj> +<sint> +<f> +<sg> +<loc>
+sametový +<adj> +<sint> +<mi> +<pl> +<acc>
+sametový +<adj> +<sint> +<ma> +<pl> +<acc>
+sametový +<adj> +<sint> +<f> +<sg> +<dat>
+sametový +<adj> +<sint> +<f> +<pl> +<voc>
+sametový +<adj> +<sint> +<mi> +<pl> +<voc>
+sametový +<adj> +<sint> +<f> +<pl> +<acc>
+sametový +<adj> +<sint> +<nt> +<sg> +<nom>
+sametový +<adj> +<sint> +<f> +<pl> +<nom>
+sametový +<adj> +<sint> +<f> +<sg> +<gen>
+sametový +<adj> +<sint> +<nt> +<sg> +<acc>
+sametový +<adj> +<sint> +<nt> +<sg> +<voc>
+hvězda +<n> +<f> +<pl> +<gen>
+dopravní +<adj> +<nt> +<sg> +<gen>
+dopravní +<adj> +<ma> +<sg> +<gen>
+dopravní +<adj> +<ma> +<sg> +<acc>
+dopravní +<adj> +<mi> +<sg> +<gen>
+odolnost +<n> +<f> +<sg> +<nom>
+odolnost +<n> +<f> +<sg> +<acc>
+nástup +<n> +<mi> +<sg> +<acc>
+nástup +<n> +<mi> +<sg> +<nom>
+farní +<adj> +<ma> +<sg> +<nom>
+farní +<adj> +<mi> +<pl> +<nom>
+farní +<adj> +<f> +<sg> +<voc>
+farní +<adj> +<mi> +<sg> +<acc>
+farní +<adj> +<nt> +<sg> +<nom>
+farní +<adj> +<mi> +<sg> +<nom>
+farní +<adj> +<mi> +<sg> +<voc>
+farní +<adj> +<f> +<sg> +<loc>
+farní +<adj> +<f> +<pl> +<acc>
+farní +<adj> +<f> +<sg> +<nom>
+farní +<adj> +<ma> +<sg> +<voc>
+farní +<adj> +<nt> +<pl> +<voc>
+farní +<adj> +<nt> +<sg> +<voc>
+farní +<adj> +<f> +<pl> +<voc>
+farní +<adj> +<mi> +<pl> +<voc>
+farní +<adj> +<nt> +<sg> +<acc>
+farní +<adj> +<ma> +<pl> +<acc>
+farní +<adj> +<ma> +<pl> +<voc>
+farní +<adj> +<f> +<pl> +<nom>
+farní +<adj> +<ma> +<pl> +<nom>
+farní +<adj> +<f> +<sg> +<ins>
+farní +<adj> +<f> +<sg> +<gen>
+farní +<adj> +<mi> +<pl> +<acc>
+farní +<adj> +<nt> +<pl> +<nom>
+farní +<adj> +<nt> +<pl> +<acc>
+farní +<adj> +<f> +<sg> +<dat>
+farní +<adj> +<f> +<sg> +<acc>
+zvuk +<n> +<mi> +<sg> +<nom>
+zvuk +<n> +<mi> +<sg> +<acc>
+renezance +<n> +<f> +<sg> +<gen>
+renezance +<n> +<f> +<pl> +<acc>
+renezance +<n> +<f> +<pl> +<nom>
+renezance +<n> +<f> +<sg> +<nom>
+znamenat +<vblex> +<impf> +<past> +<nt> +<sg>
+znak +<n> +<mi> +<sg> +<ins>
+měřit +<vblex> +<impf> +<pres> +<p3> +<sg>
+měřit +<vblex> +<impf> +<pres> +<p3> +<pl>
+přesný +<adj> +<sint> +<f> +<pl> +<nom>
+přesný +<adj> +<sint> +<f> +<sg> +<loc>
+přesný +<adj> +<sint> +<nt> +<sg> +<acc>
+přesný +<adj> +<sint> +<nt> +<sg> +<voc>
+přesný +<adj> +<sint> +<mi> +<pl> +<acc>
+přesný +<adj> +<sint> +<mi> +<pl> +<voc>
+přesný +<adj> +<sint> +<f> +<pl> +<voc>
+přesný +<adj> +<sint> +<nt> +<sg> +<nom>
+přesný +<adj> +<sint> +<f> +<pl> +<acc>
+přesný +<adj> +<sint> +<f> +<sg> +<dat>
+přesný +<adj> +<sint> +<ma> +<pl> +<acc>
+přesný +<adj> +<sint> +<f> +<sg> +<gen>
+přesný +<adj> +<sint> +<mi> +<pl> +<nom>
+bratřit +<vblex> +<impf> +<imp> +<p2> +<sg>
+bratr +<n> +<ma> +<pl> +<nom>
+bratr +<n> +<ma> +<pl> +<voc>
+hnát +<vblex> +<impf> +<pres> +<p1> +<sg>
+žena +<n> +<f> +<sg> +<acc>
+krajní +<adj> +<f> +<pl> +<voc>
+krajní +<adj> +<mi> +<pl> +<voc>
+krajní +<adj> +<ma> +<sg> +<nom>
+krajní +<adj> +<nt> +<sg> +<nom>
+krajní +<adj> +<mi> +<pl> +<nom>
+krajní +<adj> +<mi> +<sg> +<acc>
+krajní +<adj> +<nt> +<pl> +<acc>
+krajní +<adj> +<ma> +<pl> +<acc>
+krajní +<adj> +<f> +<sg> +<dat>
+krajní +<adj> +<mi> +<pl> +<acc>
+krajní +<adj> +<f> +<sg> +<loc>
+krajní +<adj> +<ma> +<pl> +<nom>
+krajní +<adj> +<ma> +<sg> +<voc>
+krajní +<adj> +<f> +<sg> +<gen>
+krajní +<adj> +<mi> +<sg> +<nom>
+krajní +<adj> +<f> +<sg> +<ins>
+krajní +<adj> +<nt> +<sg> +<voc>
+krajní +<adj> +<f> +<sg> +<acc>
+krajní +<adj> +<f> +<pl> +<acc>
+krajní +<adj> +<f> +<sg> +<nom>
+krajní +<adj> +<mi> +<sg> +<voc>
+krajní +<adj> +<ma> +<pl> +<voc>
+krajní +<adj> +<nt> +<pl> +<voc>
+krajní +<adj> +<f> +<pl> +<nom>
+krajní +<adj> +<nt> +<pl> +<nom>
+krajní +<adj> +<f> +<sg> +<voc>
+krajní +<adj> +<nt> +<sg> +<acc>
+nazývat +<vblex> +<impf> +<pres> +<p3> +<pl>
+hokej +<n> +<mi> +<sg> +<gen>
+hokej +<n> +<mi> +<pl> +<voc>
+hokej +<n> +<mi> +<pl> +<nom>
+hokej +<n> +<mi> +<pl> +<acc>
+apoštol +<n> +<ma> +<pl> +<gen>
+válečný +<adj> +<sint> +<f> +<pl> +<loc>
+válečný +<adj> +<sint> +<ma> +<pl> +<gen>
+válečný +<adj> +<sint> +<ma> +<pl> +<loc>
+válečný +<adj> +<sint> +<mi> +<pl> +<loc>
+válečný +<adj> +<sint> +<nt> +<pl> +<gen>
+válečný +<adj> +<sint> +<f> +<pl> +<gen>
+válečný +<adj> +<sint> +<mi> +<pl> +<gen>
+válečný +<adj> +<sint> +<nt> +<pl> +<loc>
+fotograf +<n> +<ma> +<sg> +<nom>
+královský +<adj> +<ma> +<pl> +<dat>
+královský +<adj> +<nt> +<sg> +<ins>
+královský +<adj> +<nt> +<pl> +<dat>
+královský +<adj> +<mi> +<pl> +<dat>
+královský +<adj> +<mi> +<sg> +<ins>
+královský +<adj> +<ma> +<sg> +<ins>
+královský +<adj> +<f> +<pl> +<dat>
+kilometr +<n> +<mi> +<sg> +<voc>
+kilometr +<n> +<mi> +<sg> +<dat>
+kilometr +<n> +<mi> +<sg> +<loc>
+kilometr +<n> +<mi> +<sg> +<gen>
+zamrzat +<vblex> +<impf> +<pres> +<p3> +<sg>
+stůl +<n> +<mi> +<sg> +<acc>
+stůl +<n> +<mi> +<sg> +<nom>
+udávat +<vblex> +<impf> +<pres> +<p3> +<sg>
+koncert +<n> +<mi> +<sg> +<loc>
+pokrok +<n> +<mi> +<sg> +<dat>
+pokrok +<n> +<mi> +<sg> +<gen>
+pokrok +<n> +<mi> +<sg> +<loc>
+pokrok +<n> +<mi> +<sg> +<voc>
+hráz +<n> +<f> +<sg> +<nom>
+hráz +<n> +<f> +<sg> +<acc>
+deník +<n> +<mi> +<sg> +<gen>
+deník +<n> +<mi> +<sg> +<loc>
+deník +<n> +<mi> +<sg> +<dat>
+deník +<n> +<mi> +<sg> +<voc>
+pohár +<n> +<mi> +<pl> +<gen>
+instalovat +<vblex> +<impf> +<pp> +<impers> +<m> +<sg>
+instalovat +<vblex> +<impf> +<pp> +<m> +<sg>
+konkrétní +<adj> +<mi> +<sg> +<ins>
+konkrétní +<adj> +<ma> +<sg> +<loc>
+konkrétní +<adj> +<ma> +<pl> +<dat>
+konkrétní +<adj> +<ma> +<sg> +<ins>
+konkrétní +<adj> +<mi> +<pl> +<dat>
+konkrétní +<adj> +<nt> +<sg> +<loc>
+konkrétní +<adj> +<nt> +<sg> +<ins>
+konkrétní +<adj> +<mi> +<sg> +<loc>
+konkrétní +<adj> +<f> +<pl> +<dat>
+konkrétní +<adj> +<nt> +<pl> +<dat>
+krátký +<adj> +<ma> +<sg> +<loc>
+krátký +<adj> +<sint> +<ma> +<sg> +<loc>
+krátký +<adj> +<mi> +<sg> +<loc>
+krátký +<adj> +<sint> +<mi> +<sg> +<loc>
+krátký +<adj> +<nt> +<sg> +<loc>
+krátký +<adj> +<sint> +<nt> +<sg> +<loc>
+přijít +<vblex> +<perf> +<past> +<m> +<sg>
+katalog +<n> +<mi> +<sg> +<gen>
+katalog +<n> +<mi> +<sg> +<dat>
+katalog +<n> +<mi> +<sg> +<loc>
+katalog +<n> +<mi> +<sg> +<voc>
+pokoj +<n> +<mi> +<sg> +<acc>
+pokoj +<n> +<mi> +<sg> +<nom>
+moderní +<adj> +<ma> +<pl> +<dat>
+moderní +<adj> +<mi> +<pl> +<dat>
+moderní +<adj> +<nt> +<sg> +<loc>
+moderní +<adj> +<mi> +<sg> +<loc>
+moderní +<adj> +<nt> +<sg> +<ins>
+moderní +<adj> +<ma> +<sg> +<loc>
+moderní +<adj> +<ma> +<sg> +<ins>
+moderní +<adj> +<f> +<pl> +<dat>
+moderní +<adj> +<nt> +<pl> +<dat>
+moderní +<adj> +<mi> +<sg> +<ins>
+galerie +<n> +<f> +<sg> +<loc>
+galerie +<n> +<f> +<sg> +<dat>
+galerie +<n> +<f> +<sg> +<acc>
+vysílat +<vblex> +<impf> +<inf>
+okamžik +<n> +<mi> +<sg> +<loc>
+okamžik +<n> +<mi> +<sg> +<voc>
+okamžik +<n> +<mi> +<sg> +<dat>
+okamžik +<n> +<mi> +<sg> +<gen>
+prefektura +<n> +<f> +<sg> +<nom>
+led +<n> +<mi> +<sg> +<dat>
+led +<n> +<mi> +<sg> +<gen>
+led +<n> +<mi> +<sg> +<loc>
+konstantní +<adj> +<f> +<pl> +<acc>
+konstantní +<adj> +<nt> +<pl> +<nom>
+konstantní +<adj> +<nt> +<pl> +<voc>
+konstantní +<adj> +<ma> +<sg> +<nom>
+konstantní +<adj> +<nt> +<sg> +<nom>
+konstantní +<adj> +<f> +<sg> +<dat>
+konstantní +<adj> +<nt> +<pl> +<acc>
+konstantní +<adj> +<mi> +<sg> +<nom>
+konstantní +<adj> +<ma> +<sg> +<voc>
+konstantní +<adj> +<mi> +<sg> +<acc>
+konstantní +<adj> +<ma> +<pl> +<voc>
+konstantní +<adj> +<mi> +<pl> +<nom>
+konstantní +<adj> +<nt> +<sg> +<acc>
+konstantní +<adj> +<f> +<sg> +<nom>
+konstantní +<adj> +<f> +<sg> +<voc>
+konstantní +<adj> +<f> +<pl> +<voc>
+konstantní +<adj> +<f> +<sg> +<gen>
+konstantní +<adj> +<mi> +<pl> +<voc>
+konstantní +<adj> +<mi> +<sg> +<voc>
+konstantní +<adj> +<f> +<pl> +<nom>
+konstantní +<adj> +<f> +<sg> +<acc>
+konstantní +<adj> +<f> +<sg> +<ins>
+konstantní +<adj> +<ma> +<pl> +<nom>
+konstantní +<adj> +<ma> +<pl> +<acc>
+konstantní +<adj> +<mi> +<pl> +<acc>
+konstantní +<adj> +<nt> +<sg> +<voc>
+konstantní +<adj> +<f> +<sg> +<loc>
+fungovat +<vblex> +<impf> +<past> +<m> +<sg>
+kyslík +<n> +<mi> +<sg> +<gen>
+kyslík +<n> +<mi> +<sg> +<dat>
+kyslík +<n> +<mi> +<sg> +<loc>
+kyslík +<n> +<mi> +<sg> +<voc>
+kopie +<n> +<f> +<pl> +<gen>
+kopie +<n> +<f> +<sg> +<ins>
+zbarvený +<adj> +<sint> +<f> +<sg> +<loc>
+zbarvený +<adj> +<sint> +<nt> +<sg> +<nom>
+zbarvený +<adj> +<sint> +<nt> +<sg> +<voc>
+zbarvený +<adj> +<sint> +<f> +<pl> +<nom>
+zbarvený +<adj> +<sint> +<f> +<pl> +<acc>
+zbarvený +<adj> +<sint> +<nt> +<sg> +<acc>
+zbarvený +<adj> +<sint> +<mi> +<pl> +<voc>
+zbarvený +<adj> +<sint> +<mi> +<pl> +<acc>
+zbarvený +<adj> +<sint> +<f> +<sg> +<dat>
+zbarvený +<adj> +<sint> +<f> +<sg> +<gen>
+zbarvený +<adj> +<sint> +<f> +<pl> +<voc>
+zbarvený +<adj> +<sint> +<mi> +<pl> +<nom>
+zbarvený +<adj> +<sint> +<ma> +<pl> +<acc>
+vstup +<n> +<mi> +<pl> +<nom>
+vstup +<n> +<mi> +<pl> +<voc>
+vstup +<n> +<mi> +<pl> +<ins>
+vstup +<n> +<mi> +<pl> +<acc>
+sovětský +<adj> +<nt> +<pl> +<dat>
+sovětský +<adj> +<ma> +<pl> +<dat>
+sovětský +<adj> +<mi> +<pl> +<dat>
+sovětský +<adj> +<nt> +<sg> +<ins>
+sovětský +<adj> +<ma> +<sg> +<ins>
+sovětský +<adj> +<mi> +<sg> +<ins>
+sovětský +<adj> +<f> +<pl> +<dat>
+kosmický +<adj> +<f> +<pl> +<acc>
+kosmický +<adj> +<nt> +<sg> +<voc>
+kosmický +<adj> +<f> +<pl> +<nom>
+kosmický +<adj> +<f> +<sg> +<dat>
+kosmický +<adj> +<nt> +<sg> +<nom>
+kosmický +<adj> +<mi> +<pl> +<acc>
+kosmický +<adj> +<nt> +<sg> +<acc>
+kosmický +<adj> +<f> +<sg> +<loc>
+kosmický +<adj> +<mi> +<pl> +<nom>
+kosmický +<adj> +<ma> +<pl> +<acc>
+kosmický +<adj> +<f> +<sg> +<gen>
+kosmický +<adj> +<mi> +<pl> +<voc>
+kosmický +<adj> +<f> +<pl> +<voc>
+značný +<adj> +<sint> +<f> +<sg> +<nom>
+značný +<adj> +<sint> +<nt> +<pl> +<nom>
+značný +<adj> +<sint> +<f> +<sg> +<voc>
+značný +<adj> +<sint> +<nt> +<pl> +<voc>
+značný +<adj> +<sint> +<nt> +<pl> +<acc>
+výzbroj +<n> +<f> +<sg> +<nom>
+výzbroj +<n> +<f> +<sg> +<acc>
+druhý +<adj> +<ma> +<sg> +<dat>
+druhý +<adj> +<mi> +<sg> +<dat>
+druhý +<adj> +<nt> +<sg> +<dat>
+československý +<adj> +<ma> +<pl> +<loc>
+československý +<adj> +<nt> +<pl> +<gen>
+československý +<adj> +<mi> +<pl> +<gen>
+československý +<adj> +<f> +<pl> +<loc>
+československý +<adj> +<ma> +<pl> +<gen>
+československý +<adj> +<f> +<pl> +<gen>
+československý +<adj> +<mi> +<pl> +<loc>
+československý +<adj> +<nt> +<pl> +<loc>
+rozcestí +<n> +<mi> +<pl> +<acc>
+rozcestí +<n> +<mi> +<sg> +<loc>
+rozcestí +<n> +<mi> +<sg> +<voc>
+rozcestí +<n> +<mi> +<sg> +<nom>
+rozcestí +<n> +<mi> +<pl> +<gen>
+rozcestí +<n> +<mi> +<pl> +<nom>
+rozcestí +<n> +<mi> +<sg> +<gen>
+rozcestí +<n> +<mi> +<sg> +<dat>
+rozcestí +<n> +<mi> +<sg> +<acc>
+rozcestí +<n> +<mi> +<pl> +<voc>
+mluvit +<vblex> +<impf> +<pprs> +<adj> +<nt> +<pl> +<loc>
+mluvit +<vblex> +<impf> +<pprs> +<adj> +<mi> +<pl> +<loc>
+mluvit +<vblex> +<impf> +<pprs> +<adj> +<f> +<pl> +<loc>
+mluvit +<vblex> +<impf> +<pprs> +<adj> +<ma> +<pl> +<gen>
+mluvit +<vblex> +<impf> +<pprs> +<adj> +<nt> +<pl> +<gen>
+mluvit +<vblex> +<impf> +<pprs> +<adj> +<f> +<pl> +<gen>
+mluvit +<vblex> +<impf> +<pprs> +<adj> +<mi> +<pl> +<gen>
+mluvit +<vblex> +<impf> +<pprs> +<adj> +<ma> +<pl> +<loc>
+provozovat +<vblex> +<impf> +<past> +<nt> +<pl>
+provozovat +<vblex> +<impf> +<past> +<f> +<sg>
+chráněný +<adj> +<sint> +<nt> +<pl> +<nom>
+chráněný +<adj> +<sint> +<nt> +<pl> +<acc>
+chráněný +<adj> +<sint> +<f> +<sg> +<nom>
+chráněný +<adj> +<sint> +<f> +<sg> +<voc>
+chráněný +<adj> +<sint> +<nt> +<pl> +<voc>
+dráha +<n> +<f> +<sg> +<acc>
+park +<n> +<mi> +<sg> +<ins>
+vymezený +<adj> +<sint> +<ma> +<pl> +<nom>
+vymezený +<adj> +<sint> +<ma> +<pl> +<voc>
+ústředí +<n> +<mi> +<sg> +<loc>
+ústředí +<n> +<mi> +<pl> +<voc>
+ústředí +<n> +<mi> +<pl> +<acc>
+ústředí +<n> +<mi> +<sg> +<gen>
+ústředí +<n> +<mi> +<sg> +<dat>
+ústředí +<n> +<mi> +<sg> +<voc>
+ústředí +<n> +<mi> +<sg> +<acc>
+ústředí +<n> +<mi> +<sg> +<nom>
+ústředí +<n> +<mi> +<pl> +<gen>
+ústředí +<n> +<mi> +<pl> +<nom>
+barokní +<adj> +<ma> +<sg> +<gen>
+barokní +<adj> +<ma> +<sg> +<acc>
+barokní +<adj> +<mi> +<sg> +<gen>
+barokní +<adj> +<nt> +<sg> +<gen>
+rozvíjet +<vblex> +<impf> +<past> +<nt> +<pl>
+rozvíjet +<vblex> +<impf> +<past> +<f> +<sg>
+ukazovat +<vblex> +<impf> +<pres> +<p3> +<pl>
+výstava +<n> +<f> +<pl> +<loc>
+výstav +<n> +<mi> +<pl> +<loc>
+pruský +<adj> +<ma> +<sg> +<nom>
+pruský +<adj> +<mi> +<sg> +<acc>
+pruský +<adj> +<ma> +<sg> +<voc>
+pruský +<adj> +<mi> +<sg> +<voc>
+pruský +<adj> +<mi> +<sg> +<nom>
+rudý +<adj> +<sint> +<f> +<sg> +<ins>
+rudý +<adj> +<sint> +<f> +<sg> +<acc>
+ruda +<n> +<f> +<sg> +<ins>
+podmínka +<n> +<f> +<pl> +<ins>
+koruna +<n> +<f> +<sg> +<ins>
+pád +<n> +<mi> +<sg> +<nom>
+pád +<n> +<mi> +<sg> +<acc>
+novela +<n> +<f> +<sg> +<nom>
+bok +<n> +<mi> +<sg> +<gen>
+bok +<n> +<mi> +<sg> +<voc>
+bok +<n> +<mi> +<sg> +<dat>
+bok +<n> +<mi> +<sg> +<loc>
+údaj +<n> +<mi> +<pl> +<voc>
+údaj +<n> +<mi> +<pl> +<nom>
+údaj +<n> +<mi> +<pl> +<acc>
+údaj +<n> +<mi> +<sg> +<gen>
+bezpečný +<adj> +<sint> +<mi> +<pl> +<voc>
+bezpečný +<adj> +<sint> +<f> +<pl> +<voc>
+bezpečný +<adj> +<sint> +<mi> +<pl> +<nom>
+bezpečný +<adj> +<sint> +<f> +<pl> +<acc>
+bezpečný +<adj> +<sint> +<f> +<pl> +<nom>
+bezpečný +<adj> +<sint> +<f> +<sg> +<loc>
+bezpečný +<adj> +<sint> +<ma> +<pl> +<acc>
+bezpečný +<adj> +<sint> +<f> +<sg> +<gen>
+bezpečný +<adj> +<sint> +<f> +<sg> +<dat>
+bezpečný +<adj> +<sint> +<mi> +<pl> +<acc>
+bezpečný +<adj> +<sint> +<nt> +<sg> +<voc>
+bezpečný +<adj> +<sint> +<nt> +<sg> +<acc>
+bezpečný +<adj> +<sint> +<nt> +<sg> +<nom>
+vesnický +<adj> +<mi> +<pl> +<acc>
+vesnický +<adj> +<f> +<pl> +<acc>
+vesnický +<adj> +<mi> +<pl> +<voc>
+vesnický +<adj> +<f> +<sg> +<dat>
+vesnický +<adj> +<f> +<pl> +<voc>
+vesnický +<adj> +<nt> +<sg> +<nom>
+vesnický +<adj> +<f> +<pl> +<nom>
+vesnický +<adj> +<nt> +<sg> +<acc>
+vesnický +<adj> +<ma> +<pl> +<acc>
+vesnický +<adj> +<f> +<sg> +<loc>
+vesnický +<adj> +<mi> +<pl> +<nom>
+vesnický +<adj> +<nt> +<sg> +<voc>
+vesnický +<adj> +<f> +<sg> +<gen>
+bod +<n> +<mi> +<sg> +<ins>
+trest +<n> +<mi> +<sg> +<loc>
+trest +<n> +<mi> +<sg> +<gen>
+trest +<n> +<mi> +<sg> +<dat>
+jméno +<n> +<nt> +<pl> +<voc>
+jméno +<n> +<nt> +<pl> +<nom>
+jméno +<n> +<nt> +<sg> +<gen>
+jméno +<n> +<nt> +<pl> +<acc>
+jaderný +<adj> +<sint> +<mi> +<pl> +<loc>
+jaderný +<adj> +<sint> +<mi> +<pl> +<gen>
+jaderný +<adj> +<sint> +<ma> +<pl> +<gen>
+jaderný +<adj> +<sint> +<nt> +<pl> +<gen>
+jaderný +<adj> +<sint> +<f> +<pl> +<gen>
+jaderný +<adj> +<sint> +<f> +<pl> +<loc>
+jaderný +<adj> +<sint> +<nt> +<pl> +<loc>
+jaderný +<adj> +<sint> +<ma> +<pl> +<loc>
+osada +<n> +<f> +<sg> +<loc>
+osada +<n> +<f> +<sg> +<dat>
+častý +<adj> +<sint> +<nt> +<sg> +<voc>
+častý +<adj> +<sint> +<f> +<pl> +<nom>
+častý +<adj> +<sint> +<f> +<sg> +<dat>
+častý +<adj> +<sint> +<ma> +<pl> +<acc>
+častý +<adj> +<sint> +<mi> +<pl> +<acc>
+častý +<adj> +<sint> +<f> +<pl> +<acc>
+častý +<adj> +<sint> +<mi> +<pl> +<nom>
+častý +<adj> +<sint> +<mi> +<pl> +<voc>
+častý +<adj> +<sint> +<f> +<sg> +<gen>
+častý +<adj> +<sint> +<f> +<pl> +<voc>
+častý +<adj> +<sint> +<nt> +<sg> +<nom>
+častý +<adj> +<sint> +<nt> +<sg> +<acc>
+častý +<adj> +<sint> +<f> +<sg> +<loc>
+plánovat +<vblex> +<impf> +<pp> +<impers> +<nt> +<sg>
+plánovat +<vblex> +<impf> +<pp> +<nt> +<sg>
+pracovní +<adj> +<mi> +<pl> +<voc>
+pracovní +<adj> +<mi> +<sg> +<voc>
+pracovní +<adj> +<ma> +<pl> +<acc>
+pracovní +<adj> +<f> +<sg> +<voc>
+pracovní +<adj> +<ma> +<pl> +<nom>
+pracovní +<adj> +<ma> +<sg> +<voc>
+pracovní +<adj> +<f> +<pl> +<acc>
+pracovní +<adj> +<nt> +<sg> +<acc>
+pracovní +<adj> +<nt> +<pl> +<acc>
+pracovní +<adj> +<mi> +<pl> +<nom>
+pracovní +<adj> +<f> +<sg> +<nom>
+pracovní +<adj> +<f> +<sg> +<dat>
+pracovní +<adj> +<f> +<sg> +<acc>
+pracovní +<adj> +<f> +<sg> +<ins>
+pracovní +<adj> +<nt> +<pl> +<nom>
+pracovní +<adj> +<nt> +<sg> +<voc>
+pracovní +<adj> +<ma> +<pl> +<voc>
+pracovní +<adj> +<f> +<pl> +<voc>
+pracovní +<adj> +<nt> +<pl> +<voc>
+pracovní +<adj> +<f> +<sg> +<gen>
+pracovní +<adj> +<ma> +<sg> +<nom>
+pracovní +<adj> +<f> +<sg> +<loc>
+pracovní +<adj> +<mi> +<sg> +<acc>
+pracovní +<adj> +<f> +<pl> +<nom>
+pracovní +<adj> +<mi> +<sg> +<nom>
+pracovní +<adj> +<nt> +<sg> +<nom>
+pracovní +<adj> +<mi> +<pl> +<acc>
+forma +<n> +<f> +<sg> +<ins>
+zmínka +<n> +<f> +<sg> +<nom>
+zůstat +<vblex> +<perf> +<fut> +<p3> +<sg>
+říční +<adj> +<ma> +<pl> +<dat>
+říční +<adj> +<mi> +<pl> +<dat>
+říční +<adj> +<ma> +<sg> +<loc>
+říční +<adj> +<nt> +<pl> +<dat>
+říční +<adj> +<nt> +<sg> +<loc>
+říční +<adj> +<nt> +<sg> +<ins>
+říční +<adj> +<f> +<pl> +<dat>
+říční +<adj> +<ma> +<sg> +<ins>
+říční +<adj> +<mi> +<sg> +<ins>
+říční +<adj> +<mi> +<sg> +<loc>
+záznam +<n> +<mi> +<sg> +<nom>
+záznam +<n> +<mi> +<sg> +<acc>
+skupina +<n> +<f> +<pl> +<ins>
+zaměřený +<adj> +<sint> +<ma> +<pl> +<voc>
+zaměřit +<vblex> +<perf> +<ger> +<nt> +<pl> +<gen>
+zaměřit +<vblex> +<perf> +<ger> +<nt> +<sg> +<voc>
+zaměřit +<vblex> +<perf> +<ger> +<nt> +<sg> +<acc>
+zaměřit +<vblex> +<perf> +<ger> +<nt> +<pl> +<voc>
+zaměřit +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<voc>
+zaměřit +<vblex> +<perf> +<ger> +<nt> +<sg> +<nom>
+zaměřit +<vblex> +<perf> +<ger> +<nt> +<pl> +<acc>
+zaměřit +<vblex> +<perf> +<ger> +<nt> +<pl> +<nom>
+zaměřit +<vblex> +<perf> +<ger> +<nt> +<sg> +<gen>
+zaměřit +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<nom>
+zaměřený +<adj> +<sint> +<ma> +<pl> +<nom>
+zaměřit +<vblex> +<perf> +<ger> +<nt> +<sg> +<dat>
+zaměřit +<vblex> +<perf> +<ger> +<nt> +<sg> +<loc>
+pohár +<n> +<mi> +<pl> +<loc>
+partner +<n> +<ma> +<sg> +<ins>
+vydávat +<vblex> +<impf> +<past> +<m> +<sg>
+osobnost +<n> +<f> +<pl> +<ins>
+výstav +<n> +<mi> +<pl> +<nom>
+výstav +<n> +<mi> +<pl> +<acc>
+výstava +<n> +<f> +<pl> +<nom>
+výstav +<n> +<mi> +<pl> +<ins>
+výstava +<n> +<f> +<pl> +<voc>
+výstava +<n> +<f> +<pl> +<acc>
+výstav +<n> +<mi> +<pl> +<voc>
+výstava +<n> +<f> +<sg> +<gen>
+soutěžit +<vblex> +<impf> +<imp> +<emph> +<p2> +<sg>
+soutěž +<n> +<f> +<sg> +<acc>
+soutěž +<n> +<f> +<sg> +<nom>
+soutěžit +<vblex> +<impf> +<imp> +<p2> +<sg>
+oslabený +<adj> +<sint> +<ma> +<pl> +<nom>
+oslabený +<adj> +<sint> +<ma> +<pl> +<voc>
+advokátní +<adj> +<mi> +<sg> +<voc>
+advokátní +<adj> +<mi> +<pl> +<nom>
+advokátní +<adj> +<f> +<pl> +<voc>
+advokátní +<adj> +<f> +<pl> +<acc>
+advokátní +<adj> +<f> +<sg> +<dat>
+advokátní +<adj> +<ma> +<pl> +<nom>
+advokátní +<adj> +<nt> +<sg> +<acc>
+advokátní +<adj> +<f> +<sg> +<voc>
+advokátní +<adj> +<ma> +<sg> +<nom>
+advokátní +<adj> +<ma> +<sg> +<voc>
+advokátní +<adj> +<f> +<sg> +<gen>
+advokátní +<adj> +<nt> +<pl> +<acc>
+advokátní +<adj> +<f> +<sg> +<loc>
+advokátní +<adj> +<f> +<sg> +<nom>
+advokátní +<adj> +<nt> +<pl> +<nom>
+advokátní +<adj> +<nt> +<sg> +<nom>
+advokátní +<adj> +<ma> +<pl> +<acc>
+advokátní +<adj> +<nt> +<sg> +<voc>
+advokátní +<adj> +<f> +<pl> +<nom>
+advokátní +<adj> +<f> +<sg> +<acc>
+advokátní +<adj> +<mi> +<pl> +<voc>
+advokátní +<adj> +<nt> +<pl> +<voc>
+advokátní +<adj> +<mi> +<sg> +<nom>
+advokátní +<adj> +<mi> +<sg> +<acc>
+advokátní +<adj> +<ma> +<pl> +<voc>
+advokátní +<adj> +<mi> +<pl> +<acc>
+advokátní +<adj> +<f> +<sg> +<ins>
+zaniknout +<vblex> +<impf> +<past> +<f> +<pl>
+zaniknout +<vblex> +<impf> +<past> +<mi> +<pl>
+český +<adj> +<mi> +<pl> +<dat>
+český +<adj> +<ma> +<pl> +<dat>
+český +<adj> +<mi> +<sg> +<ins>
+český +<adj> +<nt> +<pl> +<dat>
+český +<adj> +<nt> +<sg> +<ins>
+český +<adj> +<ma> +<sg> +<ins>
+český +<adj> +<f> +<pl> +<dat>
+norma +<n> +<f> +<sg> +<nom>
+podíl +<n> +<mi> +<sg> +<loc>
+podíl +<n> +<mi> +<sg> +<gen>
+podíl +<n> +<mi> +<sg> +<voc>
+podíl +<n> +<mi> +<sg> +<dat>
+rozměr +<n> +<mi> +<pl> +<acc>
+rozměr +<n> +<mi> +<pl> +<nom>
+rozměr +<n> +<mi> +<pl> +<voc>
+rozměr +<n> +<mi> +<pl> +<ins>
+vytvořit +<vblex> +<perf> +<pp> +<impers> +<nt> +<sg>
+vytvořený +<adj> +<sint> +<cpd>
+gotický +<adj> +<mi> +<pl> +<acc>
+gotický +<adj> +<nt> +<sg> +<nom>
+gotický +<adj> +<f> +<sg> +<gen>
+gotický +<adj> +<nt> +<sg> +<acc>
+gotický +<adj> +<f> +<pl> +<voc>
+gotický +<adj> +<f> +<sg> +<dat>
+gotický +<adj> +<mi> +<pl> +<voc>
+gotický +<adj> +<mi> +<pl> +<nom>
+gotický +<adj> +<ma> +<pl> +<acc>
+gotický +<adj> +<f> +<pl> +<acc>
+gotický +<adj> +<f> +<sg> +<loc>
+gotický +<adj> +<nt> +<sg> +<voc>
+gotický +<adj> +<f> +<pl> +<nom>
+zůstat +<vblex> +<perf> +<past> +<f> +<sg>
+zůstat +<vblex> +<perf> +<past> +<nt> +<pl>
+literární +<adj> +<nt> +<pl> +<acc>
+literární +<adj> +<nt> +<sg> +<nom>
+literární +<adj> +<f> +<sg> +<dat>
+literární +<adj> +<mi> +<pl> +<nom>
+literární +<adj> +<f> +<sg> +<gen>
+literární +<adj> +<f> +<sg> +<voc>
+literární +<adj> +<nt> +<sg> +<acc>
+literární +<adj> +<ma> +<pl> +<voc>
+literární +<adj> +<nt> +<pl> +<nom>
+literární +<adj> +<f> +<pl> +<voc>
+literární +<adj> +<mi> +<sg> +<voc>
+literární +<adj> +<ma> +<sg> +<nom>
+literární +<adj> +<ma> +<pl> +<acc>
+literární +<adj> +<nt> +<pl> +<voc>
+literární +<adj> +<mi> +<pl> +<voc>
+literární +<adj> +<f> +<sg> +<acc>
+literární +<adj> +<ma> +<sg> +<voc>
+literární +<adj> +<f> +<sg> +<ins>
+literární +<adj> +<f> +<pl> +<acc>
+literární +<adj> +<ma> +<pl> +<nom>
+literární +<adj> +<mi> +<sg> +<nom>
+literární +<adj> +<mi> +<pl> +<acc>
+literární +<adj> +<f> +<pl> +<nom>
+literární +<adj> +<nt> +<sg> +<voc>
+literární +<adj> +<mi> +<sg> +<acc>
+literární +<adj> +<f> +<sg> +<nom>
+literární +<adj> +<f> +<sg> +<loc>
+disk +<n> +<mi> +<sg> +<acc>
+disk +<n> +<mi> +<sg> +<nom>
+velký +<adj> +<f> +<sg> +<ins>
+velký +<adj> +<sint> +<f> +<sg> +<acc>
+velký +<adj> +<f> +<sg> +<acc>
+velký +<adj> +<sint> +<f> +<sg> +<ins>
+kultura +<n> +<f> +<pl> +<acc>
+kultura +<n> +<f> +<pl> +<voc>
+kultura +<n> +<f> +<pl> +<nom>
+kultura +<n> +<f> +<sg> +<gen>
+televize +<n> +<f> +<sg> +<nom>
+televize +<n> +<f> +<sg> +<gen>
+televize +<n> +<f> +<pl> +<acc>
+televize +<n> +<f> +<pl> +<nom>
+profesionální +<adj> +<mi> +<pl> +<loc>
+profesionální +<adj> +<ma> +<pl> +<loc>
+profesionální +<adj> +<ma> +<pl> +<gen>
+profesionální +<adj> +<mi> +<pl> +<gen>
+profesionální +<adj> +<f> +<pl> +<loc>
+profesionální +<adj> +<nt> +<pl> +<gen>
+profesionální +<adj> +<nt> +<pl> +<loc>
+profesionální +<adj> +<f> +<pl> +<gen>
+sféra +<n> +<f> +<pl> +<voc>
+sféra +<n> +<f> +<pl> +<nom>
+sféra +<n> +<f> +<pl> +<acc>
+sféra +<n> +<f> +<sg> +<gen>
+muzeum +<n> +<nt> +<sg> +<voc>
+muzeum +<n> +<nt> +<sg> +<acc>
+muzeum +<n> +<nt> +<sg> +<nom>
+hlavní +<adj> +<mi> +<pl> +<loc>
+hlavní +<adj> +<mi> +<pl> +<gen>
+hlavní +<adj> +<nt> +<pl> +<loc>
+hlavní +<adj> +<ma> +<pl> +<loc>
+hlavní +<adj> +<nt> +<pl> +<gen>
+hlavní +<adj> +<f> +<pl> +<gen>
+hlavní +<adj> +<f> +<pl> +<loc>
+hlavní +<adj> +<ma> +<pl> +<gen>
+rekord +<n> +<mi> +<sg> +<nom>
+rekord +<n> +<mi> +<sg> +<acc>
+starost +<n> +<f> +<pl> +<voc>
+starost +<n> +<f> +<sg> +<gen>
+starost +<n> +<f> +<sg> +<dat>
+starost +<n> +<f> +<pl> +<acc>
+starost +<n> +<f> +<sg> +<loc>
+starost +<n> +<f> +<sg> +<voc>
+starost +<n> +<f> +<pl> +<nom>
+červenec +<n> +<mi> +<sg> +<acc>
+červenec +<n> +<mi> +<sg> +<nom>
+uplatňovat +<vblex> +<impf> +<pres> +<p3> +<sg>
+uplatňovat +<vblex> +<impf> +<tgv> +<pprs> +<mi> +<sg>
+uplatňovat +<vblex> +<impf> +<tgv> +<pprs> +<ma> +<sg>
+zjistit +<vblex> +<perf> +<ger> +<nt> +<sg> +<voc>
+zjistit +<vblex> +<perf> +<ger> +<nt> +<pl> +<acc>
+zjistit +<vblex> +<perf> +<ger> +<nt> +<sg> +<acc>
+zjistit +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<voc>
+zjistit +<vblex> +<perf> +<ger> +<nt> +<sg> +<loc>
+zjistit +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<nom>
+zjistit +<vblex> +<perf> +<ger> +<nt> +<pl> +<voc>
+zjistit +<vblex> +<perf> +<ger> +<nt> +<pl> +<nom>
+zjistit +<vblex> +<perf> +<ger> +<nt> +<pl> +<gen>
+zjistit +<vblex> +<perf> +<ger> +<nt> +<sg> +<dat>
+zjištěný +<adj> +<sint> +<ma> +<pl> +<voc>
+zjistit +<vblex> +<perf> +<ger> +<nt> +<sg> +<nom>
+zjištěný +<adj> +<sint> +<ma> +<pl> +<nom>
+zjistit +<vblex> +<perf> +<ger> +<nt> +<sg> +<gen>
+ministerstvo +<n> +<nt> +<sg> +<nom>
+ministerstvo +<n> +<nt> +<sg> +<voc>
+ministerstvo +<n> +<nt> +<sg> +<acc>
+hokej +<n> +<mi> +<sg> +<loc>
+hokej +<n> +<mi> +<pl> +<ins>
+hokej +<n> +<mi> +<sg> +<voc>
+hokej +<n> +<mi> +<sg> +<dat>
+podporovat +<vblex> +<impf> +<past> +<nt> +<pl>
+podporovat +<vblex> +<impf> +<past> +<f> +<sg>
+způsob +<n> +<mi> +<pl> +<gen>
+čelit +<vblex> +<impf> +<inf>
+ne +<adv>+stačit +<vblex> +<impf> +<past> +<f> +<sg>
+ne +<adv>+stačit +<vblex> +<impf> +<past> +<nt> +<pl>
+hladina +<n> +<f> +<sg> +<ins>
+přírodní +<adj> +<mi> +<sg> +<gen>
+přírodní +<adj> +<ma> +<sg> +<gen>
+přírodní +<adj> +<ma> +<sg> +<acc>
+přírodní +<adj> +<nt> +<sg> +<gen>
+zahájit +<vblex> +<perf> +<past> +<ma> +<pl>
+počátek +<n> +<mi> +<sg> +<dat>
+počátek +<n> +<mi> +<sg> +<voc>
+počátek +<n> +<mi> +<sg> +<loc>
+počátek +<n> +<mi> +<sg> +<gen>
+zničit +<vblex> +<perf> +<pp> +<impers> +<m> +<sg>
+syn +<n> +<ma> +<sg> +<nom>
+druh +<n> +<ma> +<sg> +<loc>
+druh +<n> +<ma> +<sg> +<voc>
+druh +<n> +<ma> +<sg> +<dat>
+mapa +<n> +<f> +<sg> +<nom>
+olomoucký +<adj> +<nt> +<sg> +<voc>
+olomoucký +<adj> +<nt> +<sg> +<acc>
+olomoucký +<adj> +<nt> +<sg> +<nom>
+olomoucký +<adj> +<f> +<pl> +<acc>
+olomoucký +<adj> +<mi> +<pl> +<voc>
+olomoucký +<adj> +<mi> +<pl> +<nom>
+olomoucký +<adj> +<ma> +<pl> +<acc>
+olomoucký +<adj> +<f> +<sg> +<loc>
+olomoucký +<adj> +<mi> +<pl> +<acc>
+olomoucký +<adj> +<f> +<sg> +<dat>
+olomoucký +<adj> +<f> +<sg> +<gen>
+olomoucký +<adj> +<f> +<pl> +<voc>
+olomoucký +<adj> +<f> +<pl> +<nom>
+závěr +<n> +<mi> +<sg> +<dat>
+závěr +<n> +<mi> +<sg> +<voc>
+závěr +<n> +<mi> +<sg> +<loc>
+závěr +<n> +<mi> +<sg> +<gen>
+studijní +<adj> +<mi> +<pl> +<loc>
+studijní +<adj> +<nt> +<pl> +<gen>
+studijní +<adj> +<ma> +<pl> +<loc>
+studijní +<adj> +<f> +<pl> +<loc>
+studijní +<adj> +<nt> +<pl> +<loc>
+studijní +<adj> +<f> +<pl> +<gen>
+studijní +<adj> +<ma> +<pl> +<gen>
+studijní +<adj> +<mi> +<pl> +<gen>
+stan +<n> +<mi> +<sg> +<voc>
+stanout +<vblex> +<perf> +<fut> +<p3> +<sg>
+paralelní +<adj> +<ma> +<sg> +<nom>
+paralelní +<adj> +<f> +<sg> +<gen>
+paralelní +<adj> +<nt> +<sg> +<acc>
+paralelní +<adj> +<f> +<pl> +<voc>
+paralelní +<adj> +<mi> +<pl> +<voc>
+paralelní +<adj> +<nt> +<sg> +<voc>
+paralelní +<adj> +<ma> +<sg> +<voc>
+paralelní +<adj> +<mi> +<sg> +<nom>
+paralelní +<adj> +<f> +<sg> +<loc>
+paralelní +<adj> +<nt> +<pl> +<acc>
+paralelní +<adj> +<mi> +<sg> +<acc>
+paralelní +<adj> +<f> +<sg> +<dat>
+paralelní +<adj> +<f> +<pl> +<nom>
+paralelní +<adj> +<nt> +<sg> +<nom>
+paralelní +<adj> +<f> +<sg> +<nom>
+paralelní +<adj> +<ma> +<pl> +<acc>
+paralelní +<adj> +<mi> +<pl> +<nom>
+paralelní +<adj> +<f> +<sg> +<acc>
+paralelní +<adj> +<f> +<sg> +<voc>
+paralelní +<adj> +<f> +<sg> +<ins>
+paralelní +<adj> +<f> +<pl> +<acc>
+paralelní +<adj> +<ma> +<pl> +<nom>
+paralelní +<adj> +<ma> +<pl> +<voc>
+paralelní +<adj> +<mi> +<sg> +<voc>
+paralelní +<adj> +<nt> +<pl> +<nom>
+paralelní +<adj> +<nt> +<pl> +<voc>
+paralelní +<adj> +<mi> +<pl> +<acc>
+tyčinka +<n> +<f> +<pl> +<voc>
+tyčinka +<n> +<f> +<pl> +<acc>
+tyčinka +<n> +<f> +<sg> +<gen>
+tyčinka +<n> +<f> +<pl> +<nom>
+zvedat +<vblex> +<impf> +<pres> +<p3> +<sg>
+půda +<n> +<f> +<sg> +<loc>
+půda +<n> +<f> +<sg> +<dat>
+
+něha +<n> +<f> +<sg> +<voc>
+hrát +<vblex> +<impf> +<tgv> +<pprs> +<mi> +<sg>
+hrát +<vblex> +<impf> +<pres> +<p3> +<sg>
+hrát +<vblex> +<impf> +<tgv> +<pprs> +<ma> +<sg>
+požádat +<vblex> +<perf> +<past> +<m> +<sg>
+vnější +<adj> +<ma> +<sg> +<loc>
+vnější +<adj> +<mi> +<pl> +<dat>
+vnější +<adj> +<f> +<pl> +<dat>
+vnější +<adj> +<ma> +<pl> +<dat>
+vnější +<adj> +<ma> +<sg> +<ins>
+vnější +<adj> +<nt> +<pl> +<dat>
+vnější +<adj> +<mi> +<sg> +<loc>
+vnější +<adj> +<nt> +<sg> +<loc>
+vnější +<adj> +<nt> +<sg> +<ins>
+vnější +<adj> +<mi> +<sg> +<ins>
+dokázat +<vblex> +<perf> +<past> +<m> +<sg>
+skotský +<adj> +<mi> +<pl> +<voc>
+skotský +<adj> +<f> +<sg> +<gen>
+skotský +<adj> +<mi> +<pl> +<acc>
+skotský +<adj> +<f> +<pl> +<acc>
+skotský +<adj> +<f> +<pl> +<voc>
+skotský +<adj> +<nt> +<sg> +<voc>
+skotský +<adj> +<nt> +<sg> +<acc>
+skotský +<adj> +<f> +<pl> +<nom>
+skotský +<adj> +<nt> +<sg> +<nom>
+skotský +<adj> +<ma> +<pl> +<acc>
+skotský +<adj> +<f> +<sg> +<dat>
+skotský +<adj> +<mi> +<pl> +<nom>
+skotský +<adj> +<f> +<sg> +<loc>
+sport +<n> +<mi> +<pl> +<loc>
+podmínka +<n> +<f> +<pl> +<gen>
+ne +<adv>+získat +<vblex> +<perf> +<past> +<m> +<sg>
+bob +<n> +<mi> +<sg> +<acc>
+bob +<n> +<mi> +<sg> +<nom>
+pražský +<adj> +<mi> +<sg> +<gen>
+pražský +<adj> +<ma> +<sg> +<gen>
+pražský +<adj> +<ma> +<sg> +<acc>
+pražský +<adj> +<nt> +<sg> +<gen>
+milovat +<vblex> +<impf> +<tgv> +<pprs> +<mi> +<sg>
+milovat +<vblex> +<impf> +<pres> +<p3> +<sg>
+milovat +<vblex> +<impf> +<tgv> +<pprs> +<ma> +<sg>
+odlišný +<adj> +<sint> +<mi> +<sg> +<acc>
+odlišný +<adj> +<sint> +<ma> +<sg> +<nom>
+odlišný +<adj> +<sint> +<ma> +<sg> +<voc>
+odlišný +<adj> +<sint> +<mi> +<sg> +<voc>
+odlišný +<adj> +<sint> +<mi> +<sg> +<nom>
+výrok +<n> +<mi> +<sg> +<acc>
+výrok +<n> +<mi> +<sg> +<nom>
+lysý +<adj> +<f> +<sg> +<gen>
+lysý +<adj> +<mi> +<pl> +<voc>
+lysý +<adj> +<nt> +<sg> +<voc>
+lysý +<adj> +<mi> +<pl> +<nom>
+lysý +<adj> +<f> +<pl> +<acc>
+lysý +<adj> +<f> +<pl> +<nom>
+lysý +<adj> +<mi> +<pl> +<acc>
+lysý +<adj> +<nt> +<sg> +<nom>
+lysý +<adj> +<nt> +<sg> +<acc>
+lysý +<adj> +<f> +<pl> +<voc>
+lysý +<adj> +<ma> +<pl> +<acc>
+lysý +<adj> +<f> +<sg> +<dat>
+lysý +<adj> +<f> +<sg> +<loc>
+kód +<n> +<mi> +<pl> +<acc>
+kód +<n> +<mi> +<pl> +<ins>
+kód +<n> +<mi> +<pl> +<nom>
+kód +<n> +<mi> +<pl> +<voc>
+obecní +<adj> +<ma> +<sg> +<voc>
+obecní +<adj> +<nt> +<sg> +<nom>
+obecní +<adj> +<mi> +<sg> +<acc>
+obecní +<adj> +<f> +<pl> +<acc>
+vobecný +<adj> +<sint> +<ma> +<pl> +<nom>
+obecný +<adj> +<sint> +<ma> +<pl> +<nom>
+obecní +<adj> +<f> +<pl> +<voc>
+vobecný +<adj> +<sint> +<ma> +<pl> +<voc>
+obecní +<adj> +<f> +<sg> +<loc>
+obecní +<adj> +<mi> +<pl> +<acc>
+obecní +<adj> +<f> +<sg> +<dat>
+obecní +<adj> +<f> +<sg> +<nom>
+obecní +<adj> +<mi> +<sg> +<nom>
+obecní +<adj> +<mi> +<pl> +<nom>
+obecní +<adj> +<nt> +<pl> +<acc>
+obecní +<adj> +<ma> +<pl> +<acc>
+obecní +<adj> +<f> +<pl> +<nom>
+obecní +<adj> +<f> +<sg> +<acc>
+obecní +<adj> +<nt> +<sg> +<acc>
+obecný +<adj> +<sint> +<ma> +<pl> +<voc>
+obecní +<adj> +<mi> +<sg> +<voc>
+obecní +<adj> +<f> +<sg> +<gen>
+obecní +<adj> +<nt> +<pl> +<voc>
+obecní +<adj> +<ma> +<sg> +<nom>
+obecní +<adj> +<f> +<sg> +<voc>
+obecní +<adj> +<mi> +<pl> +<voc>
+obecní +<adj> +<nt> +<sg> +<voc>
+obecní +<adj> +<ma> +<pl> +<nom>
+obecní +<adj> +<nt> +<pl> +<nom>
+obecní +<adj> +<f> +<sg> +<ins>
+obecní +<adj> +<ma> +<pl> +<voc>
+bojový +<adj> +<sint> +<nt> +<pl> +<loc>
+bojový +<adj> +<sint> +<mi> +<pl> +<loc>
+bojový +<adj> +<sint> +<ma> +<pl> +<loc>
+bojový +<adj> +<sint> +<nt> +<pl> +<gen>
+bojový +<adj> +<sint> +<f> +<pl> +<loc>
+bojový +<adj> +<sint> +<mi> +<pl> +<gen>
+bojový +<adj> +<sint> +<ma> +<pl> +<gen>
+bojový +<adj> +<sint> +<f> +<pl> +<gen>
+klad +<n> +<mi> +<sg> +<voc>
+zaujímat +<vblex> +<impf> +<pres> +<p3> +<sg>
+jmenovat +<vblex> +<impf> +<past> +<m> +<sg>
+lokalita +<n> +<f> +<pl> +<loc>
+obývat +<vblex> +<impf> +<pres> +<p3> +<sg>
+považovat +<vblex> +<impf> +<pres> +<p3> +<pl>
+venkovský +<adj> +<f> +<pl> +<nom>
+venkovský +<adj> +<f> +<sg> +<loc>
+venkovský +<adj> +<mi> +<pl> +<nom>
+venkovský +<adj> +<mi> +<pl> +<voc>
+venkovský +<adj> +<nt> +<sg> +<nom>
+venkovský +<adj> +<mi> +<pl> +<acc>
+venkovský +<adj> +<f> +<pl> +<acc>
+venkovský +<adj> +<f> +<pl> +<voc>
+venkovský +<adj> +<f> +<sg> +<gen>
+venkovský +<adj> +<nt> +<sg> +<acc>
+venkovský +<adj> +<ma> +<pl> +<acc>
+venkovský +<adj> +<nt> +<sg> +<voc>
+venkovský +<adj> +<f> +<sg> +<dat>
+svatý +<adj> +<sint> +<f> +<sg> +<ins>
+svatý +<adj> +<sint> +<f> +<sg> +<acc>
+oceán +<n> +<mi> +<sg> +<nom>
+oceán +<n> +<mi> +<sg> +<acc>
+novinář +<n> +<ma> +<sg> +<nom>
+milion +<n> +<mi> +<pl> +<nom>
+milion +<n> +<mi> +<pl> +<voc>
+milion +<n> +<mi> +<pl> +<ins>
+milion +<n> +<mi> +<pl> +<acc>
+srpen +<n> +<mi> +<sg> +<gen>
+kapitán +<n> +<ma> +<sg> +<ins>
+oslava +<n> +<f> +<pl> +<nom>
+oslava +<n> +<f> +<pl> +<acc>
+oslava +<n> +<f> +<sg> +<gen>
+oslava +<n> +<f> +<pl> +<voc>
+sourozenec +<n> +<ma> +<pl> +<ins>
+sourozenec +<n> +<ma> +<sg> +<loc>
+sourozenec +<n> +<ma> +<sg> +<dat>
+sourozenec +<n> +<ma> +<pl> +<nom>
+sourozenec +<n> +<ma> +<pl> +<voc>
+princezna +<n> +<f> +<pl> +<nom>
+princezna +<n> +<f> +<pl> +<voc>
+princezna +<n> +<f> +<sg> +<gen>
+princezna +<n> +<f> +<pl> +<acc>
+slovinský +<adj> +<cpd>
+český +<adj> +<mi> +<sg> +<nom>
+český +<adj> +<mi> +<sg> +<voc>
+český +<adj> +<ma> +<sg> +<voc>
+český +<adj> +<ma> +<sg> +<nom>
+český +<adj> +<mi> +<sg> +<acc>
+vobecný +<adj> +<sint> +<nt> +<pl> +<gen>
+vobecný +<adj> +<sint> +<ma> +<pl> +<gen>
+obecný +<adj> +<sint> +<mi> +<pl> +<loc>
+vobecný +<adj> +<sint> +<mi> +<pl> +<loc>
+vobecný +<adj> +<sint> +<mi> +<pl> +<gen>
+vobecný +<adj> +<sint> +<f> +<pl> +<loc>
+obecný +<adj> +<sint> +<ma> +<pl> +<gen>
+obecný +<adj> +<sint> +<mi> +<pl> +<gen>
+obecný +<adj> +<sint> +<f> +<pl> +<loc>
+obecný +<adj> +<sint> +<f> +<pl> +<gen>
+obecný +<adj> +<sint> +<ma> +<pl> +<loc>
+obecný +<adj> +<sint> +<nt> +<pl> +<loc>
+vobecný +<adj> +<sint> +<ma> +<pl> +<loc>
+vobecný +<adj> +<sint> +<nt> +<pl> +<loc>
+vobecný +<adj> +<sint> +<f> +<pl> +<gen>
+obecný +<adj> +<sint> +<nt> +<pl> +<gen>
+nasazený +<adj> +<sint> +<mi> +<sg> +<voc>
+nasazený +<adj> +<sint> +<ma> +<sg> +<nom>
+nasazený +<adj> +<sint> +<mi> +<sg> +<nom>
+nasazený +<adj> +<sint> +<ma> +<sg> +<voc>
+nasazený +<adj> +<sint> +<mi> +<sg> +<acc>
+vila +<n> +<f> +<pl> +<voc>
+vila +<n> +<f> +<pl> +<acc>
+vila +<n> +<f> +<pl> +<nom>
+vila +<n> +<f> +<sg> +<gen>
+plochý +<adj> +<f> +<sg> +<acc>
+plochý +<adj> +<sint> +<f> +<sg> +<ins>
+plochý +<adj> +<f> +<sg> +<ins>
+plochý +<adj> +<sint> +<f> +<sg> +<acc>
+herec +<n> +<ma> +<sg> +<ins>
+zúčastnit +<vblex> +<perf> +<past> +<f> +<sg>
+zúčastnit +<vblex> +<perf> +<past> +<nt> +<pl>
+modernizace +<n> +<f> +<sg> +<loc>
+modernizace +<n> +<f> +<sg> +<dat>
+modernizace +<n> +<f> +<sg> +<acc>
+kurs +<n> +<mi> +<pl> +<ins>
+kurs +<n> +<mi> +<pl> +<nom>
+kurs +<n> +<mi> +<pl> +<acc>
+kurs +<n> +<mi> +<pl> +<voc>
+zápasník +<n> +<ma> +<sg> +<nom>
+novelizovat +<vblex> +<impf> +<pp> +<nt> +<sg>
+novelizovat +<vblex> +<impf> +<pp> +<impers> +<nt> +<sg>
+pahorek +<n> +<mi> +<sg> +<gen>
+pahorek +<n> +<mi> +<sg> +<dat>
+pahorek +<n> +<mi> +<sg> +<loc>
+pahorek +<n> +<mi> +<sg> +<voc>
+úprava +<n> +<f> +<sg> +<dat>
+úprava +<n> +<f> +<sg> +<loc>
+zboží +<n> +<mi> +<sg> +<voc>
+zboží +<n> +<mi> +<pl> +<nom>
+zboží +<n> +<mi> +<sg> +<acc>
+zboží +<n> +<mi> +<pl> +<voc>
+zboží +<n> +<mi> +<sg> +<gen>
+zboží +<n> +<mi> +<sg> +<dat>
+zboží +<n> +<mi> +<sg> +<nom>
+zboží +<n> +<mi> +<sg> +<loc>
+zboží +<n> +<mi> +<pl> +<acc>
+zboží +<n> +<mi> +<pl> +<gen>
+rozprostírat +<vblex> +<impf> +<pres> +<p3> +<sg>
+stolní +<adj> +<f> +<sg> +<gen>
+stolní +<adj> +<nt> +<pl> +<voc>
+stolní +<adj> +<f> +<sg> +<ins>
+stolní +<adj> +<ma> +<pl> +<voc>
+stolní +<adj> +<f> +<sg> +<voc>
+stolní +<adj> +<nt> +<sg> +<voc>
+stolní +<adj> +<f> +<sg> +<loc>
+stolní +<adj> +<f> +<sg> +<dat>
+stolní +<adj> +<mi> +<sg> +<acc>
+stolní +<adj> +<nt> +<pl> +<acc>
+stolní +<adj> +<mi> +<sg> +<nom>
+stolní +<adj> +<mi> +<pl> +<acc>
+stolní +<adj> +<ma> +<pl> +<nom>
+stolní +<adj> +<mi> +<sg> +<voc>
+stolní +<adj> +<f> +<sg> +<acc>
+stolní +<adj> +<nt> +<sg> +<nom>
+stolní +<adj> +<f> +<pl> +<nom>
+stolní +<adj> +<mi> +<pl> +<voc>
+stolní +<adj> +<ma> +<sg> +<nom>
+stolní +<adj> +<mi> +<pl> +<nom>
+stolní +<adj> +<nt> +<sg> +<acc>
+stolní +<adj> +<f> +<sg> +<nom>
+stolní +<adj> +<f> +<pl> +<acc>
+stolní +<adj> +<ma> +<pl> +<acc>
+stolní +<adj> +<ma> +<sg> +<voc>
+stolní +<adj> +<nt> +<pl> +<nom>
+stolní +<adj> +<f> +<pl> +<voc>
+rodina +<n> +<f> +<sg> +<loc>
+rodina +<n> +<f> +<sg> +<dat>
+působnost +<n> +<f> +<sg> +<ins>
+působnost +<n> +<f> +<pl> +<gen>
+stavebna +<n> +<f> +<sg> +<loc>
+stavebna +<n> +<f> +<sg> +<dat>
+tenký +<adj> +<sint> +<nt> +<sg> +<nom>
+tenký +<adj> +<f> +<pl> +<nom>
+tenký +<adj> +<mi> +<pl> +<voc>
+tenký +<adj> +<sint> +<f> +<sg> +<gen>
+tenký +<adj> +<f> +<sg> +<loc>
+tenký +<adj> +<sint> +<ma> +<pl> +<acc>
+tenký +<adj> +<nt> +<sg> +<acc>
+tenký +<adj> +<f> +<pl> +<acc>
+tenký +<adj> +<sint> +<mi> +<pl> +<acc>
+tenký +<adj> +<f> +<sg> +<gen>
+tenký +<adj> +<f> +<sg> +<dat>
+tenký +<adj> +<sint> +<mi> +<pl> +<voc>
+tenký +<adj> +<sint> +<nt> +<sg> +<voc>
+tenký +<adj> +<sint> +<f> +<sg> +<loc>
+tenký +<adj> +<sint> +<mi> +<pl> +<nom>
+tenký +<adj> +<ma> +<pl> +<acc>
+tenký +<adj> +<sint> +<nt> +<sg> +<acc>
+tenký +<adj> +<sint> +<f> +<pl> +<acc>
+tenký +<adj> +<mi> +<pl> +<acc>
+tenký +<adj> +<nt> +<sg> +<nom>
+tenký +<adj> +<f> +<pl> +<voc>
+tenký +<adj> +<mi> +<pl> +<nom>
+tenký +<adj> +<sint> +<f> +<pl> +<nom>
+tenký +<adj> +<sint> +<f> +<pl> +<voc>
+tenký +<adj> +<nt> +<sg> +<voc>
+tenký +<adj> +<sint> +<f> +<sg> +<dat>
+plovoucí +<adj> +<ma> +<sg> +<nom>
+plovoucí +<adj> +<nt> +<pl> +<acc>
+plovoucí +<adj> +<f> +<sg> +<loc>
+plovoucí +<adj> +<mi> +<sg> +<acc>
+plovoucí +<adj> +<ma> +<pl> +<voc>
+plovoucí +<adj> +<mi> +<pl> +<acc>
+plovoucí +<adj> +<nt> +<sg> +<voc>
+plovoucí +<adj> +<mi> +<pl> +<voc>
+plovoucí +<adj> +<f> +<pl> +<acc>
+plovoucí +<adj> +<nt> +<pl> +<nom>
+plovoucí +<adj> +<f> +<pl> +<nom>
+plovoucí +<adj> +<ma> +<pl> +<nom>
+plovoucí +<adj> +<ma> +<pl> +<acc>
+plovoucí +<adj> +<nt> +<sg> +<nom>
+plovoucí +<adj> +<mi> +<sg> +<voc>
+plovoucí +<adj> +<f> +<sg> +<ins>
+plovoucí +<adj> +<f> +<sg> +<nom>
+plovoucí +<adj> +<f> +<sg> +<acc>
+plovoucí +<adj> +<mi> +<sg> +<nom>
+plovoucí +<adj> +<nt> +<pl> +<voc>
+plovoucí +<adj> +<mi> +<pl> +<nom>
+plovoucí +<adj> +<ma> +<sg> +<voc>
+plovoucí +<adj> +<f> +<pl> +<voc>
+plovoucí +<adj> +<f> +<sg> +<dat>
+plovoucí +<adj> +<f> +<sg> +<gen>
+plovoucí +<adj> +<f> +<sg> +<voc>
+plovoucí +<adj> +<nt> +<sg> +<acc>
+povolit +<vblex> +<perf> +<ger> +<nt> +<pl> +<nom>
+povolit +<vblex> +<perf> +<ger> +<nt> +<pl> +<gen>
+povolit +<vblex> +<perf> +<ger> +<nt> +<sg> +<loc>
+povolit +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<voc>
+povolit +<vblex> +<perf> +<ger> +<nt> +<sg> +<acc>
+povolit +<vblex> +<perf> +<ger> +<nt> +<sg> +<voc>
+povolit +<vblex> +<perf> +<ger> +<nt> +<pl> +<voc>
+povolený +<adj> +<sint> +<ma> +<pl> +<voc>
+povolit +<vblex> +<perf> +<ger> +<nt> +<sg> +<dat>
+povolit +<vblex> +<perf> +<ger> +<nt> +<pl> +<acc>
+povolený +<adj> +<sint> +<ma> +<pl> +<nom>
+povolit +<vblex> +<perf> +<ger> +<nt> +<sg> +<gen>
+povolit +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<nom>
+povolit +<vblex> +<perf> +<ger> +<nt> +<sg> +<nom>
+teplota +<n> +<f> +<sg> +<nom>
+hlava +<n> +<f> +<pl> +<acc>
+hlava +<n> +<f> +<pl> +<voc>
+hlava +<n> +<f> +<pl> +<nom>
+hlava +<n> +<f> +<sg> +<gen>
+kniha +<n> +<f> +<sg> +<nom>
+císařský +<adj> +<nt> +<pl> +<nom>
+císařský +<adj> +<nt> +<pl> +<acc>
+císařský +<adj> +<f> +<sg> +<nom>
+císařský +<adj> +<nt> +<pl> +<voc>
+císařský +<adj> +<f> +<sg> +<voc>
+zajímavost +<n> +<f> +<sg> +<dat>
+zajímavost +<n> +<f> +<pl> +<voc>
+zajímavost +<n> +<f> +<pl> +<nom>
+zajímavost +<n> +<f> +<sg> +<voc>
+zajímavost +<n> +<f> +<sg> +<gen>
+zajímavost +<n> +<f> +<pl> +<acc>
+zajímavost +<n> +<f> +<sg> +<loc>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<dat>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<ma> +<pl> +<nom>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<mi> +<pl> +<acc>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<ma> +<pl> +<voc>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<voc>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<nt> +<sg> +<acc>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<gen>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<acc>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<mi> +<sg> +<nom>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<nom>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<ma> +<sg> +<voc>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<pl> +<nom>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<nt> +<sg> +<voc>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<pl> +<voc>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<nt> +<sg> +<nom>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<nt> +<pl> +<acc>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<nt> +<pl> +<nom>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<ins>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<pl> +<acc>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<nt> +<pl> +<voc>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<mi> +<sg> +<voc>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<mi> +<pl> +<nom>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<ma> +<sg> +<nom>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<mi> +<sg> +<acc>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<ma> +<pl> +<acc>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<loc>
+popisovat +<vblex> +<impf> +<pprs> +<adj> +<mi> +<pl> +<voc>
+přítel +<n> +<ma> +<sg> +<nom>
+mise +<n> +<f> +<sg> +<loc>
+mise +<n> +<f> +<sg> +<dat>
+mise +<n> +<f> +<sg> +<acc>
+protest +<n> +<mi> +<pl> +<nom>
+protest +<n> +<mi> +<pl> +<ins>
+protest +<n> +<mi> +<pl> +<acc>
+protest +<n> +<mi> +<pl> +<voc>
+institut +<n> +<ma> +<sg> +<voc>
+zúčastnit +<vblex> +<perf> +<past> +<ma> +<pl>
+obchod +<n> +<mi> +<sg> +<dat>
+obchod +<n> +<mi> +<sg> +<gen>
+obchod +<n> +<mi> +<sg> +<loc>
+rovnice +<n> +<f> +<pl> +<nom>
+rovnice +<n> +<f> +<pl> +<acc>
+rovnice +<n> +<f> +<sg> +<nom>
+rovnice +<n> +<f> +<sg> +<voc>
+rovnice +<n> +<f> +<pl> +<voc>
+rovnice +<n> +<f> +<sg> +<gen>
+pozemek +<n> +<mi> +<sg> +<gen>
+pozemek +<n> +<mi> +<sg> +<dat>
+pozemek +<n> +<mi> +<sg> +<voc>
+pozemek +<n> +<mi> +<sg> +<loc>
+záznam +<n> +<mi> +<pl> +<gen>
+jihomoravský +<adj> +<nt> +<sg> +<loc>
+jihomoravský +<adj> +<ma> +<sg> +<loc>
+jihomoravský +<adj> +<mi> +<sg> +<loc>
+zóna +<n> +<f> +<pl> +<nom>
+zóna +<n> +<f> +<pl> +<voc>
+zóna +<n> +<f> +<pl> +<acc>
+zóna +<n> +<f> +<sg> +<gen>
+cizinec +<n> +<ma> +<pl> +<gen>
+server +<n> +<mi> +<pl> +<voc>
+server +<n> +<mi> +<pl> +<nom>
+server +<n> +<mi> +<pl> +<ins>
+server +<n> +<mi> +<pl> +<acc>
+přebor +<n> +<mi> +<sg> +<dat>
+přebor +<n> +<mi> +<sg> +<gen>
+přebor +<n> +<mi> +<sg> +<voc>
+přebor +<n> +<mi> +<sg> +<loc>
+vybírat +<vblex> +<impf> +<pres> +<p3> +<sg>
+animovaný +<adj> +<sint> +<mi> +<sg> +<gen>
+animovaný +<adj> +<sint> +<ma> +<sg> +<gen>
+animovaný +<adj> +<sint> +<nt> +<sg> +<gen>
+animovaný +<adj> +<sint> +<ma> +<sg> +<acc>
+fasáda +<n> +<f> +<sg> +<gen>
+fasáda +<n> +<f> +<pl> +<nom>
+fasáda +<n> +<f> +<pl> +<acc>
+fasáda +<n> +<f> +<pl> +<voc>
+společenský +<adj> +<nt> +<pl> +<voc>
+společenský +<adj> +<f> +<sg> +<nom>
+společenský +<adj> +<nt> +<pl> +<nom>
+společenský +<adj> +<nt> +<pl> +<acc>
+společenský +<adj> +<f> +<sg> +<voc>
+květen +<n> +<mi> +<sg> +<loc>
+květen +<n> +<mi> +<sg> +<dat>
+jihomoravský +<adj> +<mi> +<sg> +<acc>
+jihomoravský +<adj> +<mi> +<sg> +<voc>
+jihomoravský +<adj> +<ma> +<sg> +<voc>
+jihomoravský +<adj> +<mi> +<sg> +<nom>
+jihomoravský +<adj> +<ma> +<sg> +<nom>
+výsledek +<n> +<mi> +<sg> +<acc>
+výsledek +<n> +<mi> +<sg> +<nom>
+nástup +<n> +<mi> +<sg> +<ins>
+psát +<vblex> +<impf> +<past> +<f> +<sg>
+psát +<vblex> +<impf> +<past> +<nt> +<pl>
+probíhat +<vblex> +<impf> +<pres> +<p3> +<pl>
+pořádat +<vblex> +<impf> +<pres> +<p3> +<sg>
+automobil +<n> +<mi> +<sg> +<loc>
+automobil +<n> +<mi> +<sg> +<gen>
+automobil +<n> +<mi> +<sg> +<dat>
+optimální +<adj> +<mi> +<pl> +<voc>
+optimální +<adj> +<f> +<sg> +<nom>
+optimální +<adj> +<f> +<sg> +<dat>
+optimální +<adj> +<f> +<pl> +<nom>
+optimální +<adj> +<f> +<sg> +<ins>
+optimální +<adj> +<ma> +<pl> +<voc>
+optimální +<adj> +<mi> +<sg> +<voc>
+optimální +<adj> +<nt> +<sg> +<voc>
+optimální +<adj> +<f> +<pl> +<voc>
+optimální +<adj> +<f> +<sg> +<acc>
+optimální +<adj> +<nt> +<sg> +<nom>
+optimální +<adj> +<nt> +<sg> +<acc>
+optimální +<adj> +<nt> +<pl> +<voc>
+optimální +<adj> +<f> +<pl> +<acc>
+optimální +<adj> +<ma> +<pl> +<acc>
+optimální +<adj> +<f> +<sg> +<voc>
+optimální +<adj> +<f> +<sg> +<loc>
+optimální +<adj> +<ma> +<pl> +<nom>
+optimální +<adj> +<nt> +<pl> +<acc>
+optimální +<adj> +<nt> +<pl> +<nom>
+optimální +<adj> +<mi> +<pl> +<acc>
+optimální +<adj> +<ma> +<sg> +<voc>
+optimální +<adj> +<mi> +<sg> +<nom>
+optimální +<adj> +<mi> +<pl> +<nom>
+optimální +<adj> +<ma> +<sg> +<nom>
+optimální +<adj> +<mi> +<sg> +<acc>
+optimální +<adj> +<f> +<sg> +<gen>
+příčka +<n> +<f> +<sg> +<acc>
+hospodářský +<adj> +<mi> +<sg> +<gen>
+hospodářský +<adj> +<nt> +<sg> +<gen>
+hospodářský +<adj> +<ma> +<sg> +<acc>
+hospodářský +<adj> +<ma> +<sg> +<gen>
+masový +<adj> +<sint> +<f> +<pl> +<acc>
+masový +<adj> +<sint> +<f> +<sg> +<gen>
+masový +<adj> +<sint> +<f> +<pl> +<nom>
+masový +<adj> +<sint> +<mi> +<pl> +<voc>
+masový +<adj> +<sint> +<mi> +<pl> +<acc>
+masový +<adj> +<sint> +<nt> +<sg> +<acc>
+masový +<adj> +<sint> +<ma> +<pl> +<acc>
+masový +<adj> +<sint> +<f> +<sg> +<loc>
+masový +<adj> +<sint> +<mi> +<pl> +<nom>
+masový +<adj> +<sint> +<f> +<sg> +<dat>
+masový +<adj> +<sint> +<nt> +<sg> +<voc>
+masový +<adj> +<sint> +<f> +<pl> +<voc>
+masový +<adj> +<sint> +<nt> +<sg> +<nom>
+pokračovat +<vblex> +<impf> +<inf>
+dominovat +<vblex> +<impf> +<pres> +<p3> +<sg>
+dominovat +<vblex> +<impf> +<tgv> +<pprs> +<mi> +<sg>
+dominovat +<vblex> +<impf> +<tgv> +<pprs> +<ma> +<sg>
+studium +<n> +<nt> +<sg> +<acc>
+studium +<n> +<nt> +<sg> +<voc>
+studium +<n> +<nt> +<sg> +<nom>
+běloruska +<n> +<f> +<sg> +<nom>
+deska +<n> +<f> +<sg> +<gen>
+deska +<n> +<f> +<pl> +<voc>
+deska +<n> +<f> +<pl> +<nom>
+deska +<n> +<f> +<pl> +<acc>
+respekt +<n> +<mi> +<sg> +<nom>
+respekt +<n> +<mi> +<sg> +<acc>
+fáze +<n> +<f> +<sg> +<gen>
+fáze +<n> +<f> +<sg> +<nom>
+fáze +<n> +<f> +<pl> +<acc>
+fáze +<n> +<f> +<pl> +<nom>
+latina +<n> +<f> +<pl> +<voc>
+latina +<n> +<f> +<pl> +<acc>
+latina +<n> +<f> +<sg> +<gen>
+latina +<n> +<f> +<pl> +<nom>
+funkce +<n> +<f> +<pl> +<acc>
+funkce +<n> +<f> +<sg> +<gen>
+funkce +<n> +<f> +<sg> +<nom>
+funkce +<n> +<f> +<pl> +<nom>
+rozpad +<n> +<mi> +<sg> +<gen>
+rozpad +<n> +<mi> +<sg> +<loc>
+rozpad +<n> +<mi> +<sg> +<voc>
+rozpad +<n> +<mi> +<sg> +<dat>
+hospodářství +<n> +<mi> +<pl> +<nom>
+hospodářství +<n> +<mi> +<sg> +<nom>
+hospodářství +<n> +<mi> +<pl> +<acc>
+hospodářství +<n> +<mi> +<sg> +<voc>
+hospodářství +<n> +<mi> +<sg> +<dat>
+hospodářství +<n> +<mi> +<pl> +<voc>
+hospodářství +<n> +<mi> +<sg> +<gen>
+hospodářství +<n> +<mi> +<pl> +<gen>
+hospodářství +<n> +<mi> +<sg> +<loc>
+hospodářství +<n> +<mi> +<sg> +<acc>
+rostlina +<n> +<f> +<pl> +<gen>
+město +<n> +<nt> +<pl> +<loc>
+tuk +<n> +<mi> +<sg> +<dat>
+tuk +<n> +<mi> +<sg> +<loc>
+tuk +<n> +<mi> +<sg> +<gen>
+tuk +<n> +<mi> +<sg> +<voc>
+hora +<n> +<f> +<sg> +<acc>
+publikace +<n> +<f> +<sg> +<dat>
+publikace +<n> +<f> +<sg> +<loc>
+publikace +<n> +<f> +<sg> +<acc>
+podporovat +<vblex> +<impf> +<inf>
+kořit +<vblex> +<impf> +<pp> +<m> +<sg>
+finální +<adj> +<f> +<sg> +<nom>
+finální +<adj> +<nt> +<sg> +<acc>
+finální +<adj> +<ma> +<pl> +<nom>
+finální +<adj> +<nt> +<pl> +<acc>
+finální +<adj> +<f> +<sg> +<dat>
+finální +<adj> +<f> +<sg> +<voc>
+finální +<adj> +<f> +<sg> +<gen>
+finální +<adj> +<f> +<pl> +<nom>
+finální +<adj> +<f> +<sg> +<ins>
+finální +<adj> +<ma> +<pl> +<acc>
+finální +<adj> +<ma> +<pl> +<voc>
+finální +<adj> +<nt> +<sg> +<nom>
+finální +<adj> +<f> +<pl> +<voc>
+finální +<adj> +<f> +<sg> +<acc>
+finální +<adj> +<nt> +<pl> +<voc>
+finální +<adj> +<nt> +<pl> +<nom>
+finální +<adj> +<ma> +<sg> +<voc>
+finální +<adj> +<mi> +<sg> +<acc>
+finální +<adj> +<ma> +<sg> +<nom>
+finální +<adj> +<mi> +<pl> +<acc>
+finální +<adj> +<mi> +<pl> +<voc>
+finální +<adj> +<mi> +<sg> +<nom>
+finální +<adj> +<mi> +<pl> +<nom>
+finální +<adj> +<f> +<sg> +<loc>
+finální +<adj> +<mi> +<sg> +<voc>
+finální +<adj> +<f> +<pl> +<acc>
+finální +<adj> +<nt> +<sg> +<voc>
+zodpovědný +<adj> +<sint> +<mi> +<sg> +<voc>
+zodpovědný +<adj> +<sint> +<ma> +<sg> +<nom>
+zodpovědný +<adj> +<sint> +<ma> +<sg> +<voc>
+zodpovědný +<adj> +<sint> +<mi> +<sg> +<nom>
+zodpovědný +<adj> +<sint> +<mi> +<sg> +<acc>
+norský +<adj> +<f> +<sg> +<gen>
+norský +<adj> +<f> +<pl> +<voc>
+norský +<adj> +<nt> +<sg> +<nom>
+norský +<adj> +<nt> +<sg> +<acc>
+norský +<adj> +<f> +<sg> +<loc>
+norský +<adj> +<mi> +<pl> +<nom>
+norský +<adj> +<f> +<sg> +<dat>
+norský +<adj> +<f> +<pl> +<nom>
+norský +<adj> +<ma> +<pl> +<acc>
+norský +<adj> +<mi> +<pl> +<acc>
+norský +<adj> +<f> +<pl> +<acc>
+norský +<adj> +<mi> +<pl> +<voc>
+norský +<adj> +<nt> +<sg> +<voc>
+společný +<adj> +<sint> +<ma> +<sg> +<nom>
+společný +<adj> +<sint> +<ma> +<sg> +<voc>
+společný +<adj> +<sint> +<mi> +<sg> +<voc>
+společný +<adj> +<sint> +<mi> +<sg> +<nom>
+společný +<adj> +<sint> +<mi> +<sg> +<acc>
+vydavatelství +<n> +<mi> +<sg> +<acc>
+vydavatelství +<n> +<mi> +<pl> +<acc>
+vydavatelství +<n> +<mi> +<sg> +<gen>
+vydavatelství +<n> +<mi> +<pl> +<gen>
+vydavatelství +<n> +<mi> +<sg> +<loc>
+vydavatelství +<n> +<mi> +<pl> +<voc>
+vydavatelství +<n> +<mi> +<pl> +<nom>
+vydavatelství +<n> +<mi> +<sg> +<dat>
+vydavatelství +<n> +<mi> +<sg> +<nom>
+vydavatelství +<n> +<mi> +<sg> +<voc>
+zemřelý +<adj> +<mi> +<sg> +<gen>
+zemřelý +<adj> +<ma> +<sg> +<gen>
+zemřelý +<adj> +<nt> +<sg> +<gen>
+zemřelý +<adj> +<ma> +<sg> +<acc>
+účastník +<n> +<ma> +<pl> +<nom>
+účastník +<n> +<ma> +<pl> +<voc>
+románský +<adj> +<mi> +<pl> +<nom>
+románský +<adj> +<f> +<pl> +<acc>
+románský +<adj> +<f> +<sg> +<loc>
+románský +<adj> +<nt> +<sg> +<acc>
+románský +<adj> +<nt> +<sg> +<voc>
+románský +<adj> +<f> +<pl> +<voc>
+románský +<adj> +<f> +<pl> +<nom>
+románský +<adj> +<mi> +<pl> +<voc>
+románský +<adj> +<nt> +<sg> +<nom>
+románský +<adj> +<mi> +<pl> +<acc>
+románský +<adj> +<f> +<sg> +<gen>
+románský +<adj> +<f> +<sg> +<dat>
+románský +<adj> +<ma> +<pl> +<acc>
+majitel +<n> +<ma> +<sg> +<gen>
+majitel +<n> +<ma> +<sg> +<acc>
+majitel +<n> +<ma> +<pl> +<acc>
+vlna +<n> +<f> +<pl> +<acc>
+vlna +<n> +<f> +<sg> +<gen>
+vlna +<n> +<f> +<pl> +<nom>
+vlna +<n> +<f> +<pl> +<voc>
+bakalářský +<adj> +<ma> +<sg> +<voc>
+bakalářský +<adj> +<mi> +<sg> +<voc>
+bakalářský +<adj> +<mi> +<sg> +<acc>
+bakalářský +<adj> +<ma> +<sg> +<nom>
+bakalářský +<adj> +<mi> +<sg> +<nom>
+představovat +<vblex> +<impf> +<pres> +<p3> +<pl>
+novověk +<n> +<mi> +<sg> +<voc>
+novověk +<n> +<mi> +<sg> +<dat>
+novověk +<n> +<mi> +<sg> +<gen>
+novověk +<n> +<mi> +<sg> +<loc>
+záznam +<n> +<mi> +<pl> +<nom>
+záznam +<n> +<mi> +<pl> +<acc>
+záznam +<n> +<mi> +<pl> +<ins>
+záznam +<n> +<mi> +<pl> +<voc>
+hloubka +<n> +<f> +<sg> +<acc>
+běloruska +<n> +<f> +<sg> +<acc>
+katolický +<adj> +<mi> +<pl> +<acc>
+katolický +<adj> +<nt> +<sg> +<nom>
+katolický +<adj> +<mi> +<pl> +<nom>
+katolický +<adj> +<f> +<pl> +<voc>
+katolický +<adj> +<nt> +<sg> +<voc>
+katolický +<adj> +<f> +<pl> +<nom>
+katolický +<adj> +<f> +<sg> +<loc>
+katolický +<adj> +<mi> +<pl> +<voc>
+katolický +<adj> +<nt> +<sg> +<acc>
+katolický +<adj> +<f> +<pl> +<acc>
+katolický +<adj> +<f> +<sg> +<dat>
+katolický +<adj> +<ma> +<pl> +<acc>
+katolický +<adj> +<f> +<sg> +<gen>
+povstat +<vblex> +<perf> +<ger> +<nt> +<pl> +<nom>
+povstat +<vblex> +<perf> +<ger> +<nt> +<pl> +<voc>
+povstat +<vblex> +<perf> +<ger> +<nt> +<sg> +<acc>
+povstat +<vblex> +<perf> +<ger> +<nt> +<sg> +<nom>
+povstat +<vblex> +<perf> +<ger> +<nt> +<sg> +<loc>
+povstat +<vblex> +<perf> +<ger> +<nt> +<sg> +<voc>
+povstat +<vblex> +<perf> +<ger> +<nt> +<sg> +<gen>
+povstat +<vblex> +<perf> +<ger> +<nt> +<pl> +<acc>
+povstat +<vblex> +<perf> +<ger> +<nt> +<sg> +<dat>
+povstat +<vblex> +<perf> +<ger> +<nt> +<pl> +<gen>
+trubka +<n> +<f> +<sg> +<gen>
+trubka +<n> +<f> +<pl> +<nom>
+trubka +<n> +<f> +<pl> +<acc>
+trubka +<n> +<f> +<pl> +<voc>
+vysoký +<adj> +<sint> +<f> +<sg> +<dat>
+vysoký +<adj> +<sint> +<f> +<pl> +<acc>
+vysoký +<adj> +<f> +<sg> +<dat>
+vysoký +<adj> +<mi> +<pl> +<voc>
+vysoký +<adj> +<mi> +<pl> +<acc>
+vysoký +<adj> +<f> +<pl> +<voc>
+vysoký +<adj> +<f> +<sg> +<gen>
+vysoký +<adj> +<sint> +<f> +<sg> +<loc>
+vysoký +<adj> +<sint> +<nt> +<sg> +<acc>
+vysoký +<adj> +<mi> +<pl> +<nom>
+vysoký +<adj> +<sint> +<mi> +<pl> +<voc>
+vysoký +<adj> +<sint> +<nt> +<sg> +<voc>
+vysoký +<adj> +<f> +<pl> +<acc>
+vysoký +<adj> +<nt> +<sg> +<acc>
+vysoký +<adj> +<sint> +<f> +<pl> +<nom>
+vysoký +<adj> +<f> +<sg> +<loc>
+vysoký +<adj> +<sint> +<nt> +<sg> +<nom>
+vysoký +<adj> +<sint> +<mi> +<pl> +<acc>
+vysoký +<adj> +<sint> +<f> +<pl> +<voc>
+vysoký +<adj> +<nt> +<sg> +<nom>
+vysoký +<adj> +<sint> +<ma> +<pl> +<acc>
+vysoký +<adj> +<ma> +<pl> +<acc>
+vysoký +<adj> +<sint> +<mi> +<pl> +<nom>
+vysoký +<adj> +<nt> +<sg> +<voc>
+vysoký +<adj> +<f> +<pl> +<nom>
+vysoký +<adj> +<sint> +<f> +<sg> +<gen>
+účinek +<n> +<mi> +<sg> +<loc>
+účinek +<n> +<mi> +<sg> +<gen>
+účinek +<n> +<mi> +<sg> +<dat>
+účinek +<n> +<mi> +<sg> +<voc>
+bankovka +<n> +<f> +<pl> +<acc>
+bankovka +<n> +<f> +<pl> +<voc>
+bankovka +<n> +<f> +<pl> +<nom>
+bankovka +<n> +<f> +<sg> +<gen>
+vědecký +<adj> +<f> +<sg> +<ins>
+vědecký +<adj> +<f> +<sg> +<acc>
+přední +<adj> +<mi> +<pl> +<loc>
+přední +<adj> +<f> +<pl> +<loc>
+přední +<adj> +<f> +<pl> +<gen>
+přední +<adj> +<nt> +<pl> +<loc>
+přední +<adj> +<ma> +<pl> +<gen>
+přední +<adj> +<nt> +<pl> +<gen>
+přední +<adj> +<mi> +<pl> +<gen>
+přední +<adj> +<ma> +<pl> +<loc>
+uložit +<vblex> +<perf> +<pp> +<impers> +<f> +<sg>
+uložit +<vblex> +<perf> +<pp> +<impers> +<nt> +<pl>
+kontakt +<n> +<mi> +<pl> +<ins>
+kontakt +<n> +<mi> +<pl> +<voc>
+kontakt +<n> +<mi> +<pl> +<acc>
+kontakt +<n> +<mi> +<pl> +<nom>
+zločin +<n> +<mi> +<sg> +<acc>
+zločin +<n> +<mi> +<sg> +<nom>
+ruda +<n> +<f> +<sg> +<nom>
+jedinec +<n> +<ma> +<pl> +<gen>
+tichý +<adj> +<sint> +<mi> +<sg> +<gen>
+tichý +<adj> +<ma> +<sg> +<acc>
+tichý +<adj> +<sint> +<ma> +<sg> +<gen>
+tichý +<adj> +<sint> +<nt> +<sg> +<gen>
+tichý +<adj> +<ma> +<sg> +<gen>
+tichý +<adj> +<nt> +<sg> +<gen>
+tichý +<adj> +<sint> +<ma> +<sg> +<acc>
+tichý +<adj> +<mi> +<sg> +<gen>
+alba +<n> +<f> +<sg> +<acc>
+používat +<vblex> +<impf> +<inf>
+armáda +<n> +<f> +<sg> +<loc>
+armáda +<n> +<f> +<sg> +<dat>
+právní +<adj> +<ma> +<sg> +<loc>
+právní +<adj> +<ma> +<pl> +<dat>
+právní +<adj> +<mi> +<sg> +<loc>
+právní +<adj> +<f> +<pl> +<dat>
+právní +<adj> +<nt> +<pl> +<dat>
+právní +<adj> +<ma> +<sg> +<ins>
+právní +<adj> +<nt> +<sg> +<loc>
+právní +<adj> +<nt> +<sg> +<ins>
+právní +<adj> +<mi> +<sg> +<ins>
+právní +<adj> +<mi> +<pl> +<dat>
+dočasný +<adj> +<sint> +<f> +<pl> +<voc>
+dočasný +<adj> +<sint> +<f> +<pl> +<acc>
+dočasný +<adj> +<sint> +<f> +<sg> +<loc>
+dočasný +<adj> +<sint> +<ma> +<pl> +<acc>
+dočasný +<adj> +<sint> +<mi> +<pl> +<voc>
+dočasný +<adj> +<sint> +<f> +<pl> +<nom>
+dočasný +<adj> +<sint> +<mi> +<pl> +<nom>
+dočasný +<adj> +<sint> +<nt> +<sg> +<acc>
+dočasný +<adj> +<sint> +<f> +<sg> +<gen>
+dočasný +<adj> +<sint> +<nt> +<sg> +<voc>
+dočasný +<adj> +<sint> +<nt> +<sg> +<nom>
+dočasný +<adj> +<sint> +<mi> +<pl> +<acc>
+dočasný +<adj> +<sint> +<f> +<sg> +<dat>
+propojit +<vblex> +<perf> +<pp> +<impers> +<mi> +<pl>
+propojit +<vblex> +<perf> +<pp> +<impers> +<f> +<pl>
+program +<n> +<mi> +<sg> +<voc>
+program +<n> +<mi> +<sg> +<loc>
+program +<n> +<mi> +<sg> +<gen>
+program +<n> +<mi> +<sg> +<dat>
+zem +<n> +<f> +<sg> +<nom>
+zem +<n> +<f> +<sg> +<acc>
+dánský +<adj> +<nt> +<pl> +<voc>
+dánský +<adj> +<f> +<sg> +<voc>
+dánský +<adj> +<f> +<sg> +<nom>
+dánský +<adj> +<nt> +<pl> +<acc>
+dánský +<adj> +<nt> +<pl> +<nom>
+modelka +<n> +<f> +<sg> +<nom>
+umělecký +<adj> +<mi> +<pl> +<dat>
+umělecký +<adj> +<ma> +<sg> +<ins>
+umělecký +<adj> +<mi> +<sg> +<ins>
+umělecký +<adj> +<nt> +<sg> +<ins>
+umělecký +<adj> +<f> +<pl> +<dat>
+umělecký +<adj> +<ma> +<pl> +<dat>
+umělecký +<adj> +<nt> +<pl> +<dat>
+pojmenovaný +<adj> +<sint> +<f> +<sg> +<dat>
+pojmenovaný +<adj> +<sint> +<f> +<sg> +<loc>
+pojmenovaný +<adj> +<sint> +<f> +<pl> +<acc>
+pojmenovaný +<adj> +<sint> +<mi> +<pl> +<nom>
+pojmenovaný +<adj> +<sint> +<f> +<pl> +<voc>
+pojmenovaný +<adj> +<sint> +<f> +<pl> +<nom>
+pojmenovaný +<adj> +<sint> +<ma> +<pl> +<acc>
+pojmenovaný +<adj> +<sint> +<nt> +<sg> +<acc>
+pojmenovaný +<adj> +<sint> +<nt> +<sg> +<voc>
+pojmenovaný +<adj> +<sint> +<mi> +<pl> +<voc>
+pojmenovaný +<adj> +<sint> +<nt> +<sg> +<nom>
+pojmenovaný +<adj> +<sint> +<f> +<sg> +<gen>
+pojmenovaný +<adj> +<sint> +<mi> +<pl> +<acc>
+zima +<n> +<f> +<pl> +<acc>
+zima +<n> +<f> +<sg> +<gen>
+zima +<n> +<f> +<pl> +<voc>
+zima +<n> +<f> +<pl> +<nom>
+iniciovat +<vblex> +<impf> +<past> +<m> +<sg>
+region +<n> +<mi> +<pl> +<acc>
+region +<n> +<mi> +<pl> +<voc>
+region +<n> +<mi> +<pl> +<nom>
+region +<n> +<mi> +<pl> +<ins>
+americký +<adj> +<ma> +<sg> +<loc>
+americký +<adj> +<nt> +<sg> +<loc>
+americký +<adj> +<mi> +<sg> +<loc>
+činnost +<n> +<f> +<pl> +<voc>
+činnost +<n> +<f> +<sg> +<voc>
+činnost +<n> +<f> +<sg> +<loc>
+činnost +<n> +<f> +<pl> +<nom>
+činnost +<n> +<f> +<pl> +<acc>
+činnost +<n> +<f> +<sg> +<dat>
+činnost +<n> +<f> +<sg> +<gen>
+zákazník +<n> +<ma> +<sg> +<gen>
+zákazník +<n> +<ma> +<sg> +<acc>
+reálný +<adj> +<sint> +<nt> +<sg> +<acc>
+reálný +<adj> +<sint> +<f> +<pl> +<nom>
+reálný +<adj> +<sint> +<f> +<sg> +<gen>
+reálný +<adj> +<sint> +<nt> +<sg> +<voc>
+reálný +<adj> +<sint> +<f> +<pl> +<acc>
+reálný +<adj> +<sint> +<mi> +<pl> +<nom>
+reálný +<adj> +<sint> +<ma> +<pl> +<acc>
+reálný +<adj> +<sint> +<f> +<pl> +<voc>
+reálný +<adj> +<sint> +<f> +<sg> +<loc>
+reálný +<adj> +<sint> +<mi> +<pl> +<acc>
+reálný +<adj> +<sint> +<mi> +<pl> +<voc>
+reálný +<adj> +<sint> +<nt> +<sg> +<nom>
+reálný +<adj> +<sint> +<f> +<sg> +<dat>
+strom +<n> +<mi> +<pl> +<acc>
+strom +<n> +<mi> +<pl> +<ins>
+strom +<n> +<mi> +<pl> +<voc>
+strom +<n> +<mi> +<pl> +<nom>
+senát +<n> +<mi> +<sg> +<loc>
+senát +<n> +<mi> +<sg> +<gen>
+senát +<n> +<mi> +<sg> +<dat>
+železný +<adj> +<sint> +<f> +<sg> +<voc>
+železný +<adj> +<sint> +<f> +<sg> +<nom>
+železný +<adj> +<sint> +<nt> +<pl> +<nom>
+železný +<adj> +<sint> +<nt> +<pl> +<voc>
+železný +<adj> +<sint> +<nt> +<pl> +<acc>
+ekonom +<n> +<ma> +<sg> +<nom>
+člen +<n> +<mi> +<pl> +<dat>
+člen +<n> +<ma> +<pl> +<dat>
+přístup +<n> +<mi> +<sg> +<ins>
+bilance +<n> +<f> +<pl> +<gen>
+bilance +<n> +<f> +<sg> +<ins>
+dochovat +<vblex> +<perf> +<pp> +<adj> +<f> +<sg> +<gen>
+dochovat +<vblex> +<perf> +<pp> +<adj> +<mi> +<pl> +<acc>
+dochovat +<vblex> +<perf> +<pp> +<adj> +<nt> +<sg> +<voc>
+dochovaný +<adj> +<sint> +<f> +<sg> +<gen>
+dochovaný +<adj> +<sint> +<ma> +<pl> +<acc>
+dochovaný +<adj> +<sint> +<f> +<pl> +<acc>
+dochovaný +<adj> +<sint> +<nt> +<sg> +<acc>
+dochovaný +<adj> +<sint> +<nt> +<sg> +<nom>
+dochovat +<vblex> +<perf> +<pp> +<adj> +<f> +<sg> +<loc>
+dochovaný +<adj> +<sint> +<nt> +<sg> +<voc>
+dochovaný +<adj> +<sint> +<f> +<sg> +<loc>
+dochovaný +<adj> +<sint> +<f> +<pl> +<voc>
+dochovaný +<adj> +<sint> +<mi> +<pl> +<nom>
+dochovat +<vblex> +<perf> +<pp> +<adj> +<f> +<pl> +<acc>
+dochovat +<vblex> +<perf> +<pp> +<adj> +<nt> +<sg> +<nom>
+dochovaný +<adj> +<sint> +<f> +<sg> +<dat>
+dochovaný +<adj> +<sint> +<mi> +<pl> +<voc>
+dochovaný +<adj> +<sint> +<mi> +<pl> +<acc>
+dochovat +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<acc>
+dochovat +<vblex> +<perf> +<pp> +<adj> +<nt> +<sg> +<acc>
+dochovat +<vblex> +<perf> +<pp> +<adj> +<f> +<pl> +<voc>
+dochovaný +<adj> +<sint> +<f> +<pl> +<nom>
+dochovat +<vblex> +<perf> +<pp> +<adj> +<f> +<sg> +<dat>
+dochovat +<vblex> +<perf> +<pp> +<adj> +<mi> +<pl> +<voc>
+dochovat +<vblex> +<perf> +<pp> +<adj> +<mi> +<pl> +<nom>
+dochovat +<vblex> +<perf> +<pp> +<adj> +<f> +<pl> +<nom>
+většina +<n> +<f> +<sg> +<nom>
+vražda +<n> +<f> +<sg> +<nom>
+zemědělský +<adj> +<ma> +<sg> +<acc>
+zemědělský +<adj> +<ma> +<sg> +<gen>
+zemědělský +<adj> +<mi> +<sg> +<gen>
+zemědělský +<adj> +<nt> +<sg> +<gen>
+vzniklý +<adj> +<mi> +<sg> +<acc>
+vzniklý +<adj> +<ma> +<sg> +<nom>
+vzniklý +<adj> +<mi> +<sg> +<voc>
+vzniklý +<adj> +<mi> +<sg> +<nom>
+vzniklý +<adj> +<ma> +<sg> +<voc>
+lehký +<adj> +<sint> +<comp> +<f> +<pl> +<voc>
+lehký +<adj> +<sint> +<comp> +<f> +<sg> +<acc>
+lehký +<adj> +<sint> +<comp> +<nt> +<pl> +<acc>
+lehký +<adj> +<sint> +<comp> +<mi> +<pl> +<acc>
+lehký +<adj> +<sint> +<comp> +<ma> +<pl> +<voc>
+lehký +<adj> +<sint> +<comp> +<f> +<sg> +<dat>
+lehký +<adj> +<sint> +<comp> +<nt> +<sg> +<acc>
+lehký +<adj> +<sint> +<comp> +<f> +<pl> +<nom>
+lehký +<adj> +<sint> +<comp> +<mi> +<pl> +<voc>
+lehký +<adj> +<sint> +<comp> +<mi> +<sg> +<voc>
+lehký +<adj> +<sint> +<comp> +<f> +<sg> +<gen>
+lehký +<adj> +<sint> +<comp> +<nt> +<pl> +<nom>
+lehký +<adj> +<sint> +<comp> +<nt> +<sg> +<voc>
+lehký +<adj> +<sint> +<comp> +<nt> +<sg> +<nom>
+lehký +<adj> +<sint> +<comp> +<ma> +<pl> +<acc>
+lehký +<adj> +<sint> +<comp> +<nt> +<pl> +<voc>
+lehký +<adj> +<sint> +<comp> +<ma> +<sg> +<nom>
+lehký +<adj> +<sint> +<comp> +<f> +<pl> +<acc>
+lehký +<adj> +<sint> +<comp> +<ma> +<pl> +<nom>
+lehký +<adj> +<sint> +<comp> +<mi> +<sg> +<nom>
+lehký +<adj> +<sint> +<comp> +<mi> +<pl> +<nom>
+lehký +<adj> +<sint> +<comp> +<f> +<sg> +<loc>
+lehký +<adj> +<sint> +<comp> +<f> +<sg> +<nom>
+lehký +<adj> +<sint> +<comp> +<f> +<sg> +<ins>
+lehký +<adj> +<sint> +<comp> +<ma> +<sg> +<voc>
+lehký +<adj> +<sint> +<comp> +<f> +<sg> +<voc>
+lehký +<adj> +<sint> +<comp> +<mi> +<sg> +<acc>
+počítat +<vblex> +<impf> +<inf>
+výkon +<n> +<mi> +<pl> +<gen>
+zahynout +<vblex> +<perf> +<past> +<m> +<sg>
+obchodní +<adj> +<mi> +<sg> +<gen>
+obchodní +<adj> +<ma> +<sg> +<acc>
+obchodní +<adj> +<nt> +<sg> +<gen>
+obchodní +<adj> +<ma> +<sg> +<gen>
+hranice +<n> +<f> +<pl> +<ins>
+přestat +<vblex> +<perf> +<past> +<nt> +<pl>
+přestat +<vblex> +<perf> +<past> +<f> +<sg>
+následný +<adj> +<sint> +<ma> +<sg> +<voc>
+následný +<adj> +<sint> +<mi> +<sg> +<voc>
+následný +<adj> +<sint> +<mi> +<sg> +<acc>
+následný +<adj> +<sint> +<mi> +<sg> +<nom>
+následný +<adj> +<sint> +<ma> +<sg> +<nom>
+dálniční +<adj> +<nt> +<sg> +<nom>
+dálniční +<adj> +<nt> +<sg> +<acc>
+dálniční +<adj> +<mi> +<pl> +<acc>
+dálniční +<adj> +<f> +<sg> +<ins>
+dálniční +<adj> +<ma> +<sg> +<voc>
+dálniční +<adj> +<ma> +<pl> +<acc>
+dálniční +<adj> +<f> +<sg> +<loc>
+dálniční +<adj> +<f> +<pl> +<nom>
+dálniční +<adj> +<f> +<sg> +<dat>
+dálniční +<adj> +<ma> +<pl> +<nom>
+dálniční +<adj> +<nt> +<pl> +<acc>
+dálniční +<adj> +<f> +<sg> +<gen>
+dálniční +<adj> +<nt> +<sg> +<voc>
+dálniční +<adj> +<nt> +<pl> +<voc>
+dálniční +<adj> +<f> +<sg> +<acc>
+dálniční +<adj> +<mi> +<sg> +<voc>
+dálniční +<adj> +<ma> +<pl> +<voc>
+dálniční +<adj> +<f> +<sg> +<nom>
+dálniční +<adj> +<nt> +<pl> +<nom>
+dálniční +<adj> +<f> +<pl> +<voc>
+dálniční +<adj> +<ma> +<sg> +<nom>
+dálniční +<adj> +<f> +<pl> +<acc>
+dálniční +<adj> +<mi> +<pl> +<voc>
+dálniční +<adj> +<mi> +<sg> +<acc>
+dálniční +<adj> +<mi> +<sg> +<nom>
+dálniční +<adj> +<mi> +<pl> +<nom>
+dálniční +<adj> +<f> +<sg> +<voc>
+severovýchod +<n> +<mi> +<sg> +<acc>
+severovýchod +<n> +<mi> +<sg> +<nom>
+síla +<n> +<f> +<sg> +<acc>
+síl +<n> +<mi> +<sg> +<voc>
+síl +<n> +<mi> +<sg> +<dat>
+síl +<n> +<mi> +<sg> +<gen>
+síl +<n> +<mi> +<sg> +<loc>
+ekonomický +<adj> +<f> +<sg> +<acc>
+ekonomický +<adj> +<f> +<sg> +<ins>
+stříbro +<n> +<nt> +<sg> +<gen>
+stříbro +<n> +<nt> +<pl> +<voc>
+stříbro +<n> +<nt> +<pl> +<acc>
+stříbro +<n> +<nt> +<pl> +<nom>
+vzor +<n> +<mi> +<sg> +<ins>
+servis +<n> +<mi> +<sg> +<nom>
+servis +<n> +<mi> +<sg> +<acc>
+osobnost +<n> +<f> +<sg> +<ins>
+osobnost +<n> +<f> +<pl> +<gen>
+zavést +<vblex> +<perf> +<inf>
+probíhat +<vblex> +<impf> +<inf>
+kontrakt +<n> +<mi> +<sg> +<acc>
+kontrakt +<n> +<mi> +<sg> +<nom>
+globální +<adj> +<nt> +<sg> +<nom>
+globální +<adj> +<f> +<sg> +<ins>
+globální +<adj> +<ma> +<pl> +<nom>
+globální +<adj> +<ma> +<sg> +<voc>
+globální +<adj> +<nt> +<sg> +<voc>
+globální +<adj> +<nt> +<sg> +<acc>
+globální +<adj> +<ma> +<pl> +<acc>
+globální +<adj> +<mi> +<pl> +<nom>
+globální +<adj> +<mi> +<pl> +<acc>
+globální +<adj> +<nt> +<pl> +<voc>
+globální +<adj> +<mi> +<sg> +<nom>
+globální +<adj> +<f> +<sg> +<acc>
+globální +<adj> +<f> +<pl> +<voc>
+globální +<adj> +<f> +<sg> +<nom>
+globální +<adj> +<mi> +<sg> +<voc>
+globální +<adj> +<mi> +<sg> +<acc>
+globální +<adj> +<mi> +<pl> +<voc>
+globální +<adj> +<ma> +<pl> +<voc>
+globální +<adj> +<f> +<pl> +<nom>
+globální +<adj> +<nt> +<pl> +<acc>
+globální +<adj> +<f> +<pl> +<acc>
+globální +<adj> +<nt> +<pl> +<nom>
+globální +<adj> +<f> +<sg> +<voc>
+globální +<adj> +<f> +<sg> +<gen>
+globální +<adj> +<ma> +<sg> +<nom>
+globální +<adj> +<f> +<sg> +<dat>
+globální +<adj> +<f> +<sg> +<loc>
+vydaný +<adj> +<sint> +<f> +<sg> +<nom>
+vydaný +<adj> +<sint> +<nt> +<pl> +<acc>
+vydaný +<adj> +<sint> +<nt> +<pl> +<nom>
+vydaný +<adj> +<sint> +<nt> +<pl> +<voc>
+vydaný +<adj> +<sint> +<f> +<sg> +<voc>
+manažer +<n> +<ma> +<sg> +<acc>
+manažer +<n> +<ma> +<sg> +<gen>
+producent +<n> +<ma> +<sg> +<nom>
+energie +<n> +<f> +<pl> +<gen>
+energie +<n> +<f> +<sg> +<ins>
+trestný +<adj> +<nt> +<sg> +<gen>
+trestný +<adj> +<mi> +<sg> +<gen>
+trestný +<adj> +<ma> +<sg> +<acc>
+trestný +<adj> +<ma> +<sg> +<gen>
+had +<n> +<ma> +<sg> +<nom>
+otevřený +<adj> +<sint> +<ma> +<pl> +<voc>
+otevřený +<adj> +<sint> +<ma> +<pl> +<nom>
+podbarvený +<adj> +<sint> +<ma> +<pl> +<voc>
+podbarvený +<adj> +<sint> +<ma> +<pl> +<nom>
+věnovaný +<adj> +<sint> +<f> +<sg> +<dat>
+věnovaný +<adj> +<sint> +<f> +<pl> +<voc>
+věnovaný +<adj> +<sint> +<mi> +<pl> +<nom>
+věnovaný +<adj> +<sint> +<f> +<pl> +<nom>
+věnovaný +<adj> +<sint> +<nt> +<sg> +<nom>
+věnovaný +<adj> +<sint> +<mi> +<pl> +<voc>
+věnovaný +<adj> +<sint> +<f> +<sg> +<gen>
+věnovaný +<adj> +<sint> +<nt> +<sg> +<acc>
+věnovaný +<adj> +<sint> +<ma> +<pl> +<acc>
+věnovaný +<adj> +<sint> +<f> +<pl> +<acc>
+věnovaný +<adj> +<sint> +<mi> +<pl> +<acc>
+věnovaný +<adj> +<sint> +<f> +<sg> +<loc>
+věnovaný +<adj> +<sint> +<nt> +<sg> +<voc>
+hostovat +<vblex> +<impf> +<pp> +<adj> +<ma> +<pl> +<voc>
+hostovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<gen>
+hostovat +<vblex> +<impf> +<ger> +<nt> +<pl> +<voc>
+hostovat +<vblex> +<impf> +<ger> +<nt> +<pl> +<nom>
+hostovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<loc>
+hostovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<dat>
+hostovat +<vblex> +<impf> +<ger> +<nt> +<pl> +<acc>
+hostovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<nom>
+hostovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<acc>
+hostovat +<vblex> +<impf> +<pp> +<adj> +<ma> +<pl> +<nom>
+hostovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<voc>
+hostovat +<vblex> +<impf> +<ger> +<nt> +<pl> +<gen>
+rozšiřovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<nom>
+rozšiřovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<dat>
+rozšiřovat +<vblex> +<impf> +<ger> +<nt> +<pl> +<gen>
+rozšiřovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<acc>
+rozšiřovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<voc>
+rozšiřovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<gen>
+rozšiřovat +<vblex> +<impf> +<pp> +<adj> +<ma> +<pl> +<nom>
+rozšiřovat +<vblex> +<impf> +<pp> +<adj> +<ma> +<pl> +<voc>
+rozšiřovat +<vblex> +<impf> +<ger> +<nt> +<pl> +<acc>
+rozšiřovat +<vblex> +<impf> +<ger> +<nt> +<pl> +<nom>
+rozšiřovat +<vblex> +<impf> +<ger> +<nt> +<pl> +<voc>
+rozšiřovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<loc>
+církev +<n> +<f> +<sg> +<ins>
+církev +<n> +<f> +<pl> +<gen>
+letoun +<n> +<mi> +<pl> +<nom>
+letoun +<n> +<mi> +<pl> +<acc>
+letoun +<n> +<mi> +<pl> +<voc>
+letoun +<n> +<mi> +<pl> +<ins>
+noc +<n> +<f> +<sg> +<gen>
+noc +<n> +<f> +<pl> +<acc>
+noc +<n> +<f> +<sg> +<loc>
+noc +<n> +<f> +<sg> +<dat>
+noc +<n> +<f> +<sg> +<voc>
+noc +<n> +<f> +<pl> +<voc>
+noc +<n> +<f> +<pl> +<nom>
+pilíř +<n> +<mi> +<sg> +<gen>
+pilíř +<n> +<mi> +<pl> +<voc>
+pilíř +<n> +<mi> +<pl> +<acc>
+pilíř +<n> +<mi> +<pl> +<nom>
+čepel +<n> +<f> +<sg> +<acc>
+čepel +<n> +<mi> +<sg> +<acc>
+čepel +<n> +<f> +<sg> +<nom>
+čepel +<n> +<mi> +<sg> +<nom>
+asijský +<adj> +<mi> +<pl> +<gen>
+asijský +<adj> +<nt> +<pl> +<gen>
+asijský +<adj> +<nt> +<pl> +<loc>
+asijský +<adj> +<ma> +<pl> +<gen>
+asijský +<adj> +<f> +<pl> +<loc>
+asijský +<adj> +<mi> +<pl> +<loc>
+asijský +<adj> +<f> +<pl> +<gen>
+asijský +<adj> +<ma> +<pl> +<loc>
+původní +<adj> +<nt> +<sg> +<dat>
+původní +<adj> +<ma> +<sg> +<dat>
+původní +<adj> +<mi> +<sg> +<dat>
+hlas +<n> +<mi> +<pl> +<acc>
+hlas +<n> +<mi> +<pl> +<nom>
+hlas +<n> +<mi> +<pl> +<ins>
+hlas +<n> +<mi> +<pl> +<voc>
+církev +<n> +<f> +<sg> +<dat>
+církev +<n> +<f> +<sg> +<loc>
+specializace +<n> +<f> +<pl> +<gen>
+specializace +<n> +<f> +<sg> +<ins>
+náměstek +<n> +<ma> +<sg> +<acc>
+náměstek +<n> +<ma> +<sg> +<gen>
+křídlo +<n> +<nt> +<pl> +<gen>
+výška +<n> +<f> +<pl> +<loc>
+pravý +<adj> +<sint> +<f> +<sg> +<voc>
+pravý +<adj> +<sint> +<nt> +<pl> +<nom>
+pravý +<adj> +<sint> +<f> +<sg> +<nom>
+pravý +<adj> +<sint> +<nt> +<pl> +<acc>
+pravý +<adj> +<sint> +<nt> +<pl> +<voc>
+schůze +<n> +<f> +<sg> +<acc>
+schůze +<n> +<f> +<sg> +<loc>
+schůze +<n> +<f> +<sg> +<dat>
+presbytář +<n> +<mi> +<sg> +<acc>
+presbytář +<n> +<mi> +<sg> +<nom>
+historický +<adj> +<ma> +<sg> +<loc>
+historický +<adj> +<nt> +<sg> +<loc>
+historický +<adj> +<mi> +<sg> +<loc>
+podepsat +<vblex> +<perf> +<past> +<m> +<sg>
+vesnický +<adj> +<mi> +<sg> +<gen>
+vesnický +<adj> +<ma> +<sg> +<acc>
+vesnický +<adj> +<nt> +<sg> +<gen>
+vesnický +<adj> +<ma> +<sg> +<gen>
+prokop +<n> +<ma> +<sg> +<acc>
+prokop +<n> +<ma> +<sg> +<gen>
+dokument +<n> +<mi> +<pl> +<gen>
+soutěž +<n> +<f> +<sg> +<voc>
+soutěž +<n> +<f> +<sg> +<dat>
+soutěž +<n> +<f> +<sg> +<loc>
+používat +<vblex> +<impf> +<pp> +<impers> +<f> +<sg>
+používat +<vblex> +<impf> +<pp> +<impers> +<nt> +<pl>
+arabský +<adj> +<nt> +<pl> +<nom>
+arabský +<adj> +<nt> +<pl> +<voc>
+arabský +<adj> +<nt> +<pl> +<acc>
+arabský +<adj> +<f> +<sg> +<nom>
+arabský +<adj> +<f> +<sg> +<voc>
+podařit +<vblex> +<perf> +<past> +<nt> +<sg>
+občanský +<adj> +<f> +<sg> +<voc>
+občanský +<adj> +<nt> +<pl> +<voc>
+občanský +<adj> +<f> +<sg> +<nom>
+občanský +<adj> +<nt> +<pl> +<nom>
+občanský +<adj> +<nt> +<pl> +<acc>
+posádka +<n> +<f> +<sg> +<ins>
+okrsek +<n> +<mi> +<sg> +<gen>
+okrsek +<n> +<mi> +<sg> +<loc>
+okrsek +<n> +<mi> +<sg> +<dat>
+okrsek +<n> +<mi> +<sg> +<voc>
+japonský +<adj> +<mi> +<sg> +<loc>
+japonský +<adj> +<ma> +<sg> +<loc>
+japonský +<adj> +<nt> +<sg> +<loc>
+základ +<n> +<mi> +<pl> +<loc>
+trestní +<adj> +<f> +<pl> +<dat>
+trestní +<adj> +<nt> +<sg> +<loc>
+trestní +<adj> +<nt> +<sg> +<ins>
+trestní +<adj> +<ma> +<sg> +<ins>
+trestní +<adj> +<nt> +<pl> +<dat>
+trestní +<adj> +<mi> +<sg> +<loc>
+trestní +<adj> +<mi> +<pl> +<dat>
+trestní +<adj> +<mi> +<sg> +<ins>
+trestní +<adj> +<ma> +<sg> +<loc>
+trestní +<adj> +<ma> +<pl> +<dat>
+ženský +<adj> +<f> +<sg> +<loc>
+ženský +<adj> +<f> +<pl> +<nom>
+ženský +<adj> +<mi> +<pl> +<voc>
+ženský +<adj> +<mi> +<pl> +<nom>
+ženský +<adj> +<f> +<pl> +<acc>
+ženský +<adj> +<nt> +<sg> +<acc>
+ženský +<adj> +<f> +<sg> +<gen>
+ženský +<adj> +<nt> +<sg> +<voc>
+ženský +<adj> +<nt> +<sg> +<nom>
+ženský +<adj> +<mi> +<pl> +<acc>
+ženský +<adj> +<f> +<sg> +<dat>
+ženský +<adj> +<f> +<pl> +<voc>
+ženský +<adj> +<ma> +<pl> +<acc>
+platnost +<n> +<f> +<pl> +<acc>
+platnost +<n> +<f> +<pl> +<nom>
+platnost +<n> +<f> +<sg> +<gen>
+platnost +<n> +<f> +<sg> +<loc>
+platnost +<n> +<f> +<sg> +<voc>
+platnost +<n> +<f> +<pl> +<voc>
+platnost +<n> +<f> +<sg> +<dat>
+hvězda +<n> +<f> +<sg> +<nom>
+budova +<n> +<f> +<sg> +<acc>
+komise +<n> +<f> +<pl> +<gen>
+komise +<n> +<f> +<sg> +<ins>
+nabídka +<n> +<f> +<sg> +<nom>
+hnací +<adj> +<ma> +<pl> +<acc>
+hnací +<adj> +<mi> +<sg> +<acc>
+hnací +<adj> +<f> +<sg> +<gen>
+hnací +<adj> +<nt> +<pl> +<voc>
+hnací +<adj> +<mi> +<pl> +<acc>
+hnací +<adj> +<nt> +<sg> +<acc>
+hnací +<adj> +<mi> +<sg> +<voc>
+hnací +<adj> +<f> +<sg> +<voc>
+hnací +<adj> +<f> +<pl> +<nom>
+hnací +<adj> +<mi> +<sg> +<nom>
+hnací +<adj> +<ma> +<sg> +<voc>
+hnací +<adj> +<nt> +<sg> +<nom>
+hnací +<adj> +<ma> +<pl> +<nom>
+hnací +<adj> +<f> +<pl> +<voc>
+hnací +<adj> +<ma> +<sg> +<nom>
+hnací +<adj> +<f> +<sg> +<dat>
+hnací +<adj> +<f> +<sg> +<nom>
+hnací +<adj> +<f> +<pl> +<acc>
+hnací +<adj> +<mi> +<pl> +<voc>
+hnací +<adj> +<f> +<sg> +<acc>
+hnací +<adj> +<nt> +<pl> +<acc>
+hnací +<adj> +<f> +<sg> +<ins>
+hnací +<adj> +<nt> +<sg> +<voc>
+hnací +<adj> +<nt> +<pl> +<nom>
+hnací +<adj> +<f> +<sg> +<loc>
+hnací +<adj> +<ma> +<pl> +<voc>
+hnací +<adj> +<mi> +<pl> +<nom>
+spočívat +<vblex> +<impf> +<pres> +<p3> +<sg>
+stavební +<adj> +<mi> +<pl> +<gen>
+stavební +<adj> +<mi> +<pl> +<loc>
+stavební +<adj> +<nt> +<pl> +<gen>
+stavební +<adj> +<nt> +<pl> +<loc>
+stavební +<adj> +<ma> +<pl> +<loc>
+stavební +<adj> +<f> +<pl> +<gen>
+stavební +<adj> +<f> +<pl> +<loc>
+stavební +<adj> +<ma> +<pl> +<gen>
+evoluce +<n> +<f> +<sg> +<nom>
+evoluce +<n> +<f> +<pl> +<nom>
+evoluce +<n> +<f> +<pl> +<acc>
+evoluce +<n> +<f> +<sg> +<gen>
+odehrávat +<vblex> +<impf> +<pres> +<p3> +<sg>
+kočka +<n> +<f> +<sg> +<gen>
+kočka +<n> +<f> +<pl> +<nom>
+kočka +<n> +<f> +<pl> +<acc>
+kočka +<n> +<f> +<pl> +<voc>
+institut +<n> +<mi> +<sg> +<nom>
+institut +<n> +<mi> +<sg> +<acc>
+institut +<n> +<ma> +<sg> +<nom>
+zastávat +<vblex> +<impf> +<past> +<m> +<sg>
+zámek +<n> +<mi> +<sg> +<gen>
+zámek +<n> +<mi> +<sg> +<voc>
+zámek +<n> +<mi> +<sg> +<loc>
+zámek +<n> +<mi> +<sg> +<dat>
+velký +<adj> +<sint> +<ma> +<sg> +<voc>
+velký +<adj> +<mi> +<sg> +<acc>
+velký +<adj> +<ma> +<sg> +<voc>
+velký +<adj> +<sint> +<mi> +<sg> +<acc>
+velký +<adj> +<mi> +<sg> +<nom>
+velký +<adj> +<sint> +<ma> +<sg> +<nom>
+velký +<adj> +<sint> +<mi> +<sg> +<voc>
+velký +<adj> +<ma> +<sg> +<nom>
+velký +<adj> +<sint> +<mi> +<sg> +<nom>
+velký +<adj> +<mi> +<sg> +<voc>
+tamní +<adj> +<ma> +<sg> +<voc>
+tamní +<adj> +<f> +<pl> +<acc>
+tamní +<adj> +<f> +<sg> +<voc>
+tamní +<adj> +<mi> +<sg> +<voc>
+tamní +<adj> +<f> +<pl> +<nom>
+tamní +<adj> +<f> +<sg> +<dat>
+tamní +<adj> +<mi> +<pl> +<acc>
+tamní +<adj> +<f> +<sg> +<ins>
+tamní +<adj> +<mi> +<pl> +<nom>
+tamní +<adj> +<nt> +<sg> +<acc>
+tamní +<adj> +<ma> +<pl> +<acc>
+tamní +<adj> +<nt> +<pl> +<voc>
+tamní +<adj> +<ma> +<sg> +<nom>
+tamní +<adj> +<nt> +<pl> +<acc>
+tamní +<adj> +<mi> +<sg> +<acc>
+tamní +<adj> +<nt> +<pl> +<nom>
+tamní +<adj> +<nt> +<sg> +<voc>
+tamní +<adj> +<f> +<sg> +<gen>
+tamní +<adj> +<ma> +<pl> +<nom>
+tamní +<adj> +<mi> +<sg> +<nom>
+tamní +<adj> +<f> +<sg> +<loc>
+tamní +<adj> +<nt> +<sg> +<nom>
+tamní +<adj> +<mi> +<pl> +<voc>
+tamní +<adj> +<f> +<pl> +<voc>
+tamní +<adj> +<f> +<sg> +<nom>
+tamní +<adj> +<f> +<sg> +<acc>
+tamní +<adj> +<ma> +<pl> +<voc>
+celý +<adj> +<ma> +<sg> +<loc>
+celý +<adj> +<mi> +<sg> +<loc>
+celý +<adj> +<nt> +<sg> +<loc>
+oslava +<n> +<f> +<sg> +<ins>
+vysílat +<vblex> +<impf> +<pp> +<impers> +<m> +<sg>
+fotbalový +<adj> +<sint> +<mi> +<sg> +<nom>
+fotbalový +<adj> +<sint> +<ma> +<sg> +<voc>
+fotbalový +<adj> +<sint> +<mi> +<sg> +<voc>
+fotbalový +<adj> +<sint> +<mi> +<sg> +<acc>
+fotbalový +<adj> +<sint> +<ma> +<sg> +<nom>
+uvažovat +<vblex> +<impf> +<inf>
+rockový +<adj> +<sint> +<nt> +<pl> +<nom>
+rockový +<adj> +<sint> +<f> +<sg> +<voc>
+rockový +<adj> +<sint> +<nt> +<pl> +<voc>
+rockový +<adj> +<sint> +<nt> +<pl> +<acc>
+rockový +<adj> +<sint> +<f> +<sg> +<nom>
+složený +<adj> +<sint> +<nt> +<pl> +<acc>
+složený +<adj> +<sint> +<nt> +<pl> +<nom>
+složit +<vblex> +<perf> +<pp> +<adj> +<f> +<sg> +<voc>
+složený +<adj> +<sint> +<f> +<sg> +<voc>
+složit +<vblex> +<perf> +<pp> +<adj> +<f> +<sg> +<nom>
+složit +<vblex> +<perf> +<pp> +<adj> +<nt> +<pl> +<nom>
+složený +<adj> +<sint> +<nt> +<pl> +<voc>
+složit +<vblex> +<perf> +<pp> +<adj> +<nt> +<pl> +<voc>
+složený +<adj> +<sint> +<f> +<sg> +<nom>
+složit +<vblex> +<perf> +<pp> +<adj> +<nt> +<pl> +<acc>
+přední +<adj> +<ma> +<sg> +<gen>
+přední +<adj> +<mi> +<sg> +<gen>
+přední +<adj> +<nt> +<sg> +<gen>
+přední +<adj> +<ma> +<sg> +<acc>
+důležitý +<adj> +<sint> +<ma> +<sg> +<voc>
+důležitý +<adj> +<sint> +<ma> +<sg> +<nom>
+důležitý +<adj> +<sint> +<mi> +<sg> +<nom>
+důležitý +<adj> +<sint> +<mi> +<sg> +<voc>
+důležitý +<adj> +<sint> +<mi> +<sg> +<acc>
+architekt +<n> +<ma> +<pl> +<gen>
+uživatel +<n> +<ma> +<pl> +<dat>
+osa +<n> +<f> +<sg> +<nom>
+vláda +<n> +<f> +<sg> +<nom>
+levý +<adj> +<sint> +<ma> +<sg> +<voc>
+levý +<adj> +<sint> +<ma> +<sg> +<nom>
+levý +<adj> +<sint> +<mi> +<sg> +<voc>
+levý +<adj> +<sint> +<mi> +<sg> +<acc>
+levý +<adj> +<sint> +<mi> +<sg> +<nom>
+společenský +<adj> +<ma> +<pl> +<acc>
+společenský +<adj> +<f> +<sg> +<gen>
+společenský +<adj> +<nt> +<sg> +<voc>
+společenský +<adj> +<nt> +<sg> +<nom>
+společenský +<adj> +<f> +<pl> +<voc>
+společenský +<adj> +<mi> +<pl> +<voc>
+společenský +<adj> +<nt> +<sg> +<acc>
+společenský +<adj> +<f> +<sg> +<dat>
+společenský +<adj> +<f> +<sg> +<loc>
+společenský +<adj> +<mi> +<pl> +<nom>
+společenský +<adj> +<f> +<pl> +<nom>
+společenský +<adj> +<f> +<pl> +<acc>
+společenský +<adj> +<mi> +<pl> +<acc>
+šachový +<adj> +<sint> +<f> +<sg> +<gen>
+šachový +<adj> +<sint> +<f> +<sg> +<loc>
+šachový +<adj> +<sint> +<nt> +<sg> +<acc>
+šachový +<adj> +<sint> +<mi> +<pl> +<nom>
+šachový +<adj> +<sint> +<f> +<pl> +<voc>
+šachový +<adj> +<sint> +<f> +<sg> +<dat>
+šachový +<adj> +<sint> +<mi> +<pl> +<voc>
+šachový +<adj> +<sint> +<mi> +<pl> +<acc>
+šachový +<adj> +<sint> +<nt> +<sg> +<nom>
+šachový +<adj> +<sint> +<f> +<pl> +<acc>
+šachový +<adj> +<sint> +<ma> +<pl> +<acc>
+šachový +<adj> +<sint> +<f> +<pl> +<nom>
+šachový +<adj> +<sint> +<nt> +<sg> +<voc>
+proslulý +<adj> +<mi> +<sg> +<voc>
+proslulý +<adj> +<ma> +<sg> +<voc>
+proslulý +<adj> +<mi> +<sg> +<acc>
+proslulý +<adj> +<mi> +<sg> +<nom>
+proslulý +<adj> +<ma> +<sg> +<nom>
+přežít +<vblex> +<perf> +<past> +<f> +<sg>
+přežít +<vblex> +<perf> +<past> +<nt> +<pl>
+brod +<n> +<mi> +<sg> +<dat>
+brod +<n> +<mi> +<sg> +<gen>
+brod +<n> +<mi> +<sg> +<loc>
+vědec +<n> +<ma> +<pl> +<ins>
+vědec +<n> +<ma> +<pl> +<voc>
+vědec +<n> +<ma> +<sg> +<loc>
+vědec +<n> +<ma> +<sg> +<dat>
+vědec +<n> +<ma> +<pl> +<nom>
+obraz +<n> +<mi> +<sg> +<voc>
+bohatý +<adj> +<sint> +<ma> +<sg> +<acc>
+bohatý +<adj> +<sint> +<nt> +<sg> +<gen>
+bohatý +<adj> +<sint> +<mi> +<sg> +<gen>
+bohatý +<adj> +<sint> +<ma> +<sg> +<gen>
+konzervativní +<adj> +<ma> +<pl> +<nom>
+konzervativní +<adj> +<f> +<sg> +<voc>
+konzervativní +<adj> +<nt> +<sg> +<nom>
+konzervativní +<adj> +<mi> +<sg> +<voc>
+konzervativní +<adj> +<mi> +<sg> +<nom>
+konzervativní +<adj> +<f> +<sg> +<dat>
+konzervativní +<adj> +<ma> +<sg> +<voc>
+konzervativní +<adj> +<f> +<pl> +<voc>
+konzervativní +<adj> +<nt> +<pl> +<nom>
+konzervativní +<adj> +<mi> +<pl> +<acc>
+konzervativní +<adj> +<mi> +<pl> +<voc>
+konzervativní +<adj> +<f> +<pl> +<nom>
+konzervativní +<adj> +<f> +<sg> +<loc>
+konzervativní +<adj> +<ma> +<pl> +<voc>
+konzervativní +<adj> +<f> +<sg> +<acc>
+konzervativní +<adj> +<mi> +<sg> +<acc>
+konzervativní +<adj> +<nt> +<sg> +<voc>
+konzervativní +<adj> +<nt> +<pl> +<voc>
+konzervativní +<adj> +<nt> +<sg> +<acc>
+konzervativní +<adj> +<f> +<pl> +<acc>
+konzervativní +<adj> +<ma> +<sg> +<nom>
+konzervativní +<adj> +<ma> +<pl> +<acc>
+konzervativní +<adj> +<nt> +<pl> +<acc>
+konzervativní +<adj> +<f> +<sg> +<gen>
+konzervativní +<adj> +<mi> +<pl> +<nom>
+konzervativní +<adj> +<f> +<sg> +<ins>
+konzervativní +<adj> +<f> +<sg> +<nom>
+cm +<n> +<mi> +<sp> +<indecl>
+fotbalový +<adj> +<sint> +<f> +<sg> +<acc>
+fotbalový +<adj> +<sint> +<f> +<sg> +<ins>
+zaměřovat +<vblex> +<impf> +<pres> +<p3> +<sg>
+zaměřovat +<vblex> +<impf> +<tgv> +<pprs> +<ma> +<sg>
+zaměřovat +<vblex> +<impf> +<tgv> +<pprs> +<mi> +<sg>
+moravský +<adj> +<f> +<pl> +<loc>
+moravský +<adj> +<ma> +<pl> +<gen>
+moravský +<adj> +<nt> +<pl> +<gen>
+moravský +<adj> +<mi> +<pl> +<gen>
+moravský +<adj> +<ma> +<pl> +<loc>
+moravský +<adj> +<mi> +<pl> +<loc>
+moravský +<adj> +<nt> +<pl> +<loc>
+moravský +<adj> +<f> +<pl> +<gen>
+učitel +<n> +<ma> +<pl> +<nom>
+učitel +<n> +<ma> +<pl> +<voc>
+úvodní +<adj> +<nt> +<sg> +<nom>
+úvodní +<adj> +<nt> +<pl> +<nom>
+úvodní +<adj> +<ma> +<sg> +<nom>
+úvodní +<adj> +<mi> +<pl> +<voc>
+úvodní +<adj> +<ma> +<pl> +<acc>
+úvodní +<adj> +<mi> +<pl> +<nom>
+úvodní +<adj> +<nt> +<pl> +<voc>
+úvodní +<adj> +<mi> +<sg> +<nom>
+úvodní +<adj> +<mi> +<sg> +<acc>
+úvodný +<adj> +<sint> +<ma> +<pl> +<voc>
+úvodní +<adj> +<f> +<pl> +<acc>
+úvodní +<adj> +<ma> +<pl> +<nom>
+úvodní +<adj> +<f> +<sg> +<voc>
+úvodní +<adj> +<f> +<pl> +<nom>
+úvodní +<adj> +<f> +<pl> +<voc>
+úvodní +<adj> +<nt> +<pl> +<acc>
+úvodní +<adj> +<f> +<sg> +<gen>
+úvodní +<adj> +<ma> +<sg> +<voc>
+úvodní +<adj> +<ma> +<pl> +<voc>
+úvodní +<adj> +<nt> +<sg> +<voc>
+úvodní +<adj> +<f> +<sg> +<acc>
+úvodní +<adj> +<f> +<sg> +<ins>
+úvodní +<adj> +<nt> +<sg> +<acc>
+úvodní +<adj> +<f> +<sg> +<dat>
+úvodní +<adj> +<mi> +<pl> +<acc>
+úvodní +<adj> +<mi> +<sg> +<voc>
+úvodný +<adj> +<sint> +<ma> +<pl> +<nom>
+úvodní +<adj> +<f> +<sg> +<loc>
+úvodní +<adj> +<f> +<sg> +<nom>
+zachovalý +<adj> +<cpd>
+zachovat +<vblex> +<impf> +<past> +<nt> +<sg>
+symbol +<n> +<mi> +<pl> +<ins>
+symbol +<n> +<mi> +<pl> +<nom>
+symbol +<n> +<mi> +<pl> +<acc>
+symbol +<n> +<mi> +<pl> +<voc>
+prostorový +<adj> +<sint> +<nt> +<sg> +<acc>
+prostorový +<adj> +<sint> +<nt> +<sg> +<voc>
+prostorový +<adj> +<sint> +<ma> +<pl> +<acc>
+prostorový +<adj> +<sint> +<mi> +<pl> +<nom>
+prostorový +<adj> +<sint> +<f> +<sg> +<loc>
+prostorový +<adj> +<sint> +<nt> +<sg> +<nom>
+prostorový +<adj> +<sint> +<f> +<sg> +<gen>
+prostorový +<adj> +<sint> +<f> +<pl> +<acc>
+prostorový +<adj> +<sint> +<f> +<sg> +<dat>
+prostorový +<adj> +<sint> +<f> +<pl> +<voc>
+prostorový +<adj> +<sint> +<f> +<pl> +<nom>
+prostorový +<adj> +<sint> +<mi> +<pl> +<acc>
+prostorový +<adj> +<sint> +<mi> +<pl> +<voc>
+získávat +<vblex> +<impf> +<inf>
+popis +<n> +<mi> +<sg> +<acc>
+popis +<n> +<mi> +<sg> +<nom>
+poslední +<adj> +<mi> +<sg> +<voc>
+poslední +<adj> +<nt> +<sg> +<voc>
+poslední +<adj> +<mi> +<pl> +<acc>
+poslední +<adj> +<f> +<sg> +<acc>
+poslední +<adj> +<f> +<sg> +<gen>
+poslední +<adj> +<ma> +<pl> +<acc>
+poslední +<adj> +<ma> +<pl> +<nom>
+poslední +<adj> +<ma> +<pl> +<voc>
+poslední +<adj> +<f> +<sg> +<loc>
+poslední +<adj> +<nt> +<pl> +<voc>
+poslední +<adj> +<mi> +<sg> +<nom>
+poslední +<adj> +<f> +<pl> +<acc>
+poslední +<adj> +<mi> +<pl> +<voc>
+poslední +<adj> +<nt> +<sg> +<nom>
+poslední +<adj> +<nt> +<pl> +<nom>
+poslední +<adj> +<f> +<sg> +<ins>
+poslední +<adj> +<nt> +<pl> +<acc>
+poslední +<adj> +<ma> +<sg> +<voc>
+poslední +<adj> +<f> +<sg> +<voc>
+poslední +<adj> +<f> +<pl> +<nom>
+poslední +<adj> +<f> +<sg> +<nom>
+poslední +<adj> +<f> +<sg> +<dat>
+poslední +<adj> +<ma> +<sg> +<nom>
+poslední +<adj> +<f> +<pl> +<voc>
+poslední +<adj> +<mi> +<pl> +<nom>
+poslední +<adj> +<nt> +<sg> +<acc>
+poslední +<adj> +<mi> +<sg> +<acc>
+vzniklý +<adj> +<mi> +<sg> +<gen>
+vzniklý +<adj> +<ma> +<sg> +<acc>
+vzniklý +<adj> +<ma> +<sg> +<gen>
+vzniklý +<adj> +<nt> +<sg> +<gen>
+současný +<adj> +<sint> +<nt> +<sg> +<gen>
+současný +<adj> +<sint> +<mi> +<sg> +<gen>
+současný +<adj> +<sint> +<ma> +<sg> +<acc>
+současný +<adj> +<sint> +<ma> +<sg> +<gen>
+tematika +<n> +<f> +<sg> +<ins>
+říjen +<n> +<mi> +<sg> +<acc>
+říjen +<n> +<mi> +<sg> +<nom>
+polský +<adj> +<nt> +<pl> +<loc>
+polský +<adj> +<f> +<pl> +<loc>
+polský +<adj> +<ma> +<pl> +<gen>
+polský +<adj> +<mi> +<pl> +<loc>
+polský +<adj> +<nt> +<pl> +<gen>
+polský +<adj> +<mi> +<pl> +<gen>
+polský +<adj> +<f> +<pl> +<gen>
+polský +<adj> +<ma> +<pl> +<loc>
+luk +<n> +<mi> +<sg> +<nom>
+luk +<n> +<mi> +<sg> +<acc>
+tvořit +<vblex> +<impf> +<pp> +<adj> +<mi> +<sg> +<voc>
+tvořený +<adj> +<sint> +<ma> +<sg> +<voc>
+tvořený +<adj> +<sint> +<ma> +<sg> +<nom>
+tvořit +<vblex> +<impf> +<pp> +<adj> +<ma> +<sg> +<nom>
+tvořit +<vblex> +<impf> +<pp> +<adj> +<mi> +<sg> +<nom>
+tvořit +<vblex> +<impf> +<pp> +<adj> +<mi> +<sg> +<acc>
+tvořený +<adj> +<sint> +<mi> +<sg> +<voc>
+tvořený +<adj> +<sint> +<mi> +<sg> +<nom>
+tvořený +<adj> +<sint> +<mi> +<sg> +<acc>
+tvořit +<vblex> +<impf> +<pp> +<adj> +<ma> +<sg> +<voc>
+nízký +<adj> +<sint> +<mi> +<pl> +<dat>
+nízký +<adj> +<ma> +<sg> +<ins>
+nízký +<adj> +<nt> +<pl> +<dat>
+nízký +<adj> +<nt> +<sg> +<ins>
+nízký +<adj> +<f> +<pl> +<dat>
+nízký +<adj> +<sint> +<nt> +<pl> +<dat>
+nízký +<adj> +<mi> +<sg> +<ins>
+nízký +<adj> +<ma> +<pl> +<dat>
+nízký +<adj> +<sint> +<mi> +<sg> +<ins>
+nízký +<adj> +<sint> +<ma> +<sg> +<ins>
+nízký +<adj> +<sint> +<ma> +<pl> +<dat>
+nízký +<adj> +<sint> +<nt> +<sg> +<ins>
+nízký +<adj> +<sint> +<f> +<pl> +<dat>
+nízký +<adj> +<mi> +<pl> +<dat>
+doprava +<n> +<f> +<sg> +<ins>
+projev +<n> +<mi> +<pl> +<nom>
+projev +<n> +<mi> +<pl> +<acc>
+projev +<n> +<mi> +<pl> +<voc>
+projev +<n> +<mi> +<pl> +<ins>
+levý +<adj> +<sint> +<f> +<sg> +<ins>
+levý +<adj> +<sint> +<f> +<sg> +<acc>
+pohled +<n> +<mi> +<sg> +<dat>
+pohled +<n> +<mi> +<sg> +<voc>
+pohled +<n> +<mi> +<sg> +<loc>
+pohled +<n> +<mi> +<sg> +<gen>
+oblíbený +<adj> +<sint> +<f> +<sg> +<dat>
+oblíbený +<adj> +<sint> +<nt> +<sg> +<acc>
+oblíbený +<adj> +<sint> +<ma> +<pl> +<acc>
+oblíbený +<adj> +<sint> +<mi> +<pl> +<acc>
+oblíbený +<adj> +<sint> +<nt> +<sg> +<voc>
+oblíbený +<adj> +<sint> +<mi> +<pl> +<voc>
+oblíbený +<adj> +<sint> +<f> +<sg> +<loc>
+oblíbený +<adj> +<sint> +<f> +<pl> +<acc>
+oblíbený +<adj> +<sint> +<f> +<pl> +<voc>
+oblíbený +<adj> +<sint> +<f> +<pl> +<nom>
+oblíbený +<adj> +<sint> +<nt> +<sg> +<nom>
+oblíbený +<adj> +<sint> +<mi> +<pl> +<nom>
+oblíbený +<adj> +<sint> +<f> +<sg> +<gen>
+ovládat +<vblex> +<impf> +<inf>
+válečný +<adj> +<sint> +<mi> +<sg> +<gen>
+válečný +<adj> +<sint> +<nt> +<sg> +<gen>
+válečný +<adj> +<sint> +<ma> +<sg> +<acc>
+válečný +<adj> +<sint> +<ma> +<sg> +<gen>
+palivo +<n> +<nt> +<pl> +<nom>
+palivo +<n> +<nt> +<sg> +<gen>
+palivo +<n> +<nt> +<pl> +<voc>
+palivo +<n> +<nt> +<pl> +<acc>
+český +<adj> +<ma> +<pl> +<voc>
+český +<adj> +<ma> +<pl> +<nom>
+duben +<n> +<mi> +<sg> +<acc>
+duben +<n> +<mi> +<sg> +<nom>
+generál +<n> +<ma> +<sg> +<gen>
+generál +<n> +<ma> +<sg> +<acc>
+říšský +<adj> +<ma> +<sg> +<acc>
+říšský +<adj> +<nt> +<sg> +<gen>
+říšský +<adj> +<ma> +<sg> +<gen>
+říšský +<adj> +<mi> +<sg> +<gen>
+silný +<adj> +<sint> +<comp> +<ma> +<pl> +<nom>
+silný +<adj> +<sint> +<comp> +<f> +<pl> +<nom>
+silný +<adj> +<sint> +<comp> +<nt> +<pl> +<voc>
+silný +<adj> +<sint> +<comp> +<nt> +<sg> +<voc>
+silný +<adj> +<sint> +<comp> +<mi> +<pl> +<voc>
+silný +<adj> +<sint> +<comp> +<f> +<sg> +<gen>
+silný +<adj> +<sint> +<comp> +<nt> +<sg> +<nom>
+silný +<adj> +<sint> +<comp> +<ma> +<pl> +<acc>
+silný +<adj> +<sint> +<comp> +<mi> +<pl> +<nom>
+silný +<adj> +<sint> +<comp> +<mi> +<sg> +<nom>
+silný +<adj> +<sint> +<comp> +<mi> +<pl> +<acc>
+silný +<adj> +<sint> +<comp> +<f> +<sg> +<loc>
+silný +<adj> +<sint> +<comp> +<f> +<sg> +<voc>
+silný +<adj> +<sint> +<comp> +<ma> +<sg> +<nom>
+silný +<adj> +<sint> +<comp> +<ma> +<pl> +<voc>
+silný +<adj> +<sint> +<comp> +<ma> +<sg> +<voc>
+silný +<adj> +<sint> +<comp> +<mi> +<sg> +<acc>
+silný +<adj> +<sint> +<comp> +<f> +<sg> +<ins>
+silný +<adj> +<sint> +<comp> +<f> +<sg> +<acc>
+silný +<adj> +<sint> +<comp> +<nt> +<pl> +<acc>
+silný +<adj> +<sint> +<comp> +<mi> +<sg> +<voc>
+silný +<adj> +<sint> +<comp> +<f> +<pl> +<acc>
+silný +<adj> +<sint> +<comp> +<f> +<sg> +<dat>
+silný +<adj> +<sint> +<comp> +<f> +<pl> +<voc>
+silný +<adj> +<sint> +<comp> +<nt> +<sg> +<acc>
+silný +<adj> +<sint> +<comp> +<f> +<sg> +<nom>
+silný +<adj> +<sint> +<comp> +<nt> +<pl> +<nom>
+trasa +<n> +<f> +<pl> +<gen>
+založit +<vblex> +<perf> +<pp> +<adj> +<nt> +<pl> +<gen>
+založit +<vblex> +<perf> +<pp> +<adj> +<f> +<pl> +<gen>
+založit +<vblex> +<perf> +<pp> +<adj> +<mi> +<pl> +<gen>
+založit +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<gen>
+založený +<adj> +<sint> +<nt> +<pl> +<loc>
+založený +<adj> +<sint> +<f> +<pl> +<gen>
+založený +<adj> +<sint> +<ma> +<pl> +<gen>
+založit +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<loc>
+založit +<vblex> +<perf> +<pp> +<adj> +<f> +<pl> +<loc>
+založený +<adj> +<sint> +<nt> +<pl> +<gen>
+založený +<adj> +<sint> +<f> +<pl> +<loc>
+založený +<adj> +<sint> +<mi> +<pl> +<loc>
+založený +<adj> +<sint> +<ma> +<pl> +<loc>
+založit +<vblex> +<perf> +<pp> +<adj> +<mi> +<pl> +<loc>
+založený +<adj> +<sint> +<mi> +<pl> +<gen>
+založit +<vblex> +<perf> +<pp> +<adj> +<nt> +<pl> +<loc>
+zóna +<n> +<f> +<pl> +<gen>
+reklama +<n> +<f> +<pl> +<nom>
+reklama +<n> +<f> +<sg> +<gen>
+reklama +<n> +<f> +<pl> +<voc>
+reklama +<n> +<f> +<pl> +<acc>
+zbytek +<n> +<mi> +<pl> +<voc>
+zbytek +<n> +<mi> +<pl> +<nom>
+zbytek +<n> +<mi> +<pl> +<ins>
+zbytek +<n> +<mi> +<pl> +<acc>
+příslušný +<adj> +<sint> +<nt> +<pl> +<loc>
+příslušný +<adj> +<sint> +<f> +<pl> +<loc>
+příslušný +<adj> +<sint> +<ma> +<pl> +<gen>
+příslušný +<adj> +<sint> +<mi> +<pl> +<loc>
+příslušný +<adj> +<sint> +<nt> +<pl> +<gen>
+příslušný +<adj> +<sint> +<f> +<pl> +<gen>
+příslušný +<adj> +<sint> +<mi> +<pl> +<gen>
+příslušný +<adj> +<sint> +<ma> +<pl> +<loc>
+kultura +<n> +<f> +<sg> +<acc>
+boční +<adj> +<f> +<sg> +<ins>
+boční +<adj> +<nt> +<sg> +<voc>
+boční +<adj> +<ma> +<pl> +<voc>
+boční +<adj> +<ma> +<sg> +<voc>
+boční +<adj> +<ma> +<sg> +<nom>
+boční +<adj> +<f> +<sg> +<loc>
+boční +<adj> +<ma> +<pl> +<acc>
+boční +<adj> +<mi> +<sg> +<voc>
+boční +<adj> +<f> +<sg> +<acc>
+boční +<adj> +<mi> +<pl> +<nom>
+boční +<adj> +<f> +<sg> +<nom>
+boční +<adj> +<f> +<sg> +<voc>
+boční +<adj> +<mi> +<sg> +<nom>
+boční +<adj> +<nt> +<sg> +<nom>
+boční +<adj> +<nt> +<sg> +<acc>
+boční +<adj> +<mi> +<sg> +<acc>
+boční +<adj> +<f> +<sg> +<gen>
+boční +<adj> +<nt> +<pl> +<acc>
+boční +<adj> +<mi> +<pl> +<acc>
+boční +<adj> +<f> +<pl> +<nom>
+boční +<adj> +<f> +<pl> +<voc>
+boční +<adj> +<f> +<sg> +<dat>
+boční +<adj> +<ma> +<pl> +<nom>
+boční +<adj> +<f> +<pl> +<acc>
+boční +<adj> +<nt> +<pl> +<nom>
+boční +<adj> +<nt> +<pl> +<voc>
+boční +<adj> +<mi> +<pl> +<voc>
+metropol +<n> +<f> +<pl> +<nom>
+metropole +<n> +<f> +<sg> +<nom>
+metropole +<n> +<f> +<sg> +<gen>
+metropol +<n> +<f> +<pl> +<voc>
+metropole +<n> +<f> +<pl> +<acc>
+metropole +<n> +<f> +<pl> +<nom>
+metropol +<n> +<f> +<pl> +<acc>
+metropol +<n> +<f> +<sg> +<gen>
+prostředí +<n> +<mi> +<pl> +<dat>
+prostředí +<n> +<mi> +<sg> +<ins>
+stejnojmenný +<adj> +<sint> +<mi> +<sg> +<loc>
+stejnojmenný +<adj> +<sint> +<ma> +<sg> +<loc>
+stejnojmenný +<adj> +<sint> +<nt> +<sg> +<loc>
+kněžský +<adj> +<nt> +<sg> +<voc>
+kněžský +<adj> +<f> +<sg> +<dat>
+kněžský +<adj> +<nt> +<sg> +<acc>
+kněžský +<adj> +<f> +<sg> +<gen>
+kněžský +<adj> +<f> +<sg> +<loc>
+kněžský +<adj> +<ma> +<pl> +<acc>
+kněžský +<adj> +<mi> +<pl> +<nom>
+kněžský +<adj> +<f> +<pl> +<voc>
+kněžský +<adj> +<mi> +<pl> +<acc>
+kněžský +<adj> +<mi> +<pl> +<voc>
+kněžský +<adj> +<f> +<pl> +<acc>
+kněžský +<adj> +<nt> +<sg> +<nom>
+kněžský +<adj> +<f> +<pl> +<nom>
+založit +<vblex> +<perf> +<past> +<nt> +<pl>
+založit +<vblex> +<perf> +<past> +<f> +<sg>
+instrukce +<n> +<f> +<sg> +<nom>
+instrukce +<n> +<f> +<pl> +<acc>
+instrukce +<n> +<f> +<sg> +<gen>
+instrukce +<n> +<f> +<pl> +<nom>
+následovat +<vblex> +<impf> +<past> +<f> +<pl>
+následovat +<vblex> +<impf> +<past> +<mi> +<pl>
+písek +<n> +<mi> +<sg> +<loc>
+písek +<n> +<mi> +<sg> +<voc>
+písek +<n> +<mi> +<sg> +<dat>
+písek +<n> +<mi> +<sg> +<gen>
+pravděpodobnost +<n> +<f> +<sg> +<ins>
+pravděpodobnost +<n> +<f> +<pl> +<gen>
+žák +<n> +<ma> +<pl> +<gen>
+konstrukce +<n> +<f> +<pl> +<gen>
+konstrukce +<n> +<f> +<sg> +<ins>
+brod +<n> +<mi> +<sg> +<loc>
+gól +<n> +<mi> +<sg> +<acc>
+gól +<n> +<mi> +<sg> +<nom>
+ženský +<adj> +<nt> +<pl> +<nom>
+ženský +<adj> +<nt> +<pl> +<voc>
+ženský +<adj> +<f> +<sg> +<voc>
+ženský +<adj> +<nt> +<pl> +<acc>
+ženský +<adj> +<f> +<sg> +<nom>
+zmiňovat +<vblex> +<impf> +<pp> +<f> +<sg>
+zmiňovat +<vblex> +<impf> +<pp> +<impers> +<f> +<sg>
+zmiňovat +<vblex> +<impf> +<pp> +<nt> +<pl>
+zmiňovat +<vblex> +<impf> +<pp> +<impers> +<nt> +<pl>
+položit +<vblex> +<perf> +<pp> +<impers> +<m> +<sg>
+mladý +<adj> +<sint> +<comp> +<f> +<pl> +<loc>
+mladý +<adj> +<sint> +<comp> +<nt> +<pl> +<loc>
+mladý +<adj> +<sint> +<comp> +<ma> +<pl> +<loc>
+mladý +<adj> +<sint> +<comp> +<mi> +<pl> +<gen>
+mladý +<adj> +<sint> +<comp> +<ma> +<pl> +<gen>
+mladý +<adj> +<sint> +<comp> +<f> +<pl> +<gen>
+mladý +<adj> +<sint> +<comp> +<nt> +<pl> +<gen>
+mladý +<adj> +<sint> +<comp> +<mi> +<pl> +<loc>
+užívat +<vblex> +<impf> +<past> +<m> +<sg>
+vrchní +<adj> +<mi> +<sg> +<loc>
+vrchní +<adj> +<f> +<pl> +<dat>
+vrchní +<adj> +<nt> +<sg> +<ins>
+vrchní +<adj> +<ma> +<sg> +<ins>
+vrchní +<adj> +<mi> +<sg> +<ins>
+vrchní +<adj> +<nt> +<pl> +<dat>
+vrchní +<adj> +<ma> +<pl> +<dat>
+vrchní +<adj> +<ma> +<sg> +<loc>
+vrchní +<adj> +<nt> +<sg> +<loc>
+vrchní +<adj> +<mi> +<pl> +<dat>
+nastat +<vblex> +<perf> +<past> +<f> +<sg>
+nastat +<vblex> +<perf> +<past> +<nt> +<pl>
+běžný +<adj> +<sint> +<mi> +<sg> +<loc>
+běžný +<adj> +<sint> +<ma> +<sg> +<loc>
+běžný +<adj> +<sint> +<nt> +<sg> +<loc>
+budova +<n> +<f> +<sg> +<ins>
+podmínka +<n> +<f> +<pl> +<dat>
+éra +<n> +<f> +<sg> +<nom>
+daný +<adj> +<nt> +<sg> +<loc>
+daný +<adj> +<ma> +<sg> +<loc>
+daný +<adj> +<mi> +<sg> +<loc>
+tvrdý +<adj> +<sint> +<ma> +<sg> +<nom>
+tvrdý +<adj> +<ma> +<sg> +<nom>
+tvrdý +<adj> +<mi> +<sg> +<voc>
+tvrdý +<adj> +<mi> +<sg> +<acc>
+tvrdý +<adj> +<ma> +<sg> +<voc>
+tvrdý +<adj> +<sint> +<mi> +<sg> +<nom>
+tvrdý +<adj> +<mi> +<sg> +<nom>
+tvrdý +<adj> +<sint> +<mi> +<sg> +<acc>
+tvrdý +<adj> +<sint> +<ma> +<sg> +<voc>
+tvrdý +<adj> +<sint> +<mi> +<sg> +<voc>
+vlastnit +<vblex> +<impf> +<past> +<f> +<sg>
+vlastnit +<vblex> +<impf> +<past> +<nt> +<pl>
+poslední +<adj> +<ma> +<sg> +<gen>
+poslední +<adj> +<ma> +<sg> +<acc>
+poslední +<adj> +<nt> +<sg> +<gen>
+poslední +<adj> +<mi> +<sg> +<gen>
+používaný +<adj> +<sint> +<mi> +<pl> +<nom>
+používaný +<adj> +<sint> +<f> +<sg> +<gen>
+používaný +<adj> +<sint> +<nt> +<sg> +<nom>
+používaný +<adj> +<sint> +<ma> +<pl> +<acc>
+používaný +<adj> +<sint> +<f> +<sg> +<dat>
+používaný +<adj> +<sint> +<mi> +<pl> +<acc>
+používaný +<adj> +<sint> +<f> +<pl> +<acc>
+používaný +<adj> +<sint> +<f> +<pl> +<voc>
+používaný +<adj> +<sint> +<nt> +<sg> +<voc>
+používaný +<adj> +<sint> +<f> +<pl> +<nom>
+používaný +<adj> +<sint> +<nt> +<sg> +<acc>
+používaný +<adj> +<sint> +<mi> +<pl> +<voc>
+používaný +<adj> +<sint> +<f> +<sg> +<loc>
+kolej +<n> +<f> +<pl> +<nom>
+kolej +<n> +<f> +<sg> +<gen>
+kolej +<n> +<f> +<pl> +<acc>
+kolej +<n> +<f> +<pl> +<voc>
+rybník +<n> +<mi> +<sg> +<nom>
+rybník +<n> +<mi> +<sg> +<acc>
+geometrie +<n> +<f> +<sg> +<gen>
+geometrie +<n> +<f> +<pl> +<nom>
+geometrie +<n> +<f> +<pl> +<acc>
+geometrie +<n> +<f> +<sg> +<nom>
+vlastnost +<n> +<f> +<sg> +<ins>
+vlastnost +<n> +<f> +<pl> +<gen>
+fronta +<n> +<f> +<pl> +<gen>
+drobný +<adj> +<sint> +<mi> +<pl> +<acc>
+drobný +<adj> +<sint> +<f> +<pl> +<nom>
+drobný +<adj> +<sint> +<f> +<pl> +<voc>
+drobný +<adj> +<sint> +<nt> +<sg> +<nom>
+drobný +<adj> +<sint> +<f> +<pl> +<acc>
+drobný +<adj> +<sint> +<mi> +<pl> +<voc>
+drobný +<adj> +<sint> +<f> +<sg> +<gen>
+drobný +<adj> +<sint> +<f> +<sg> +<dat>
+drobný +<adj> +<sint> +<nt> +<sg> +<acc>
+drobný +<adj> +<sint> +<nt> +<sg> +<voc>
+drobný +<adj> +<sint> +<ma> +<pl> +<acc>
+drobný +<adj> +<sint> +<mi> +<pl> +<nom>
+drobný +<adj> +<sint> +<f> +<sg> +<loc>
+pravidelný +<adj> +<sint> +<f> +<pl> +<voc>
+pravidelný +<adj> +<sint> +<mi> +<pl> +<nom>
+pravidelný +<adj> +<sint> +<ma> +<pl> +<acc>
+pravidelný +<adj> +<sint> +<f> +<pl> +<nom>
+pravidelný +<adj> +<sint> +<nt> +<sg> +<voc>
+pravidelný +<adj> +<sint> +<f> +<sg> +<loc>
+pravidelný +<adj> +<sint> +<nt> +<sg> +<nom>
+pravidelný +<adj> +<sint> +<mi> +<pl> +<acc>
+pravidelný +<adj> +<sint> +<f> +<sg> +<dat>
+pravidelný +<adj> +<sint> +<nt> +<sg> +<acc>
+pravidelný +<adj> +<sint> +<f> +<sg> +<gen>
+pravidelný +<adj> +<sint> +<mi> +<pl> +<voc>
+pravidelný +<adj> +<sint> +<f> +<pl> +<acc>
+udělit +<vblex> +<perf> +<pp> +<impers> +<m> +<sg>
+samotný +<adj> +<sint> +<nt> +<pl> +<voc>
+samotný +<adj> +<sint> +<f> +<sg> +<nom>
+samotný +<adj> +<sint> +<nt> +<pl> +<acc>
+samotný +<adj> +<sint> +<f> +<sg> +<voc>
+samotný +<adj> +<sint> +<nt> +<pl> +<nom>
+zvláštní +<adj> +<ma> +<sg> +<gen>
+zvláštní +<adj> +<mi> +<sg> +<gen>
+zvláštní +<adj> +<nt> +<sg> +<gen>
+zvláštní +<adj> +<ma> +<sg> +<acc>
+průliv +<n> +<mi> +<sg> +<nom>
+průliv +<n> +<mi> +<sg> +<acc>
+minuta +<n> +<f> +<sg> +<loc>
+minuta +<n> +<f> +<sg> +<dat>
+podstata +<n> +<f> +<sg> +<loc>
+podstata +<n> +<f> +<sg> +<dat>
+okolí +<n> +<mi> +<pl> +<dat>
+okolí +<n> +<mi> +<sg> +<ins>
+operace +<n> +<f> +<sg> +<ins>
+operace +<n> +<f> +<pl> +<gen>
+protein +<n> +<mi> +<sg> +<nom>
+protein +<n> +<mi> +<sg> +<acc>
+vědecký +<adj> +<mi> +<pl> +<nom>
+vědecký +<adj> +<f> +<sg> +<loc>
+vědecký +<adj> +<f> +<pl> +<nom>
+vědecký +<adj> +<nt> +<sg> +<voc>
+vědecký +<adj> +<mi> +<pl> +<voc>
+vědecký +<adj> +<mi> +<pl> +<acc>
+vědecký +<adj> +<nt> +<sg> +<acc>
+vědecký +<adj> +<f> +<sg> +<dat>
+vědecký +<adj> +<f> +<sg> +<gen>
+vědecký +<adj> +<ma> +<pl> +<acc>
+vědecký +<adj> +<f> +<pl> +<voc>
+vědecký +<adj> +<f> +<pl> +<acc>
+vědecký +<adj> +<nt> +<sg> +<nom>
+cílový +<adj> +<sint> +<mi> +<pl> +<voc>
+cílový +<adj> +<sint> +<f> +<pl> +<nom>
+cílový +<adj> +<sint> +<f> +<sg> +<loc>
+cílový +<adj> +<sint> +<mi> +<pl> +<acc>
+cílový +<adj> +<sint> +<f> +<sg> +<dat>
+cílový +<adj> +<sint> +<f> +<sg> +<gen>
+cílový +<adj> +<sint> +<f> +<pl> +<acc>
+cílový +<adj> +<sint> +<nt> +<sg> +<voc>
+cílový +<adj> +<sint> +<nt> +<sg> +<nom>
+cílový +<adj> +<sint> +<ma> +<pl> +<acc>
+cílový +<adj> +<sint> +<mi> +<pl> +<nom>
+cílový +<adj> +<sint> +<f> +<pl> +<voc>
+cílový +<adj> +<sint> +<nt> +<sg> +<acc>
+dvojice +<n> +<f> +<sg> +<loc>
+dvojice +<n> +<f> +<sg> +<dat>
+dvojice +<n> +<f> +<sg> +<acc>
+skladatel +<n> +<ma> +<sg> +<nom>
+skladatel +<n> +<ma> +<pl> +<gen>
+balet +<n> +<mi> +<sg> +<nom>
+balet +<n> +<mi> +<sg> +<acc>
+mohutný +<adj> +<sint> +<mi> +<sg> +<nom>
+mohutný +<adj> +<sint> +<ma> +<sg> +<nom>
+mohutný +<adj> +<sint> +<mi> +<sg> +<acc>
+mohutný +<adj> +<sint> +<ma> +<sg> +<voc>
+mohutný +<adj> +<sint> +<mi> +<sg> +<voc>
+úspěšný +<adj> +<sint> +<nt> +<pl> +<acc>
+úspěšný +<adj> +<sint> +<f> +<sg> +<nom>
+úspěšný +<adj> +<sint> +<nt> +<pl> +<nom>
+úspěšný +<adj> +<sint> +<f> +<sg> +<voc>
+úspěšný +<adj> +<sint> +<nt> +<pl> +<voc>
+politika +<n> +<f> +<sg> +<ins>
+byt +<n> +<mi> +<sg> +<acc>
+byt +<n> +<mi> +<sg> +<nom>
+turistický +<adj> +<mi> +<sg> +<nom>
+turistický +<adj> +<ma> +<sg> +<nom>
+turistický +<adj> +<ma> +<sg> +<voc>
+turistický +<adj> +<mi> +<sg> +<acc>
+turistický +<adj> +<mi> +<sg> +<voc>
+úřad +<n> +<mi> +<pl> +<ins>
+úřad +<n> +<mi> +<pl> +<acc>
+úřad +<n> +<mi> +<pl> +<voc>
+úřad +<n> +<mi> +<pl> +<nom>
+člen +<n> +<ma> +<sg> +<gen>
+člen +<n> +<ma> +<sg> +<acc>
+studovat +<vblex> +<impf> +<past> +<nt> +<pl>
+studovat +<vblex> +<impf> +<past> +<f> +<sg>
+identifikovat +<vblex> +<impf> +<inf>
+atraktivní +<adj> +<mi> +<sg> +<nom>
+atraktivní +<adj> +<nt> +<sg> +<voc>
+atraktivní +<adj> +<f> +<sg> +<acc>
+atraktivní +<adj> +<mi> +<sg> +<voc>
+atraktivní +<adj> +<f> +<sg> +<nom>
+atraktivní +<adj> +<f> +<pl> +<acc>
+atraktivní +<adj> +<nt> +<pl> +<voc>
+atraktivní +<adj> +<mi> +<pl> +<voc>
+atraktivní +<adj> +<f> +<sg> +<loc>
+atraktivní +<adj> +<mi> +<pl> +<acc>
+atraktivní +<adj> +<ma> +<pl> +<nom>
+atraktivní +<adj> +<nt> +<pl> +<nom>
+atraktivní +<adj> +<ma> +<pl> +<voc>
+atraktivní +<adj> +<f> +<sg> +<ins>
+atraktivní +<adj> +<ma> +<sg> +<nom>
+atraktivní +<adj> +<f> +<pl> +<nom>
+atraktivní +<adj> +<ma> +<sg> +<voc>
+atraktivní +<adj> +<nt> +<sg> +<nom>
+atraktivní +<adj> +<mi> +<sg> +<acc>
+atraktivní +<adj> +<mi> +<pl> +<nom>
+atraktivní +<adj> +<f> +<sg> +<gen>
+atraktivní +<adj> +<f> +<pl> +<voc>
+atraktivní +<adj> +<f> +<sg> +<dat>
+atraktivní +<adj> +<nt> +<pl> +<acc>
+atraktivní +<adj> +<ma> +<pl> +<acc>
+atraktivní +<adj> +<nt> +<sg> +<acc>
+atraktivní +<adj> +<f> +<sg> +<voc>
+debutový +<adj> +<sint> +<mi> +<pl> +<voc>
+debutový +<adj> +<sint> +<ma> +<pl> +<acc>
+debutový +<adj> +<sint> +<nt> +<sg> +<voc>
+debutový +<adj> +<sint> +<mi> +<pl> +<nom>
+debutový +<adj> +<sint> +<mi> +<pl> +<acc>
+debutový +<adj> +<sint> +<f> +<pl> +<acc>
+debutový +<adj> +<sint> +<nt> +<sg> +<acc>
+debutový +<adj> +<sint> +<f> +<sg> +<gen>
+debutový +<adj> +<sint> +<f> +<sg> +<loc>
+debutový +<adj> +<sint> +<f> +<pl> +<nom>
+debutový +<adj> +<sint> +<f> +<sg> +<dat>
+debutový +<adj> +<sint> +<nt> +<sg> +<nom>
+debutový +<adj> +<sint> +<f> +<pl> +<voc>
+příslušník +<n> +<ma> +<pl> +<gen>
+uživatel +<n> +<ma> +<sg> +<nom>
+uživatel +<n> +<ma> +<pl> +<gen>
+nebezpečí +<n> +<mi> +<sg> +<gen>
+nebezpečí +<n> +<mi> +<pl> +<gen>
+nebezpečí +<n> +<mi> +<sg> +<dat>
+nebezpečí +<n> +<mi> +<sg> +<acc>
+nebezpečí +<n> +<mi> +<sg> +<voc>
+nebezpečí +<n> +<mi> +<pl> +<nom>
+nebezpečí +<n> +<mi> +<sg> +<loc>
+nebezpečí +<n> +<mi> +<sg> +<nom>
+nebezpečí +<n> +<mi> +<pl> +<voc>
+nebezpečí +<n> +<mi> +<pl> +<acc>
+přeložit +<vblex> +<perf> +<inf>
+zahraniční +<adj> +<mi> +<pl> +<gen>
+zahraniční +<adj> +<f> +<pl> +<loc>
+zahraniční +<adj> +<nt> +<pl> +<loc>
+zahraniční +<adj> +<nt> +<pl> +<gen>
+zahraniční +<adj> +<ma> +<pl> +<loc>
+zahraniční +<adj> +<ma> +<pl> +<gen>
+zahraniční +<adj> +<f> +<pl> +<gen>
+zahraniční +<adj> +<mi> +<pl> +<loc>
+spolupracovník +<n> +<ma> +<sg> +<ins>
+pilot +<n> +<ma> +<pl> +<nom>
+pilot +<n> +<ma> +<pl> +<voc>
+divadlo +<n> +<nt> +<sg> +<loc>
+pobyt +<n> +<mi> +<sg> +<gen>
+pobyt +<n> +<mi> +<sg> +<loc>
+pobyt +<n> +<mi> +<sg> +<dat>
+dorůstat +<vblex> +<impf> +<pres> +<p3> +<sg>
+výrazný +<adj> +<sint> +<mi> +<sg> +<ins>
+výrazný +<adj> +<sint> +<ma> +<sg> +<ins>
+výrazný +<adj> +<sint> +<nt> +<sg> +<ins>
+výrazný +<adj> +<sint> +<mi> +<pl> +<dat>
+výrazný +<adj> +<sint> +<nt> +<pl> +<dat>
+výrazný +<adj> +<sint> +<ma> +<pl> +<dat>
+výrazný +<adj> +<sint> +<f> +<pl> +<dat>
+spor +<n> +<mi> +<sg> +<acc>
+spor +<n> +<mi> +<sg> +<nom>
+spora +<n> +<f> +<pl> +<gen>
+památník +<n> +<mi> +<sg> +<acc>
+památník +<n> +<mi> +<sg> +<nom>
+kolonizace +<n> +<f> +<pl> +<nom>
+kolonizace +<n> +<f> +<sg> +<gen>
+kolonizace +<n> +<f> +<pl> +<acc>
+kolonizace +<n> +<f> +<sg> +<nom>
+propuštěný +<adj> +<sint> +<ma> +<pl> +<nom>
+propuštěný +<adj> +<sint> +<ma> +<pl> +<voc>
+houslista +<n> +<ma> +<sg> +<nom>
+pes +<n> +<ma> +<pl> +<ins>
+pes +<n> +<ma> +<pl> +<acc>
+cizí +<adj> +<f> +<sg> +<acc>
+cizí +<adj> +<mi> +<sg> +<nom>
+cizí +<adj> +<f> +<pl> +<voc>
+cizí +<adj> +<mi> +<pl> +<voc>
+cizí +<adj> +<mi> +<pl> +<nom>
+cizí +<adj> +<f> +<pl> +<acc>
+cizí +<adj> +<f> +<sg> +<gen>
+cizí +<adj> +<f> +<sg> +<ins>
+cizí +<adj> +<f> +<sg> +<voc>
+cizí +<adj> +<ma> +<sg> +<nom>
+cizí +<adj> +<nt> +<sg> +<nom>
+cizí +<adj> +<nt> +<pl> +<nom>
+cizí +<adj> +<ma> +<pl> +<acc>
+cizí +<adj> +<nt> +<sg> +<acc>
+cizí +<adj> +<ma> +<pl> +<voc>
+cizí +<adj> +<nt> +<pl> +<acc>
+cizí +<adj> +<f> +<sg> +<loc>
+cizí +<adj> +<ma> +<sg> +<voc>
+cizí +<adj> +<mi> +<pl> +<acc>
+cizí +<adj> +<f> +<pl> +<nom>
+cizí +<adj> +<f> +<sg> +<dat>
+cizí +<adj> +<mi> +<sg> +<voc>
+cizí +<adj> +<nt> +<sg> +<voc>
+cizí +<adj> +<nt> +<pl> +<voc>
+cizí +<adj> +<f> +<sg> +<nom>
+cizí +<adj> +<mi> +<sg> +<acc>
+cizí +<adj> +<ma> +<pl> +<nom>
+bombardovací +<adj> +<nt> +<pl> +<nom>
+bombardovací +<adj> +<f> +<sg> +<voc>
+bombardovací +<adj> +<ma> +<pl> +<acc>
+bombardovací +<adj> +<nt> +<sg> +<acc>
+bombardovací +<adj> +<mi> +<sg> +<voc>
+bombardovací +<adj> +<ma> +<pl> +<nom>
+bombardovací +<adj> +<f> +<sg> +<gen>
+bombardovací +<adj> +<mi> +<pl> +<voc>
+bombardovací +<adj> +<nt> +<sg> +<voc>
+bombardovací +<adj> +<f> +<sg> +<dat>
+bombardovací +<adj> +<ma> +<pl> +<voc>
+bombardovací +<adj> +<f> +<pl> +<acc>
+bombardovací +<adj> +<ma> +<sg> +<nom>
+bombardovací +<adj> +<f> +<pl> +<voc>
+bombardovací +<adj> +<mi> +<sg> +<nom>
+bombardovací +<adj> +<f> +<sg> +<acc>
+bombardovací +<adj> +<mi> +<pl> +<nom>
+bombardovací +<adj> +<f> +<pl> +<nom>
+bombardovací +<adj> +<nt> +<sg> +<nom>
+bombardovací +<adj> +<f> +<sg> +<nom>
+bombardovací +<adj> +<mi> +<pl> +<acc>
+bombardovací +<adj> +<mi> +<sg> +<acc>
+bombardovací +<adj> +<f> +<sg> +<ins>
+bombardovací +<adj> +<nt> +<pl> +<voc>
+bombardovací +<adj> +<nt> +<pl> +<acc>
+bombardovací +<adj> +<f> +<sg> +<loc>
+bombardovací +<adj> +<ma> +<sg> +<voc>
+železnice +<n> +<f> +<pl> +<gen>
+akciový +<adj> +<sint> +<nt> +<sg> +<nom>
+akciový +<adj> +<sint> +<f> +<pl> +<acc>
+akciový +<adj> +<sint> +<mi> +<pl> +<voc>
+akciový +<adj> +<sint> +<f> +<sg> +<gen>
+akciový +<adj> +<sint> +<ma> +<pl> +<acc>
+akciový +<adj> +<sint> +<f> +<sg> +<dat>
+akciový +<adj> +<sint> +<mi> +<pl> +<nom>
+akciový +<adj> +<sint> +<f> +<pl> +<voc>
+akciový +<adj> +<sint> +<nt> +<sg> +<voc>
+akciový +<adj> +<sint> +<mi> +<pl> +<acc>
+akciový +<adj> +<sint> +<f> +<sg> +<loc>
+akciový +<adj> +<sint> +<f> +<pl> +<nom>
+akciový +<adj> +<sint> +<nt> +<sg> +<acc>
+nový +<adj> +<sint> +<ma> +<pl> +<acc>
+nový +<adj> +<sint> +<nt> +<sg> +<voc>
+nový +<adj> +<sint> +<nt> +<sg> +<nom>
+nový +<adj> +<sint> +<f> +<pl> +<acc>
+nový +<adj> +<sint> +<nt> +<sg> +<acc>
+nový +<adj> +<sint> +<mi> +<pl> +<acc>
+nový +<adj> +<sint> +<mi> +<pl> +<voc>
+nový +<adj> +<sint> +<f> +<sg> +<loc>
+nový +<adj> +<sint> +<f> +<pl> +<voc>
+nový +<adj> +<sint> +<f> +<pl> +<nom>
+nový +<adj> +<sint> +<f> +<sg> +<dat>
+nový +<adj> +<sint> +<mi> +<pl> +<nom>
+nový +<adj> +<sint> +<f> +<sg> +<gen>
+závod +<n> +<mi> +<pl> +<voc>
+závod +<n> +<mi> +<pl> +<ins>
+závod +<n> +<mi> +<pl> +<acc>
+závod +<n> +<mi> +<pl> +<nom>
+svatý +<adj> +<sint> +<mi> +<sg> +<gen>
+svatý +<adj> +<sint> +<ma> +<sg> +<acc>
+svatý +<adj> +<sint> +<nt> +<sg> +<gen>
+svatý +<adj> +<sint> +<ma> +<sg> +<gen>
+sekunda +<n> +<f> +<pl> +<gen>
+osoba +<n> +<f> +<sg> +<ins>
+švédský +<adj> +<mi> +<sg> +<gen>
+švédský +<adj> +<ma> +<sg> +<gen>
+švédský +<adj> +<ma> +<sg> +<acc>
+švédský +<adj> +<nt> +<sg> +<gen>
+růže +<n> +<f> +<pl> +<acc>
+růže +<n> +<f> +<sg> +<nom>
+růž +<n> +<f> +<sg> +<gen>
+růž +<n> +<f> +<pl> +<acc>
+růže +<n> +<f> +<sg> +<gen>
+růže +<n> +<f> +<pl> +<nom>
+růž +<n> +<f> +<pl> +<voc>
+růž +<n> +<f> +<pl> +<nom>
+ostatní +<adj> +<ma> +<pl> +<loc>
+ostatní +<adj> +<mi> +<pl> +<gen>
+ostatní +<adj> +<nt> +<pl> +<gen>
+ostatní +<adj> +<f> +<pl> +<loc>
+ostatní +<adj> +<nt> +<pl> +<loc>
+ostatní +<adj> +<ma> +<pl> +<gen>
+ostatní +<adj> +<f> +<pl> +<gen>
+ostatní +<adj> +<mi> +<pl> +<loc>
+činný +<adj> +<sint> +<mi> +<sg> +<voc>
+činný +<adj> +<sint> +<mi> +<sg> +<nom>
+činný +<adj> +<sint> +<mi> +<sg> +<acc>
+činný +<adj> +<sint> +<ma> +<sg> +<nom>
+činný +<adj> +<sint> +<ma> +<sg> +<voc>
+den +<n> +<mi> +<pl> +<nom>
+den +<n> +<mi> +<pl> +<voc>
+dna +<n> +<f> +<pl> +<voc>
+dna +<n> +<f> +<pl> +<nom>
+dna +<n> +<f> +<pl> +<acc>
+dna +<n> +<f> +<sg> +<gen>
+den +<n> +<mi> +<pl> +<ins>
+den +<n> +<mi> +<pl> +<acc>
+tabulka +<n> +<f> +<sg> +<nom>
+raný +<adj> +<sint> +<mi> +<sg> +<loc>
+raný +<adj> +<sint> +<ma> +<sg> +<loc>
+raný +<adj> +<sint> +<nt> +<sg> +<loc>
+morální +<adj> +<sint> +<f> +<pl> +<voc>
+morální +<adj> +<sint> +<nt> +<sg> +<acc>
+morální +<adj> +<sint> +<nt> +<pl> +<nom>
+morální +<adj> +<mi> +<sg> +<voc>
+morální +<adj> +<sint> +<mi> +<pl> +<nom>
+morální +<adj> +<nt> +<sg> +<voc>
+morální +<adj> +<sint> +<mi> +<pl> +<acc>
+morální +<adj> +<sint> +<ma> +<pl> +<voc>
+morální +<adj> +<sint> +<ma> +<sg> +<nom>
+morální +<adj> +<sint> +<ma> +<pl> +<acc>
+morální +<adj> +<nt> +<pl> +<voc>
+morální +<adj> +<sint> +<f> +<sg> +<ins>
+morální +<adj> +<sint> +<nt> +<pl> +<acc>
+morální +<adj> +<f> +<pl> +<acc>
+morální +<adj> +<ma> +<pl> +<nom>
+morální +<adj> +<sint> +<ma> +<pl> +<nom>
+morální +<adj> +<sint> +<nt> +<sg> +<voc>
+morální +<adj> +<sint> +<nt> +<pl> +<voc>
+morální +<adj> +<f> +<sg> +<acc>
+morální +<adj> +<f> +<pl> +<nom>
+morální +<adj> +<mi> +<sg> +<nom>
+morální +<adj> +<ma> +<sg> +<nom>
+morální +<adj> +<nt> +<pl> +<acc>
+morální +<adj> +<sint> +<f> +<pl> +<nom>
+morální +<adj> +<ma> +<sg> +<voc>
+morální +<adj> +<sint> +<f> +<sg> +<dat>
+morální +<adj> +<nt> +<sg> +<acc>
+morální +<adj> +<sint> +<f> +<sg> +<nom>
+morální +<adj> +<sint> +<f> +<sg> +<voc>
+morální +<adj> +<mi> +<pl> +<acc>
+morální +<adj> +<f> +<pl> +<voc>
+morální +<adj> +<f> +<sg> +<loc>
+morální +<adj> +<sint> +<mi> +<sg> +<nom>
+morální +<adj> +<sint> +<mi> +<pl> +<voc>
+morální +<adj> +<sint> +<f> +<pl> +<acc>
+morální +<adj> +<f> +<sg> +<gen>
+morální +<adj> +<sint> +<nt> +<sg> +<nom>
+morální +<adj> +<f> +<sg> +<dat>
+morální +<adj> +<mi> +<pl> +<voc>
+morální +<adj> +<ma> +<pl> +<voc>
+morální +<adj> +<f> +<sg> +<voc>
+morální +<adj> +<f> +<sg> +<ins>
+morální +<adj> +<nt> +<pl> +<nom>
+morální +<adj> +<nt> +<sg> +<nom>
+morální +<adj> +<mi> +<sg> +<acc>
+morální +<adj> +<sint> +<f> +<sg> +<acc>
+morální +<adj> +<sint> +<mi> +<sg> +<acc>
+morální +<adj> +<sint> +<ma> +<sg> +<voc>
+morální +<adj> +<sint> +<f> +<sg> +<gen>
+morální +<adj> +<mi> +<pl> +<nom>
+morální +<adj> +<ma> +<pl> +<acc>
+morální +<adj> +<sint> +<mi> +<sg> +<voc>
+morální +<adj> +<sint> +<f> +<sg> +<loc>
+morální +<adj> +<f> +<sg> +<nom>
+úkor +<n> +<mi> +<sg> +<nom>
+úkor +<n> +<mi> +<sg> +<acc>
+zrušit +<vblex> +<perf> +<pp> +<impers> +<m> +<sg>
+provincie +<n> +<f> +<sg> +<loc>
+provincie +<n> +<f> +<sg> +<acc>
+provincie +<n> +<f> +<sg> +<dat>
+náklad +<n> +<mi> +<sg> +<ins>
+biologie +<n> +<f> +<sg> +<loc>
+biologie +<n> +<f> +<sg> +<acc>
+biologie +<n> +<f> +<sg> +<dat>
+stavovský +<adj> +<ma> +<sg> +<gen>
+stavovský +<adj> +<ma> +<sg> +<acc>
+stavovský +<adj> +<nt> +<sg> +<gen>
+stavovský +<adj> +<mi> +<sg> +<gen>
+katastrální +<adj> +<f> +<pl> +<gen>
+katastrální +<adj> +<ma> +<pl> +<loc>
+katastrální +<adj> +<mi> +<pl> +<gen>
+katastrální +<adj> +<mi> +<pl> +<loc>
+katastrální +<adj> +<nt> +<pl> +<loc>
+katastrální +<adj> +<nt> +<pl> +<gen>
+katastrální +<adj> +<ma> +<pl> +<gen>
+katastrální +<adj> +<f> +<pl> +<loc>
+vnitřní +<adj> +<mi> +<sg> +<gen>
+vnitřní +<adj> +<nt> +<sg> +<gen>
+vnitřní +<adj> +<ma> +<sg> +<gen>
+vnitřní +<adj> +<ma> +<sg> +<acc>
+vstřelit +<vblex> +<perf> +<past> +<m> +<sg>
+produkovat +<vblex> +<impf> +<past> +<m> +<sg>
+ničit +<vblex> +<impf> +<ger> +<nt> +<sg> +<dat>
+ničit +<vblex> +<impf> +<ger> +<nt> +<sg> +<loc>
+ničit +<vblex> +<impf> +<ger> +<nt> +<sg> +<acc>
+ničit +<vblex> +<impf> +<pp> +<adj> +<ma> +<pl> +<voc>
+ničit +<vblex> +<impf> +<pp> +<adj> +<ma> +<pl> +<nom>
+ničit +<vblex> +<impf> +<ger> +<nt> +<sg> +<voc>
+ničit +<vblex> +<impf> +<ger> +<nt> +<sg> +<gen>
+ničit +<vblex> +<impf> +<ger> +<nt> +<pl> +<voc>
+ničit +<vblex> +<impf> +<ger> +<nt> +<pl> +<nom>
+ničit +<vblex> +<impf> +<ger> +<nt> +<pl> +<gen>
+ničit +<vblex> +<impf> +<ger> +<nt> +<sg> +<nom>
+ničit +<vblex> +<impf> +<ger> +<nt> +<pl> +<acc>
+stěhovat +<vblex> +<impf> +<ger> +<nt> +<pl> +<voc>
+stěhovat +<vblex> +<impf> +<pp> +<adj> +<ma> +<pl> +<nom>
+stěhovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<acc>
+stěhovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<gen>
+stěhovat +<vblex> +<impf> +<ger> +<nt> +<pl> +<nom>
+stěhovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<voc>
+stěhovat +<vblex> +<impf> +<ger> +<nt> +<pl> +<gen>
+stěhovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<nom>
+stěhovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<loc>
+stěhovat +<vblex> +<impf> +<ger> +<nt> +<sg> +<dat>
+stěhovat +<vblex> +<impf> +<pp> +<adj> +<ma> +<pl> +<voc>
+stěhovat +<vblex> +<impf> +<ger> +<nt> +<pl> +<acc>
+ruský +<adj> +<nt> +<pl> +<acc>
+ruský +<adj> +<nt> +<pl> +<nom>
+ruský +<adj> +<nt> +<pl> +<voc>
+ruský +<adj> +<f> +<sg> +<nom>
+ruský +<adj> +<f> +<sg> +<voc>
+dcera +<n> +<f> +<sg> +<acc>
+odchod +<n> +<mi> +<sg> +<ins>
+zastupovat +<vblex> +<impf> +<past> +<nt> +<sg>
+zápas +<n> +<mi> +<pl> +<loc>
+kvalita +<n> +<f> +<sg> +<loc>
+kvalita +<n> +<f> +<sg> +<dat>
+zajímat +<vblex> +<impf> +<past> +<m> +<sg>
+epizoda +<n> +<f> +<sg> +<loc>
+epizoda +<n> +<f> +<sg> +<dat>
+různý +<adj> +<sint> +<f> +<pl> +<dat>
+různý +<adj> +<sint> +<ma> +<pl> +<dat>
+různý +<adj> +<sint> +<mi> +<sg> +<ins>
+různý +<adj> +<sint> +<nt> +<sg> +<ins>
+různý +<adj> +<sint> +<nt> +<pl> +<dat>
+různý +<adj> +<sint> +<ma> +<sg> +<ins>
+různý +<adj> +<sint> +<mi> +<pl> +<dat>
+pilot +<n> +<ma> +<pl> +<gen>
+pilot +<n> +<mi> +<pl> +<gen>
+prázdný +<adj> +<sint> +<mi> +<pl> +<acc>
+prázdný +<adj> +<sint> +<nt> +<sg> +<voc>
+prázdný +<adj> +<sint> +<f> +<pl> +<nom>
+prázdný +<adj> +<sint> +<f> +<sg> +<gen>
+prázdný +<adj> +<sint> +<nt> +<sg> +<nom>
+prázdný +<adj> +<sint> +<mi> +<pl> +<voc>
+prázdný +<adj> +<sint> +<f> +<pl> +<acc>
+prázdný +<adj> +<sint> +<mi> +<pl> +<nom>
+prázdný +<adj> +<sint> +<nt> +<sg> +<acc>
+prázdný +<adj> +<sint> +<f> +<pl> +<voc>
+prázdný +<adj> +<sint> +<ma> +<pl> +<acc>
+prázdný +<adj> +<sint> +<f> +<sg> +<loc>
+prázdný +<adj> +<sint> +<f> +<sg> +<dat>
+soustava +<n> +<f> +<sg> +<acc>
+zastupovat +<vblex> +<impf> +<past> +<m> +<sg>
+daný +<adj> +<ma> +<pl> +<voc>
+daný +<adj> +<ma> +<pl> +<nom>
+řetězec +<n> +<mi> +<pl> +<nom>
+řetězec +<n> +<mi> +<sg> +<gen>
+řetězec +<n> +<mi> +<pl> +<acc>
+řetězec +<n> +<mi> +<pl> +<voc>
+schopný +<adj> +<sint> +<f> +<sg> +<nom>
+schopný +<adj> +<sint> +<f> +<sg> +<voc>
+schopný +<adj> +<sint> +<nt> +<pl> +<acc>
+schopný +<adj> +<sint> +<nt> +<pl> +<voc>
+schopný +<adj> +<sint> +<nt> +<pl> +<nom>
+vzdálený +<adj> +<sint> +<ma> +<pl> +<acc>
+vzdálený +<adj> +<sint> +<nt> +<sg> +<acc>
+vzdálený +<adj> +<sint> +<f> +<sg> +<loc>
+vzdálený +<adj> +<sint> +<mi> +<pl> +<acc>
+vzdálený +<adj> +<sint> +<nt> +<sg> +<voc>
+vzdálený +<adj> +<sint> +<f> +<pl> +<voc>
+vzdálený +<adj> +<sint> +<mi> +<pl> +<voc>
+vzdálený +<adj> +<sint> +<f> +<pl> +<acc>
+vzdálený +<adj> +<sint> +<f> +<pl> +<nom>
+vzdálený +<adj> +<sint> +<f> +<sg> +<gen>
+vzdálený +<adj> +<sint> +<mi> +<pl> +<nom>
+vzdálený +<adj> +<sint> +<f> +<sg> +<dat>
+vzdálený +<adj> +<sint> +<nt> +<sg> +<nom>
+ukázka +<n> +<f> +<sg> +<nom>
+vhodný +<adj> +<sint> +<mi> +<pl> +<dat>
+vhodný +<adj> +<sint> +<ma> +<sg> +<ins>
+vhodný +<adj> +<sint> +<ma> +<pl> +<dat>
+vhodný +<adj> +<sint> +<mi> +<sg> +<ins>
+vhodný +<adj> +<sint> +<nt> +<pl> +<dat>
+vhodný +<adj> +<sint> +<nt> +<sg> +<ins>
+vhodný +<adj> +<sint> +<f> +<pl> +<dat>
+ruský +<adj> +<mi> +<sg> +<loc>
+ruský +<adj> +<ma> +<sg> +<loc>
+ruský +<adj> +<nt> +<sg> +<loc>
+licence +<n> +<f> +<sg> +<ins>
+licence +<n> +<f> +<pl> +<gen>
+označit +<vblex> +<perf> +<ger> +<nt> +<sg> +<ins>
+označit +<vblex> +<perf> +<ger> +<nt> +<pl> +<dat>
+sezóna +<n> +<f> +<sg> +<nom>
+příspěvek +<n> +<mi> +<pl> +<gen>
+úvodní +<adj> +<ma> +<sg> +<ins>
+úvodní +<adj> +<f> +<pl> +<dat>
+úvodní +<adj> +<nt> +<pl> +<dat>
+úvodní +<adj> +<mi> +<pl> +<dat>
+úvodní +<adj> +<mi> +<sg> +<ins>
+úvodní +<adj> +<mi> +<sg> +<loc>
+úvodní +<adj> +<ma> +<pl> +<dat>
+úvodní +<adj> +<nt> +<sg> +<loc>
+úvodní +<adj> +<ma> +<sg> +<loc>
+úvodní +<adj> +<nt> +<sg> +<ins>
+fronta +<n> +<f> +<sg> +<loc>
+fronta +<n> +<f> +<sg> +<dat>
+materiál +<n> +<mi> +<sg> +<loc>
+materiál +<n> +<mi> +<sg> +<gen>
+materiál +<n> +<mi> +<sg> +<dat>
+materiál +<n> +<mi> +<sg> +<voc>
+alba +<n> +<f> +<sg> +<nom>
+obraz +<n> +<mi> +<pl> +<ins>
+obraz +<n> +<mi> +<pl> +<voc>
+obraz +<n> +<mi> +<pl> +<acc>
+obraz +<n> +<mi> +<pl> +<nom>
+provedený +<adj> +<sint> +<nt> +<sg> +<acc>
+provedený +<adj> +<sint> +<f> +<pl> +<acc>
+provedený +<adj> +<sint> +<nt> +<sg> +<nom>
+provedený +<adj> +<sint> +<ma> +<pl> +<acc>
+provedený +<adj> +<sint> +<f> +<sg> +<loc>
+provedený +<adj> +<sint> +<f> +<sg> +<dat>
+provedený +<adj> +<sint> +<mi> +<pl> +<nom>
+provedený +<adj> +<sint> +<f> +<pl> +<voc>
+provedený +<adj> +<sint> +<f> +<sg> +<gen>
+provedený +<adj> +<sint> +<f> +<pl> +<nom>
+provedený +<adj> +<sint> +<mi> +<pl> +<acc>
+provedený +<adj> +<sint> +<mi> +<pl> +<voc>
+provedený +<adj> +<sint> +<nt> +<sg> +<voc>
+dílna +<n> +<f> +<pl> +<voc>
+dílna +<n> +<f> +<sg> +<gen>
+dílna +<n> +<f> +<pl> +<acc>
+dílna +<n> +<f> +<pl> +<nom>
+pevný +<adj> +<sint> +<f> +<pl> +<acc>
+pevný +<adj> +<sint> +<nt> +<sg> +<voc>
+pevný +<adj> +<sint> +<nt> +<sg> +<acc>
+pevný +<adj> +<sint> +<mi> +<pl> +<voc>
+pevný +<adj> +<sint> +<ma> +<pl> +<acc>
+pevný +<adj> +<sint> +<f> +<sg> +<gen>
+pevný +<adj> +<sint> +<f> +<sg> +<loc>
+pevný +<adj> +<sint> +<f> +<sg> +<dat>
+pevný +<adj> +<sint> +<mi> +<pl> +<nom>
+pevný +<adj> +<sint> +<mi> +<pl> +<acc>
+pevný +<adj> +<sint> +<nt> +<sg> +<nom>
+pevný +<adj> +<sint> +<f> +<pl> +<nom>
+pevný +<adj> +<sint> +<f> +<pl> +<voc>
+nakladatelství +<n> +<mi> +<sg> +<gen>
+nakladatelství +<n> +<mi> +<pl> +<gen>
+nakladatelství +<n> +<mi> +<sg> +<voc>
+nakladatelství +<n> +<mi> +<sg> +<dat>
+nakladatelství +<n> +<mi> +<pl> +<acc>
+nakladatelství +<n> +<mi> +<sg> +<nom>
+nakladatelství +<n> +<mi> +<sg> +<loc>
+nakladatelství +<n> +<mi> +<pl> +<nom>
+nakladatelství +<n> +<mi> +<sg> +<acc>
+nakladatelství +<n> +<mi> +<pl> +<voc>
+akcie +<n> +<f> +<sg> +<ins>
+akcie +<n> +<f> +<pl> +<gen>
+vrchovina +<n> +<f> +<sg> +<dat>
+vrchovina +<n> +<f> +<sg> +<loc>
+fungovat +<vblex> +<impf> +<pres> +<p3> +<pl>
+vzpoura +<n> +<f> +<pl> +<acc>
+vzpoura +<n> +<f> +<pl> +<nom>
+vzpoura +<n> +<f> +<pl> +<voc>
+vzpoura +<n> +<f> +<sg> +<gen>
+archiv +<n> +<mi> +<sg> +<acc>
+archiv +<n> +<mi> +<sg> +<nom>
+pověst +<n> +<f> +<sg> +<nom>
+pověst +<n> +<f> +<sg> +<acc>
+vidět +<vblex> +<impf> +<past> +<m> +<sg>
+nákladní +<adj> +<mi> +<pl> +<acc>
+nákladní +<adj> +<f> +<pl> +<acc>
+nákladný +<adj> +<sint> +<ma> +<pl> +<voc>
+nákladní +<adj> +<f> +<sg> +<dat>
+nákladní +<adj> +<nt> +<sg> +<voc>
+nákladní +<adj> +<ma> +<pl> +<acc>
+nákladní +<adj> +<mi> +<sg> +<acc>
+nákladní +<adj> +<mi> +<pl> +<voc>
+nákladní +<adj> +<mi> +<sg> +<voc>
+nákladní +<adj> +<f> +<sg> +<gen>
+nákladní +<adj> +<nt> +<pl> +<voc>
+nákladný +<adj> +<sint> +<ma> +<pl> +<nom>
+nákladní +<adj> +<f> +<pl> +<nom>
+nákladní +<adj> +<f> +<sg> +<voc>
+nákladní +<adj> +<nt> +<pl> +<acc>
+nákladní +<adj> +<f> +<pl> +<voc>
+nákladní +<adj> +<ma> +<sg> +<nom>
+nákladní +<adj> +<mi> +<sg> +<nom>
+nákladní +<adj> +<ma> +<pl> +<nom>
+nákladní +<adj> +<ma> +<sg> +<voc>
+nákladní +<adj> +<f> +<sg> +<nom>
+nákladní +<adj> +<nt> +<pl> +<nom>
+nákladní +<adj> +<nt> +<sg> +<acc>
+nákladní +<adj> +<f> +<sg> +<loc>
+nákladní +<adj> +<f> +<sg> +<acc>
+nákladní +<adj> +<f> +<sg> +<ins>
+nákladní +<adj> +<nt> +<sg> +<nom>
+nákladní +<adj> +<ma> +<pl> +<voc>
+nákladní +<adj> +<mi> +<pl> +<nom>
+natočit +<vblex> +<perf> +<pp> +<impers> +<m> +<sg>
+vyvolat +<vblex> +<perf> +<past> +<nt> +<sg>
+cena +<n> +<f> +<sg> +<nom>
+spojit +<vblex> +<perf> +<inf>
+oblastní +<adj> +<ma> +<pl> +<voc>
+oblastní +<adj> +<ma> +<sg> +<voc>
+oblastní +<adj> +<nt> +<sg> +<nom>
+oblastní +<adj> +<mi> +<pl> +<nom>
+oblastní +<adj> +<mi> +<sg> +<acc>
+oblastní +<adj> +<ma> +<pl> +<nom>
+oblastní +<adj> +<f> +<sg> +<ins>
+oblastní +<adj> +<f> +<sg> +<nom>
+oblastní +<adj> +<mi> +<pl> +<voc>
+oblastní +<adj> +<nt> +<sg> +<voc>
+oblastní +<adj> +<f> +<pl> +<voc>
+oblastní +<adj> +<f> +<sg> +<acc>
+oblastní +<adj> +<f> +<sg> +<voc>
+oblastní +<adj> +<f> +<sg> +<dat>
+oblastní +<adj> +<ma> +<pl> +<acc>
+oblastní +<adj> +<f> +<sg> +<loc>
+oblastní +<adj> +<nt> +<sg> +<acc>
+oblastní +<adj> +<nt> +<pl> +<voc>
+oblastní +<adj> +<ma> +<sg> +<nom>
+oblastní +<adj> +<nt> +<pl> +<nom>
+oblastní +<adj> +<mi> +<sg> +<voc>
+oblastní +<adj> +<mi> +<sg> +<nom>
+oblastní +<adj> +<f> +<pl> +<nom>
+oblastní +<adj> +<f> +<pl> +<acc>
+oblastní +<adj> +<mi> +<pl> +<acc>
+oblastní +<adj> +<nt> +<pl> +<acc>
+oblastní +<adj> +<f> +<sg> +<gen>
+setkávat +<vblex> +<impf> +<pres> +<p3> +<sg>
+zdolat +<vblex> +<perf> +<past> +<f> +<sg>
+zdolat +<vblex> +<perf> +<past> +<nt> +<pl>
+dodávka +<n> +<f> +<sg> +<gen>
+dodávka +<n> +<f> +<pl> +<acc>
+dodávka +<n> +<f> +<pl> +<voc>
+dodávka +<n> +<f> +<pl> +<nom>
+formální +<adj> +<f> +<sg> +<nom>
+formální +<adj> +<ma> +<pl> +<acc>
+formální +<adj> +<f> +<sg> +<acc>
+formální +<adj> +<mi> +<pl> +<nom>
+formální +<adj> +<mi> +<pl> +<acc>
+formální +<adj> +<nt> +<pl> +<voc>
+formální +<adj> +<f> +<pl> +<acc>
+formální +<adj> +<ma> +<sg> +<nom>
+formální +<adj> +<nt> +<sg> +<nom>
+formální +<adj> +<f> +<sg> +<dat>
+formální +<adj> +<f> +<sg> +<loc>
+formální +<adj> +<ma> +<pl> +<nom>
+formální +<adj> +<nt> +<pl> +<nom>
+formální +<adj> +<f> +<pl> +<voc>
+formální +<adj> +<f> +<pl> +<nom>
+formální +<adj> +<ma> +<pl> +<voc>
+formální +<adj> +<nt> +<pl> +<acc>
+formální +<adj> +<mi> +<sg> +<nom>
+formální +<adj> +<mi> +<sg> +<voc>
+formální +<adj> +<f> +<sg> +<ins>
+formální +<adj> +<nt> +<sg> +<voc>
+formální +<adj> +<nt> +<sg> +<acc>
+formální +<adj> +<f> +<sg> +<gen>
+formální +<adj> +<f> +<sg> +<voc>
+formální +<adj> +<ma> +<sg> +<voc>
+formální +<adj> +<mi> +<pl> +<voc>
+formální +<adj> +<mi> +<sg> +<acc>
+poválečný +<adj> +<sint> +<mi> +<pl> +<nom>
+poválečný +<adj> +<sint> +<f> +<pl> +<acc>
+poválečný +<adj> +<sint> +<ma> +<pl> +<acc>
+poválečný +<adj> +<sint> +<mi> +<pl> +<acc>
+poválečný +<adj> +<sint> +<nt> +<sg> +<acc>
+poválečný +<adj> +<sint> +<f> +<pl> +<nom>
+poválečný +<adj> +<sint> +<f> +<sg> +<dat>
+poválečný +<adj> +<sint> +<nt> +<sg> +<nom>
+poválečný +<adj> +<sint> +<f> +<sg> +<gen>
+poválečný +<adj> +<sint> +<f> +<pl> +<voc>
+poválečný +<adj> +<sint> +<f> +<sg> +<loc>
+poválečný +<adj> +<sint> +<mi> +<pl> +<voc>
+poválečný +<adj> +<sint> +<nt> +<sg> +<voc>
+program +<n> +<mi> +<pl> +<nom>
+program +<n> +<mi> +<pl> +<ins>
+program +<n> +<mi> +<pl> +<acc>
+program +<n> +<mi> +<pl> +<voc>
+země +<n> +<f> +<pl> +<ins>
+zem +<n> +<f> +<pl> +<ins>
+nacistický +<adj> +<mi> +<sg> +<gen>
+nacistický +<adj> +<ma> +<sg> +<acc>
+nacistický +<adj> +<ma> +<sg> +<gen>
+nacistický +<adj> +<nt> +<sg> +<gen>
+ztráta +<n> +<f> +<sg> +<nom>
+dvořit +<vblex> +<impf> +<tgv> +<pprs> +<mi> +<sg>
+dvořit +<vblex> +<impf> +<tgv> +<pprs> +<ma> +<sg>
+styk +<n> +<mi> +<sg> +<nom>
+styk +<n> +<mi> +<sg> +<acc>
+označovat +<vblex> +<impf> +<pres> +<p3> +<pl>
+druh +<n> +<ma> +<pl> +<dat>
+navazovat +<vblex> +<impf> +<tgv> +<pprs> +<ma> +<sg>
+navazovat +<vblex> +<impf> +<tgv> +<pprs> +<mi> +<sg>
+navazovat +<vblex> +<impf> +<pres> +<p3> +<sg>
+rodný +<adj> +<sint> +<mi> +<sg> +<loc>
+rodný +<adj> +<sint> +<nt> +<sg> +<loc>
+rodný +<adj> +<sint> +<ma> +<sg> +<loc>
+přesunout +<vblex> +<perf> +<pp> +<f> +<sg>
+přesunout +<vblex> +<perf> +<pp> +<nt> +<pl>
+mistr +<n> +<ma> +<sg> +<nom>
+výklad +<n> +<mi> +<sg> +<dat>
+výklad +<n> +<mi> +<sg> +<gen>
+výklad +<n> +<mi> +<sg> +<loc>
+jazyk +<n> +<mi> +<sg> +<nom>
+jazyk +<n> +<mi> +<sg> +<acc>
+hrát +<vblex> +<impf> +<pres> +<p3> +<pl>
+stanovovat +<vblex> +<impf> +<tgv> +<pprs> +<mi> +<sg>
+stanovovat +<vblex> +<impf> +<tgv> +<pprs> +<ma> +<sg>
+stanovovat +<vblex> +<impf> +<pres> +<p3> +<sg>
+používaný +<adj> +<sint> +<mi> +<sg> +<voc>
+používaný +<adj> +<sint> +<ma> +<sg> +<nom>
+používaný +<adj> +<sint> +<mi> +<sg> +<nom>
+používaný +<adj> +<sint> +<mi> +<sg> +<acc>
+používaný +<adj> +<sint> +<ma> +<sg> +<voc>
+porostlý +<adj> +<f> +<sg> +<dat>
+porostlý +<adj> +<mi> +<pl> +<nom>
+porostlý +<adj> +<mi> +<pl> +<voc>
+porostlý +<adj> +<nt> +<sg> +<voc>
+porostlý +<adj> +<mi> +<pl> +<acc>
+porostlý +<adj> +<f> +<pl> +<acc>
+porostlý +<adj> +<f> +<sg> +<loc>
+porostlý +<adj> +<f> +<pl> +<nom>
+porostlý +<adj> +<f> +<pl> +<voc>
+porostlý +<adj> +<f> +<sg> +<gen>
+porostlý +<adj> +<ma> +<pl> +<acc>
+porostlý +<adj> +<nt> +<sg> +<nom>
+porostlý +<adj> +<nt> +<sg> +<acc>
+počítat +<vblex> +<impf> +<past> +<m> +<sg>
+římský +<adj> +<f> +<sg> +<acc>
+římský +<adj> +<f> +<sg> +<ins>
+vítěz +<n> +<ma> +<sg> +<acc>
+vítěz +<n> +<ma> +<pl> +<acc>
+vítěz +<n> +<ma> +<sg> +<gen>
+smrk +<n> +<mi> +<sg> +<ins>
+přenášet +<vblex> +<impf> +<pres> +<p3> +<sg>
+panovník +<n> +<ma> +<pl> +<nom>
+panovník +<n> +<ma> +<pl> +<voc>
+zločin +<n> +<mi> +<pl> +<ins>
+zločin +<n> +<mi> +<pl> +<nom>
+zločin +<n> +<mi> +<pl> +<voc>
+zločin +<n> +<mi> +<pl> +<acc>
+válečný +<adj> +<sint> +<ma> +<sg> +<ins>
+válečný +<adj> +<sint> +<ma> +<pl> +<dat>
+válečný +<adj> +<sint> +<nt> +<sg> +<ins>
+válečný +<adj> +<sint> +<mi> +<sg> +<ins>
+válečný +<adj> +<sint> +<nt> +<pl> +<dat>
+válečný +<adj> +<sint> +<f> +<pl> +<dat>
+válečný +<adj> +<sint> +<mi> +<pl> +<dat>
+bylina +<n> +<f> +<pl> +<acc>
+bylina +<n> +<f> +<sg> +<gen>
+bylina +<n> +<f> +<pl> +<voc>
+bylina +<n> +<f> +<pl> +<nom>
+pozemek +<n> +<mi> +<sg> +<acc>
+pozemek +<n> +<mi> +<sg> +<nom>
+hovořit +<vblex> +<impf> +<inf>
+školní +<adj> +<f> +<sg> +<loc>
+školní +<adj> +<ma> +<pl> +<voc>
+školní +<adj> +<f> +<sg> +<voc>
+školní +<adj> +<mi> +<sg> +<voc>
+školní +<adj> +<f> +<sg> +<ins>
+školní +<adj> +<nt> +<pl> +<nom>
+školní +<adj> +<mi> +<pl> +<nom>
+školní +<adj> +<ma> +<sg> +<voc>
+školní +<adj> +<f> +<pl> +<voc>
+školní +<adj> +<f> +<pl> +<acc>
+školní +<adj> +<nt> +<sg> +<acc>
+školní +<adj> +<nt> +<pl> +<acc>
+školní +<adj> +<ma> +<pl> +<nom>
+školní +<adj> +<mi> +<sg> +<acc>
+školní +<adj> +<nt> +<sg> +<voc>
+školní +<adj> +<f> +<pl> +<nom>
+školní +<adj> +<ma> +<pl> +<acc>
+školní +<adj> +<f> +<sg> +<gen>
+školní +<adj> +<ma> +<sg> +<nom>
+školní +<adj> +<mi> +<sg> +<nom>
+školní +<adj> +<f> +<sg> +<acc>
+školní +<adj> +<mi> +<pl> +<voc>
+školní +<adj> +<mi> +<pl> +<acc>
+školní +<adj> +<nt> +<sg> +<nom>
+školní +<adj> +<nt> +<pl> +<voc>
+školní +<adj> +<f> +<sg> +<nom>
+školní +<adj> +<f> +<sg> +<dat>
+jednota +<n> +<f> +<sg> +<acc>
+dopad +<n> +<mi> +<pl> +<ins>
+dopad +<n> +<mi> +<pl> +<voc>
+dopad +<n> +<mi> +<pl> +<nom>
+dopad +<n> +<mi> +<pl> +<acc>
+kříž +<n> +<mi> +<sg> +<ins>
+pomáhat +<vblex> +<impf> +<pres> +<p3> +<pl>
+oddělit +<vblex> +<perf> +<ger> +<nt> +<sg> +<acc>
+oddělit +<vblex> +<perf> +<ger> +<nt> +<pl> +<voc>
+oddělit +<vblex> +<perf> +<ger> +<nt> +<pl> +<gen>
+oddělit +<vblex> +<perf> +<ger> +<nt> +<sg> +<nom>
+oddělit +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<nom>
+oddělit +<vblex> +<perf> +<ger> +<nt> +<sg> +<dat>
+oddělený +<adj> +<sint> +<ma> +<pl> +<nom>
+oddělit +<vblex> +<perf> +<ger> +<nt> +<sg> +<gen>
+oddělit +<vblex> +<perf> +<ger> +<nt> +<pl> +<acc>
+oddělit +<vblex> +<perf> +<ger> +<nt> +<sg> +<loc>
+oddělený +<adj> +<sint> +<ma> +<pl> +<voc>
+oddělit +<vblex> +<perf> +<ger> +<nt> +<pl> +<nom>
+oddělit +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<voc>
+oddělit +<vblex> +<perf> +<ger> +<nt> +<sg> +<voc>
+španělský +<adj> +<nt> +<pl> +<nom>
+španělský +<adj> +<f> +<sg> +<voc>
+španělský +<adj> +<f> +<sg> +<nom>
+španělský +<adj> +<nt> +<pl> +<acc>
+španělský +<adj> +<nt> +<pl> +<voc>
+zemědělský +<adj> +<mi> +<sg> +<nom>
+zemědělský +<adj> +<mi> +<sg> +<acc>
+zemědělský +<adj> +<ma> +<sg> +<voc>
+zemědělský +<adj> +<ma> +<sg> +<nom>
+zemědělský +<adj> +<mi> +<sg> +<voc>
+místo +<n> +<nt> +<pl> +<ins>
+daný +<adj> +<ma> +<sg> +<acc>
+daný +<adj> +<nt> +<sg> +<gen>
+daný +<adj> +<mi> +<sg> +<gen>
+daný +<adj> +<ma> +<sg> +<gen>
+forma +<n> +<f> +<pl> +<voc>
+forma +<n> +<f> +<pl> +<nom>
+forma +<n> +<f> +<sg> +<gen>
+forma +<n> +<f> +<pl> +<acc>
+chtít +<vblex> +<impf> +<pres> +<p1> +<pl>
+naučit +<vblex> +<perf> +<past> +<m> +<sg>
+ostrovní +<adj> +<ma> +<sg> +<voc>
+ostrovní +<adj> +<ma> +<pl> +<voc>
+ostrovní +<adj> +<f> +<sg> +<dat>
+ostrovní +<adj> +<ma> +<sg> +<nom>
+ostrovní +<adj> +<f> +<sg> +<voc>
+ostrovní +<adj> +<f> +<pl> +<nom>
+ostrovní +<adj> +<nt> +<sg> +<nom>
+ostrovní +<adj> +<nt> +<pl> +<nom>
+ostrovní +<adj> +<nt> +<sg> +<voc>
+ostrovní +<adj> +<f> +<sg> +<acc>
+ostrovní +<adj> +<ma> +<pl> +<acc>
+ostrovní +<adj> +<f> +<sg> +<loc>
+ostrovní +<adj> +<nt> +<pl> +<acc>
+ostrovní +<adj> +<f> +<sg> +<ins>
+ostrovní +<adj> +<f> +<sg> +<gen>
+ostrovní +<adj> +<mi> +<sg> +<voc>
+ostrovní +<adj> +<ma> +<pl> +<nom>
+ostrovní +<adj> +<mi> +<pl> +<acc>
+ostrovní +<adj> +<mi> +<sg> +<acc>
+ostrovní +<adj> +<mi> +<sg> +<nom>
+ostrovní +<adj> +<mi> +<pl> +<nom>
+ostrovní +<adj> +<mi> +<pl> +<voc>
+ostrovní +<adj> +<f> +<sg> +<nom>
+ostrovní +<adj> +<f> +<pl> +<acc>
+ostrovní +<adj> +<nt> +<pl> +<voc>
+ostrovní +<adj> +<nt> +<sg> +<acc>
+ostrovní +<adj> +<f> +<pl> +<voc>
+podobnost +<n> +<f> +<sg> +<acc>
+podobnost +<n> +<f> +<sg> +<nom>
+poslanec +<n> +<ma> +<sg> +<ins>
+celý +<adj> +<f> +<sg> +<acc>
+cela +<n> +<f> +<sg> +<ins>
+celý +<adj> +<f> +<sg> +<ins>
+aliance +<n> +<f> +<pl> +<nom>
+aliance +<n> +<f> +<pl> +<acc>
+aliance +<n> +<f> +<sg> +<nom>
+aliance +<n> +<f> +<sg> +<gen>
+politika +<n> +<f> +<sg> +<gen>
+politika +<n> +<f> +<pl> +<nom>
+politik +<n> +<ma> +<pl> +<ins>
+politik +<n> +<ma> +<pl> +<acc>
+politika +<n> +<f> +<pl> +<acc>
+politika +<n> +<f> +<pl> +<voc>
+reagovat +<vblex> +<impf> +<tgv> +<pprs> +<ma> +<sg>
+reagovat +<vblex> +<impf> +<tgv> +<pprs> +<mi> +<sg>
+reagovat +<vblex> +<impf> +<pres> +<p3> +<sg>
+dolina +<n> +<f> +<sg> +<nom>
+konzervatoř +<n> +<f> +<pl> +<voc>
+konzervatoř +<n> +<f> +<sg> +<gen>
+konzervatoř +<n> +<f> +<pl> +<acc>
+konzervatoř +<n> +<f> +<pl> +<nom>
+ohlas +<n> +<mi> +<sg> +<acc>
+ohlas +<n> +<mi> +<sg> +<nom>
+kosmický +<adj> +<ma> +<sg> +<gen>
+kosmický +<adj> +<nt> +<sg> +<gen>
+kosmický +<adj> +<mi> +<sg> +<gen>
+kosmický +<adj> +<ma> +<sg> +<acc>
+odpovědnost +<n> +<f> +<sg> +<nom>
+odpovědnost +<n> +<f> +<sg> +<acc>
+gestapo +<n> +<nt> +<pl> +<voc>
+gestapo +<n> +<nt> +<sg> +<gen>
+gestapo +<n> +<nt> +<pl> +<nom>
+gestapo +<n> +<nt> +<pl> +<acc>
+byzantský +<adj> +<nt> +<sg> +<nom>
+byzantský +<adj> +<f> +<pl> +<nom>
+byzantský +<adj> +<f> +<sg> +<loc>
+byzantský +<adj> +<f> +<pl> +<acc>
+byzantský +<adj> +<nt> +<sg> +<acc>
+byzantský +<adj> +<mi> +<pl> +<acc>
+byzantský +<adj> +<mi> +<pl> +<voc>
+byzantský +<adj> +<mi> +<pl> +<nom>
+byzantský +<adj> +<f> +<sg> +<dat>
+byzantský +<adj> +<f> +<pl> +<voc>
+byzantský +<adj> +<f> +<sg> +<gen>
+byzantský +<adj> +<ma> +<pl> +<acc>
+byzantský +<adj> +<nt> +<sg> +<voc>
+dálka +<n> +<f> +<pl> +<nom>
+dálka +<n> +<f> +<sg> +<gen>
+dálka +<n> +<f> +<pl> +<voc>
+dálka +<n> +<f> +<pl> +<acc>
+situace +<n> +<f> +<sg> +<dat>
+situace +<n> +<f> +<sg> +<acc>
+situace +<n> +<f> +<sg> +<loc>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<mi> +<sg> +<acc>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<f> +<pl> +<nom>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<mi> +<pl> +<acc>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<nt> +<pl> +<acc>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<mi> +<sg> +<nom>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<nt> +<pl> +<nom>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<ma> +<pl> +<nom>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<loc>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<mi> +<sg> +<voc>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<mi> +<pl> +<voc>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<ma> +<pl> +<voc>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<f> +<pl> +<acc>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<nt> +<sg> +<nom>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<nom>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<f> +<pl> +<voc>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<ma> +<pl> +<acc>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<ma> +<sg> +<nom>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<ins>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<voc>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<mi> +<pl> +<nom>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<nt> +<pl> +<voc>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<dat>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<gen>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<ma> +<sg> +<voc>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<nt> +<sg> +<voc>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<nt> +<sg> +<acc>
+věřit +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<acc>
+orgán +<n> +<mi> +<sg> +<dat>
+orgán +<n> +<mi> +<sg> +<loc>
+orgán +<n> +<mi> +<sg> +<voc>
+orgán +<n> +<mi> +<sg> +<gen>
+realizovat +<vblex> +<impf> +<pp> +<impers> +<f> +<sg>
+realizovat +<vblex> +<impf> +<pp> +<impers> +<nt> +<pl>
+realizovat +<vblex> +<impf> +<pp> +<nt> +<pl>
+realizovat +<vblex> +<impf> +<pp> +<f> +<sg>
+videoklip +<n> +<mi> +<sg> +<acc>
+videoklip +<n> +<mi> +<sg> +<nom>
+kancelář +<n> +<f> +<sg> +<loc>
+kancelář +<n> +<f> +<sg> +<voc>
+kancelář +<n> +<f> +<sg> +<dat>
+komplex +<n> +<mi> +<sg> +<voc>
+komplex +<n> +<mi> +<sg> +<loc>
+komplex +<n> +<mi> +<sg> +<gen>
+komplex +<n> +<mi> +<sg> +<dat>
+lidský +<adj> +<f> +<sg> +<nom>
+lidský +<adj> +<nt> +<pl> +<voc>
+lidský +<adj> +<nt> +<pl> +<nom>
+lidský +<adj> +<nt> +<pl> +<acc>
+lidský +<adj> +<f> +<sg> +<voc>
+znalost +<n> +<f> +<sg> +<acc>
+znalost +<n> +<f> +<sg> +<nom>
+ročník +<n> +<mi> +<sg> +<dat>
+ročník +<n> +<mi> +<sg> +<gen>
+ročník +<n> +<mi> +<sg> +<voc>
+ročník +<n> +<mi> +<sg> +<loc>
+soukromí +<n> +<mi> +<sg> +<nom>
+soukromý +<adj> +<sint> +<ma> +<pl> +<voc>
+soukromí +<n> +<mi> +<sg> +<acc>
+soukromí +<n> +<mi> +<sg> +<dat>
+soukromí +<n> +<mi> +<pl> +<voc>
+soukromí +<n> +<mi> +<sg> +<gen>
+soukromí +<n> +<mi> +<pl> +<nom>
+soukromí +<n> +<mi> +<pl> +<gen>
+soukromí +<n> +<mi> +<pl> +<acc>
+soukromí +<n> +<mi> +<sg> +<loc>
+soukromý +<adj> +<sint> +<ma> +<pl> +<nom>
+soukromí +<n> +<mi> +<sg> +<voc>
+etapa +<n> +<f> +<sg> +<nom>
+rakovina +<n> +<f> +<sg> +<acc>
+týdeník +<n> +<mi> +<sg> +<gen>
+týdeník +<n> +<mi> +<sg> +<loc>
+týdeník +<n> +<mi> +<sg> +<dat>
+týdeník +<n> +<mi> +<sg> +<voc>
+sešlý +<adj> +<cpd>
+veřejný +<adj> +<sint> +<nt> +<sg> +<loc>
+veřejný +<adj> +<sint> +<ma> +<sg> +<loc>
+veřejný +<adj> +<sint> +<mi> +<sg> +<loc>
+ověřit +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<voc>
+ověřit +<vblex> +<perf> +<ger> +<nt> +<sg> +<loc>
+ověřit +<vblex> +<perf> +<ger> +<nt> +<sg> +<gen>
+ověřený +<adj> +<sint> +<ma> +<pl> +<nom>
+ověřit +<vblex> +<perf> +<ger> +<nt> +<sg> +<voc>
+ověřit +<vblex> +<perf> +<ger> +<nt> +<sg> +<dat>
+ověřit +<vblex> +<perf> +<ger> +<nt> +<pl> +<nom>
+ověřit +<vblex> +<perf> +<ger> +<nt> +<sg> +<acc>
+ověřit +<vblex> +<perf> +<ger> +<nt> +<pl> +<acc>
+ověřit +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<nom>
+ověřit +<vblex> +<perf> +<ger> +<nt> +<sg> +<nom>
+ověřit +<vblex> +<perf> +<ger> +<nt> +<pl> +<gen>
+ověřit +<vblex> +<perf> +<ger> +<nt> +<pl> +<voc>
+ověřený +<adj> +<sint> +<ma> +<pl> +<voc>
+populace +<n> +<f> +<sg> +<dat>
+populace +<n> +<f> +<sg> +<acc>
+populace +<n> +<f> +<sg> +<loc>
+chovat +<vblex> +<impf> +<pres> +<p3> +<sg>
+studentský +<adj> +<mi> +<pl> +<loc>
+studentský +<adj> +<nt> +<pl> +<gen>
+studentský +<adj> +<mi> +<pl> +<gen>
+studentský +<adj> +<f> +<pl> +<loc>
+studentský +<adj> +<ma> +<pl> +<gen>
+studentský +<adj> +<nt> +<pl> +<loc>
+studentský +<adj> +<f> +<pl> +<gen>
+studentský +<adj> +<ma> +<pl> +<loc>
+souhlas +<n> +<mi> +<sg> +<loc>
+souhlas +<n> +<mi> +<sg> +<dat>
+souhlas +<n> +<mi> +<sg> +<gen>
+barevný +<adj> +<sint> +<f> +<sg> +<dat>
+barevný +<adj> +<sint> +<f> +<pl> +<acc>
+barevný +<adj> +<sint> +<nt> +<sg> +<voc>
+barevný +<adj> +<sint> +<nt> +<sg> +<nom>
+barevný +<adj> +<sint> +<mi> +<pl> +<acc>
+barevný +<adj> +<sint> +<mi> +<pl> +<nom>
+barevný +<adj> +<sint> +<f> +<pl> +<nom>
+barevný +<adj> +<sint> +<f> +<pl> +<voc>
+barevný +<adj> +<sint> +<f> +<sg> +<loc>
+barevný +<adj> +<sint> +<f> +<sg> +<gen>
+barevný +<adj> +<sint> +<mi> +<pl> +<voc>
+barevný +<adj> +<sint> +<ma> +<pl> +<acc>
+barevný +<adj> +<sint> +<nt> +<sg> +<acc>
+každý +<adj> +<f> +<sg> +<loc>
+
+každý +<adj> +<nt> +<sg> +<voc>
+každý +<adj> +<nt> +<sg> +<acc>
+každý +<adj> +<mi> +<pl> +<voc>
+každý +<adj> +<f> +<sg> +<dat>
+každý +<adj> +<f> +<pl> +<voc>
+každý +<adj> +<f> +<pl> +<acc>
+každý +<adj> +<f> +<sg> +<gen>
+každý +<adj> +<mi> +<pl> +<acc>
+každý +<adj> +<nt> +<sg> +<nom>
+každý +<adj> +<ma> +<pl> +<acc>
+každý +<adj> +<mi> +<pl> +<nom>
+každý +<adj> +<f> +<pl> +<nom>
+porušit +<vblex> +<perf> +<ger> +<nt> +<pl> +<nom>
+porušený +<adj> +<sint> +<ma> +<pl> +<voc>
+porušit +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<nom>
+porušit +<vblex> +<perf> +<ger> +<nt> +<pl> +<voc>
+porušit +<vblex> +<perf> +<ger> +<nt> +<sg> +<gen>
+porušit +<vblex> +<perf> +<ger> +<nt> +<pl> +<acc>
+porušit +<vblex> +<perf> +<ger> +<nt> +<pl> +<gen>
+porušený +<adj> +<sint> +<ma> +<pl> +<nom>
+porušit +<vblex> +<perf> +<ger> +<nt> +<sg> +<nom>
+porušit +<vblex> +<perf> +<ger> +<nt> +<sg> +<loc>
+porušit +<vblex> +<perf> +<ger> +<nt> +<sg> +<dat>
+porušit +<vblex> +<perf> +<ger> +<nt> +<sg> +<voc>
+porušit +<vblex> +<perf> +<ger> +<nt> +<sg> +<acc>
+porušit +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<voc>
+říše +<n> +<f> +<sg> +<loc>
+říše +<n> +<f> +<sg> +<dat>
+říše +<n> +<f> +<sg> +<acc>
+skalní +<adj> +<ma> +<pl> +<voc>
+skalní +<adj> +<ma> +<pl> +<nom>
+skalní +<adj> +<f> +<sg> +<voc>
+skalní +<adj> +<f> +<sg> +<dat>
+skalní +<adj> +<nt> +<pl> +<acc>
+skalní +<adj> +<nt> +<pl> +<voc>
+skalní +<adj> +<nt> +<sg> +<acc>
+skalní +<adj> +<mi> +<pl> +<voc>
+skalní +<adj> +<f> +<pl> +<acc>
+skalní +<adj> +<nt> +<sg> +<voc>
+skalní +<adj> +<f> +<sg> +<ins>
+skalní +<adj> +<mi> +<sg> +<nom>
+skalní +<adj> +<f> +<pl> +<nom>
+skalní +<adj> +<mi> +<sg> +<voc>
+skalní +<adj> +<mi> +<pl> +<acc>
+skalní +<adj> +<f> +<sg> +<loc>
+skalní +<adj> +<ma> +<sg> +<voc>
+skalní +<adj> +<ma> +<pl> +<acc>
+skalní +<adj> +<mi> +<pl> +<nom>
+skalní +<adj> +<ma> +<sg> +<nom>
+skalní +<adj> +<f> +<sg> +<acc>
+skalní +<adj> +<f> +<sg> +<gen>
+skalní +<adj> +<nt> +<pl> +<nom>
+skalní +<adj> +<f> +<sg> +<nom>
+skalní +<adj> +<nt> +<sg> +<nom>
+skalní +<adj> +<f> +<pl> +<voc>
+skalní +<adj> +<mi> +<sg> +<acc>
+mise +<n> +<f> +<pl> +<gen>
+mise +<n> +<f> +<sg> +<ins>
+krvácet +<vblex> +<impf> +<ger> +<nt> +<pl> +<voc>
+krvácet +<vblex> +<impf> +<ger> +<nt> +<pl> +<acc>
+krvácet +<vblex> +<impf> +<ger> +<nt> +<sg> +<nom>
+krvácet +<vblex> +<impf> +<ger> +<nt> +<sg> +<dat>
+krvácet +<vblex> +<impf> +<pp> +<adj> +<ma> +<pl> +<voc>
+krvácet +<vblex> +<impf> +<ger> +<nt> +<pl> +<nom>
+krvácet +<vblex> +<impf> +<ger> +<nt> +<sg> +<acc>
+krvácet +<vblex> +<impf> +<ger> +<nt> +<pl> +<gen>
+krvácet +<vblex> +<impf> +<pp> +<adj> +<ma> +<pl> +<nom>
+krvácet +<vblex> +<impf> +<ger> +<nt> +<sg> +<gen>
+krvácet +<vblex> +<impf> +<ger> +<nt> +<sg> +<loc>
+krvácet +<vblex> +<impf> +<ger> +<nt> +<sg> +<voc>
+kus +<n> +<mi> +<sg> +<nom>
+kus +<n> +<mi> +<sg> +<acc>
+přicházet +<vblex> +<impf> +<pres> +<p3> +<sg>
+trvat +<vblex> +<impf> +<past> +<m> +<sg>
+lehký +<adj> +<nt> +<sg> +<voc>
+lehký +<adj> +<sint> +<f> +<sg> +<gen>
+lehký +<adj> +<f> +<pl> +<voc>
+lehký +<adj> +<f> +<sg> +<gen>
+lehký +<adj> +<sint> +<f> +<pl> +<acc>
+lehký +<adj> +<ma> +<pl> +<acc>
+lehký +<adj> +<sint> +<f> +<sg> +<loc>
+lehký +<adj> +<nt> +<sg> +<acc>
+lehký +<adj> +<sint> +<nt> +<sg> +<nom>
+lehký +<adj> +<sint> +<mi> +<pl> +<voc>
+lehký +<adj> +<sint> +<ma> +<pl> +<acc>
+lehký +<adj> +<f> +<sg> +<loc>
+lehký +<adj> +<mi> +<pl> +<nom>
+lehký +<adj> +<sint> +<nt> +<sg> +<voc>
+lehký +<adj> +<sint> +<f> +<pl> +<voc>
+lehký +<adj> +<f> +<pl> +<acc>
+lehký +<adj> +<f> +<pl> +<nom>
+lehký +<adj> +<sint> +<f> +<sg> +<dat>
+lehký +<adj> +<mi> +<pl> +<voc>
+lehký +<adj> +<sint> +<nt> +<sg> +<acc>
+lehký +<adj> +<f> +<sg> +<dat>
+lehký +<adj> +<sint> +<mi> +<pl> +<acc>
+lehký +<adj> +<mi> +<pl> +<acc>
+lehký +<adj> +<sint> +<f> +<pl> +<nom>
+lehký +<adj> +<sint> +<mi> +<pl> +<nom>
+lehký +<adj> +<nt> +<sg> +<nom>
+korunní +<adj> +<mi> +<pl> +<voc>
+korunní +<adj> +<f> +<sg> +<nom>
+korunní +<adj> +<ma> +<pl> +<nom>
+korunní +<adj> +<mi> +<pl> +<nom>
+korunní +<adj> +<ma> +<pl> +<voc>
+korunní +<adj> +<f> +<pl> +<nom>
+korunní +<adj> +<nt> +<sg> +<voc>
+korunní +<adj> +<ma> +<sg> +<nom>
+korunní +<adj> +<mi> +<pl> +<acc>
+korunní +<adj> +<ma> +<sg> +<voc>
+korunní +<adj> +<f> +<sg> +<dat>
+korunní +<adj> +<f> +<pl> +<voc>
+korunní +<adj> +<nt> +<sg> +<acc>
+korunní +<adj> +<nt> +<pl> +<nom>
+korunní +<adj> +<mi> +<sg> +<acc>
+korunní +<adj> +<f> +<sg> +<voc>
+korunní +<adj> +<nt> +<sg> +<nom>
+korunní +<adj> +<mi> +<sg> +<voc>
+korunní +<adj> +<f> +<sg> +<acc>
+korunní +<adj> +<f> +<sg> +<gen>
+korunní +<adj> +<nt> +<pl> +<acc>
+korunní +<adj> +<f> +<sg> +<ins>
+korunní +<adj> +<nt> +<pl> +<voc>
+korunní +<adj> +<ma> +<pl> +<acc>
+korunní +<adj> +<f> +<sg> +<loc>
+korunní +<adj> +<f> +<pl> +<acc>
+korunní +<adj> +<mi> +<sg> +<nom>
+vzniknout +<vblex> +<impf> +<past> +<nt> +<pl>
+vzniknout +<vblex> +<impf> +<past> +<f> +<sg>
+příspěvek +<n> +<mi> +<pl> +<acc>
+příspěvek +<n> +<mi> +<pl> +<nom>
+příspěvek +<n> +<mi> +<pl> +<ins>
+příspěvek +<n> +<mi> +<pl> +<voc>
+úplný +<adj> +<sint> +<f> +<pl> +<voc>
+úplný +<adj> +<sint> +<mi> +<pl> +<voc>
+úplný +<adj> +<sint> +<nt> +<sg> +<acc>
+úplný +<adj> +<sint> +<f> +<pl> +<nom>
+úplný +<adj> +<sint> +<f> +<sg> +<dat>
+úplný +<adj> +<sint> +<mi> +<pl> +<acc>
+úplný +<adj> +<sint> +<mi> +<pl> +<nom>
+úplný +<adj> +<sint> +<nt> +<sg> +<nom>
+úplný +<adj> +<sint> +<f> +<sg> +<gen>
+úplný +<adj> +<sint> +<ma> +<pl> +<acc>
+úplný +<adj> +<sint> +<f> +<sg> +<loc>
+úplný +<adj> +<sint> +<nt> +<sg> +<voc>
+úplný +<adj> +<sint> +<f> +<pl> +<acc>
+literární +<adj> +<ma> +<pl> +<loc>
+literární +<adj> +<mi> +<pl> +<loc>
+literární +<adj> +<nt> +<pl> +<gen>
+literární +<adj> +<f> +<pl> +<gen>
+literární +<adj> +<nt> +<pl> +<loc>
+literární +<adj> +<ma> +<pl> +<gen>
+literární +<adj> +<f> +<pl> +<loc>
+literární +<adj> +<mi> +<pl> +<gen>
+podmínka +<n> +<f> +<sg> +<gen>
+podmínka +<n> +<f> +<pl> +<voc>
+podmínka +<n> +<f> +<pl> +<acc>
+podmínka +<n> +<f> +<pl> +<nom>
+kamenný +<adj> +<sint> +<f> +<sg> +<acc>
+kamenný +<adj> +<sint> +<f> +<sg> +<ins>
+středomoří +<n> +<mi> +<pl> +<acc>
+středomoří +<n> +<mi> +<sg> +<gen>
+středomoří +<n> +<mi> +<sg> +<dat>
+středomoří +<n> +<mi> +<sg> +<acc>
+středomoří +<n> +<mi> +<sg> +<loc>
+středomoří +<n> +<mi> +<pl> +<gen>
+středomoří +<n> +<mi> +<sg> +<nom>
+středomoří +<n> +<mi> +<pl> +<voc>
+středomoří +<n> +<mi> +<pl> +<nom>
+středomoří +<n> +<mi> +<sg> +<voc>
+farář +<n> +<ma> +<sg> +<gen>
+farář +<n> +<ma> +<pl> +<acc>
+farář +<n> +<ma> +<sg> +<acc>
+prodat +<vblex> +<perf> +<past> +<nt> +<sg>
+admirál +<n> +<ma> +<sg> +<nom>
+rotace +<n> +<f> +<pl> +<nom>
+rotace +<n> +<f> +<sg> +<gen>
+rotace +<n> +<f> +<pl> +<acc>
+rotace +<n> +<f> +<sg> +<nom>
+marina +<n> +<f> +<sg> +<nom>
+zajímavý +<adj> +<sint> +<nt> +<sg> +<voc>
+zajímavý +<adj> +<sint> +<nt> +<sg> +<acc>
+zajímavý +<adj> +<sint> +<mi> +<pl> +<acc>
+zajímavý +<adj> +<sint> +<ma> +<pl> +<acc>
+zajímavý +<adj> +<sint> +<mi> +<pl> +<voc>
+zajímavý +<adj> +<sint> +<f> +<sg> +<loc>
+zajímavý +<adj> +<sint> +<f> +<pl> +<voc>
+zajímavý +<adj> +<sint> +<f> +<sg> +<dat>
+zajímavý +<adj> +<sint> +<mi> +<pl> +<nom>
+zajímavý +<adj> +<sint> +<f> +<pl> +<acc>
+zajímavý +<adj> +<sint> +<f> +<pl> +<nom>
+zajímavý +<adj> +<sint> +<nt> +<sg> +<nom>
+zajímavý +<adj> +<sint> +<f> +<sg> +<gen>
+čítat +<vblex> +<impf> +<past> +<nt> +<pl>
+čítat +<vblex> +<impf> +<past> +<f> +<sg>
+dánský +<adj> +<cpd>
+varianta +<n> +<f> +<pl> +<loc>
+projevovat +<vblex> +<impf> +<past> +<m> +<sg>
+strýc +<n> +<ma> +<sg> +<nom>
+sekunda +<n> +<f> +<pl> +<acc>
+sekunda +<n> +<f> +<pl> +<nom>
+sekunda +<n> +<f> +<sg> +<gen>
+sekunda +<n> +<f> +<pl> +<voc>
+listopad +<n> +<mi> +<sg> +<acc>
+listopad +<n> +<mi> +<sg> +<nom>
+hrát +<vblex> +<impf> +<inf>
+podnikatel +<n> +<ma> +<pl> +<acc>
+podnikatel +<n> +<ma> +<sg> +<acc>
+podnikatel +<n> +<ma> +<sg> +<gen>
+uvedený +<adj> +<sint> +<nt> +<sg> +<acc>
+uvedený +<adj> +<sint> +<mi> +<pl> +<nom>
+uvedený +<adj> +<sint> +<nt> +<sg> +<nom>
+uvedený +<adj> +<sint> +<f> +<pl> +<nom>
+uvedený +<adj> +<sint> +<f> +<sg> +<gen>
+uvedený +<adj> +<sint> +<f> +<sg> +<dat>
+uvedený +<adj> +<sint> +<f> +<sg> +<loc>
+uvedený +<adj> +<sint> +<f> +<pl> +<voc>
+uvedený +<adj> +<sint> +<mi> +<pl> +<acc>
+uvedený +<adj> +<sint> +<mi> +<pl> +<voc>
+uvedený +<adj> +<sint> +<f> +<pl> +<acc>
+uvedený +<adj> +<sint> +<nt> +<sg> +<voc>
+uvedený +<adj> +<sint> +<ma> +<pl> +<acc>
+žák +<n> +<ma> +<pl> +<nom>
+žák +<n> +<ma> +<pl> +<voc>
+dynastie +<n> +<f> +<pl> +<nom>
+dynastie +<n> +<f> +<sg> +<nom>
+dynastie +<n> +<f> +<sg> +<gen>
+dynastie +<n> +<f> +<pl> +<acc>
+prostora +<n> +<f> +<sg> +<gen>
+prostor +<n> +<mi> +<pl> +<nom>
+prostor +<n> +<mi> +<pl> +<ins>
+prostora +<n> +<f> +<pl> +<nom>
+prostor +<n> +<mi> +<pl> +<voc>
+prostor +<n> +<mi> +<pl> +<acc>
+prostora +<n> +<f> +<pl> +<acc>
+prostora +<n> +<f> +<pl> +<voc>
+otázka +<n> +<f> +<sg> +<ins>
+žena +<n> +<f> +<sg> +<nom>
+hnát +<vblex> +<impf> +<tgv> +<pprs> +<ma> +<sg>
+hnát +<vblex> +<impf> +<tgv> +<pprs> +<mi> +<sg>
+francouzský +<adj> +<f> +<sg> +<ins>
+francouzský +<adj> +<f> +<sg> +<acc>
+fontána +<n> +<f> +<sg> +<nom>
+film +<n> +<mi> +<sg> +<gen>
+film +<n> +<mi> +<sg> +<loc>
+film +<n> +<mi> +<sg> +<dat>
+film +<n> +<mi> +<sg> +<voc>
+otec +<n> +<ma> +<sg> +<loc>
+otec +<n> +<ma> +<sg> +<dat>
+otec +<n> +<ma> +<pl> +<ins>
+otec +<n> +<ma> +<pl> +<voc>
+otec +<n> +<ma> +<pl> +<nom>
+milion +<n> +<mi> +<sg> +<dat>
+milion +<n> +<mi> +<sg> +<gen>
+milion +<n> +<mi> +<sg> +<loc>
+milion +<n> +<mi> +<sg> +<voc>
+box +<n> +<mi> +<sg> +<acc>
+box +<n> +<mi> +<sg> +<nom>
+liga +<n> +<f> +<sg> +<nom>
+představa +<n> +<f> +<pl> +<voc>
+představa +<n> +<f> +<pl> +<nom>
+představa +<n> +<f> +<sg> +<gen>
+představa +<n> +<f> +<pl> +<acc>
+stěna +<n> +<f> +<sg> +<ins>
+statistický +<adj> +<mi> +<pl> +<voc>
+statistický +<adj> +<f> +<sg> +<loc>
+statistický +<adj> +<ma> +<pl> +<acc>
+statistický +<adj> +<nt> +<sg> +<nom>
+statistický +<adj> +<f> +<sg> +<gen>
+statistický +<adj> +<f> +<pl> +<acc>
+statistický +<adj> +<mi> +<pl> +<acc>
+statistický +<adj> +<nt> +<sg> +<voc>
+statistický +<adj> +<nt> +<sg> +<acc>
+statistický +<adj> +<f> +<sg> +<dat>
+statistický +<adj> +<mi> +<pl> +<nom>
+statistický +<adj> +<f> +<pl> +<voc>
+statistický +<adj> +<f> +<pl> +<nom>
+laboratoř +<n> +<f> +<sg> +<acc>
+laboratoř +<n> +<f> +<sg> +<nom>
+popularita +<n> +<f> +<sg> +<nom>
+stěna +<n> +<f> +<pl> +<acc>
+stěna +<n> +<f> +<pl> +<nom>
+stěna +<n> +<f> +<pl> +<voc>
+stěna +<n> +<f> +<sg> +<gen>
+centrální +<adj> +<f> +<sg> +<loc>
+centrální +<adj> +<nt> +<pl> +<voc>
+centrální +<adj> +<f> +<sg> +<dat>
+centrální +<adj> +<ma> +<pl> +<acc>
+centrální +<adj> +<f> +<pl> +<voc>
+centrální +<adj> +<nt> +<sg> +<nom>
+centrální +<adj> +<f> +<sg> +<ins>
+centrální +<adj> +<nt> +<pl> +<nom>
+centrální +<adj> +<ma> +<sg> +<voc>
+centrální +<adj> +<mi> +<sg> +<voc>
+centrální +<adj> +<f> +<sg> +<acc>
+centrální +<adj> +<ma> +<sg> +<nom>
+centrální +<adj> +<f> +<sg> +<gen>
+centrální +<adj> +<ma> +<pl> +<voc>
+centrální +<adj> +<mi> +<sg> +<acc>
+centrální +<adj> +<nt> +<sg> +<voc>
+centrální +<adj> +<mi> +<pl> +<acc>
+centrální +<adj> +<nt> +<sg> +<acc>
+centrální +<adj> +<f> +<pl> +<acc>
+centrální +<adj> +<mi> +<sg> +<nom>
+centrální +<adj> +<f> +<sg> +<nom>
+centrální +<adj> +<f> +<pl> +<nom>
+centrální +<adj> +<ma> +<pl> +<nom>
+centrální +<adj> +<mi> +<pl> +<nom>
+centrální +<adj> +<f> +<sg> +<voc>
+centrální +<adj> +<mi> +<pl> +<voc>
+centrální +<adj> +<nt> +<pl> +<acc>
+označovat +<vblex> +<impf> +<pp> +<impers> +<f> +<sg>
+označovat +<vblex> +<impf> +<pp> +<nt> +<pl>
+označovat +<vblex> +<impf> +<pp> +<f> +<sg>
+označovat +<vblex> +<impf> +<pp> +<impers> +<nt> +<pl>
+německý +<adj> +<mi> +<sg> +<gen>
+německý +<adj> +<ma> +<sg> +<gen>
+německý +<adj> +<ma> +<sg> +<acc>
+německý +<adj> +<nt> +<sg> +<gen>
+osoba +<n> +<f> +<pl> +<dat>
+počítat +<vblex> +<impf> +<pres> +<p3> +<sg>
+rádium +<n> +<nt> +<pl> +<nom>
+rádium +<n> +<nt> +<pl> +<voc>
+rádium +<n> +<nt> +<pl> +<acc>
+rádium +<n> +<nt> +<sg> +<gen>
+stav +<n> +<mi> +<sg> +<ins>
+umístěný +<adj> +<sint> +<mi> +<pl> +<loc>
+umístěný +<adj> +<sint> +<f> +<pl> +<gen>
+umístěný +<adj> +<sint> +<ma> +<pl> +<loc>
+umístěný +<adj> +<sint> +<nt> +<pl> +<loc>
+umístěný +<adj> +<sint> +<mi> +<pl> +<gen>
+umístěný +<adj> +<sint> +<nt> +<pl> +<gen>
+umístěný +<adj> +<sint> +<f> +<pl> +<loc>
+umístěný +<adj> +<sint> +<ma> +<pl> +<gen>
+kolektivní +<adj> +<ma> +<sg> +<nom>
+kolektivní +<adj> +<f> +<pl> +<nom>
+kolektivní +<adj> +<f> +<pl> +<acc>
+kolektivní +<adj> +<f> +<sg> +<ins>
+kolektivní +<adj> +<nt> +<sg> +<acc>
+kolektivní +<adj> +<mi> +<sg> +<acc>
+kolektivní +<adj> +<ma> +<pl> +<acc>
+kolektivní +<adj> +<f> +<sg> +<gen>
+kolektivní +<adj> +<mi> +<pl> +<voc>
+kolektivní +<adj> +<ma> +<sg> +<voc>
+kolektivní +<adj> +<mi> +<pl> +<nom>
+kolektivní +<adj> +<f> +<pl> +<voc>
+kolektivní +<adj> +<mi> +<pl> +<acc>
+kolektivní +<adj> +<ma> +<pl> +<nom>
+kolektivní +<adj> +<f> +<sg> +<voc>
+kolektivní +<adj> +<mi> +<sg> +<nom>
+kolektivní +<adj> +<f> +<sg> +<loc>
+kolektivní +<adj> +<nt> +<pl> +<nom>
+kolektivní +<adj> +<mi> +<sg> +<voc>
+kolektivní +<adj> +<f> +<sg> +<nom>
+kolektivní +<adj> +<nt> +<pl> +<voc>
+kolektivní +<adj> +<ma> +<pl> +<voc>
+kolektivní +<adj> +<nt> +<sg> +<voc>
+kolektivní +<adj> +<f> +<sg> +<acc>
+kolektivní +<adj> +<nt> +<sg> +<nom>
+kolektivní +<adj> +<nt> +<pl> +<acc>
+kolektivní +<adj> +<f> +<sg> +<dat>
+kazatel +<n> +<ma> +<pl> +<gen>
+kazatel +<n> +<ma> +<sg> +<nom>
+tisíc +<n> +<mi> +<pl> +<voc>
+tisíc +<n> +<mi> +<pl> +<nom>
+tisíc +<n> +<mi> +<pl> +<acc>
+tisíc +<n> +<mi> +<sg> +<gen>
+železo +<n> +<nt> +<sg> +<nom>
+železo +<n> +<nt> +<sg> +<acc>
+železo +<n> +<nt> +<sg> +<voc>
+hospodářský +<adj> +<nt> +<pl> +<nom>
+hospodářský +<adj> +<f> +<sg> +<voc>
+hospodářský +<adj> +<nt> +<pl> +<acc>
+hospodářský +<adj> +<nt> +<pl> +<voc>
+hospodářský +<adj> +<f> +<sg> +<nom>
+student +<n> +<ma> +<pl> +<acc>
+student +<n> +<ma> +<pl> +<ins>
+odcházet +<vblex> +<impf> +<pres> +<p3> +<sg>
+pozemní +<adj> +<nt> +<pl> +<gen>
+pozemní +<adj> +<ma> +<pl> +<loc>
+pozemní +<adj> +<nt> +<pl> +<loc>
+pozemní +<adj> +<mi> +<pl> +<gen>
+pozemní +<adj> +<ma> +<pl> +<gen>
+pozemní +<adj> +<f> +<pl> +<gen>
+pozemní +<adj> +<mi> +<pl> +<loc>
+pozemní +<adj> +<f> +<pl> +<loc>
+vzorec +<n> +<mi> +<sg> +<nom>
+vzorec +<n> +<mi> +<sg> +<acc>
+chrám +<n> +<mi> +<sg> +<nom>
+chrám +<n> +<mi> +<sg> +<acc>
+měsíc +<n> +<mi> +<sg> +<acc>
+měsíc +<n> +<mi> +<sg> +<nom>
+stálý +<adj> +<f> +<sg> +<acc>
+stálý +<adj> +<f> +<sg> +<ins>
+vysvětit +<vblex> +<perf> +<pp> +<impers> +<m> +<sg>
+okresní +<adj> +<nt> +<sg> +<gen>
+okresní +<adj> +<ma> +<sg> +<acc>
+okresní +<adj> +<ma> +<sg> +<gen>
+okresní +<adj> +<mi> +<sg> +<gen>
+míč +<n> +<mi> +<sg> +<nom>
+míč +<n> +<mi> +<sg> +<acc>
+muslim +<n> +<ma> +<pl> +<nom>
+muslim +<n> +<ma> +<pl> +<voc>
+štafeta +<n> +<f> +<sg> +<gen>
+štafeta +<n> +<f> +<pl> +<acc>
+štafeta +<n> +<f> +<pl> +<nom>
+štafeta +<n> +<f> +<pl> +<voc>
+duchovní +<adj> +<mi> +<sg> +<gen>
+duchovní +<adj> +<ma> +<sg> +<acc>
+duchovní +<adj> +<ma> +<sg> +<gen>
+duchovní +<adj> +<nt> +<sg> +<gen>
+značka +<n> +<f> +<pl> +<gen>
+flóra +<n> +<f> +<sg> +<nom>
+ústraní +<n> +<mi> +<sg> +<acc>
+ústraní +<n> +<mi> +<sg> +<loc>
+ústraní +<n> +<mi> +<pl> +<voc>
+ústraní +<n> +<mi> +<sg> +<nom>
+ústraní +<n> +<mi> +<pl> +<gen>
+ústraní +<n> +<mi> +<pl> +<acc>
+ústraní +<n> +<mi> +<sg> +<dat>
+ústraní +<n> +<mi> +<sg> +<voc>
+ústraní +<n> +<mi> +<sg> +<gen>
+ústraní +<n> +<mi> +<pl> +<nom>
+křížový +<adj> +<sint> +<f> +<sg> +<voc>
+křížový +<adj> +<sint> +<nt> +<pl> +<voc>
+křížový +<adj> +<sint> +<nt> +<pl> +<acc>
+křížový +<adj> +<sint> +<nt> +<pl> +<nom>
+křížový +<adj> +<sint> +<f> +<sg> +<nom>
+lodní +<adj> +<nt> +<sg> +<acc>
+lodní +<adj> +<f> +<pl> +<voc>
+lodní +<adj> +<f> +<sg> +<nom>
+lodní +<adj> +<ma> +<sg> +<voc>
+lodní +<adj> +<nt> +<sg> +<voc>
+lodní +<adj> +<f> +<sg> +<loc>
+lodní +<adj> +<nt> +<sg> +<nom>
+lodní +<adj> +<f> +<pl> +<acc>
+lodní +<adj> +<ma> +<pl> +<nom>
+lodní +<adj> +<nt> +<pl> +<voc>
+lodní +<adj> +<nt> +<pl> +<acc>
+lodní +<adj> +<mi> +<pl> +<acc>
+lodní +<adj> +<f> +<sg> +<voc>
+lodní +<adj> +<mi> +<sg> +<voc>
+lodní +<adj> +<f> +<sg> +<gen>
+lodní +<adj> +<mi> +<sg> +<acc>
+lodní +<adj> +<ma> +<pl> +<voc>
+lodní +<adj> +<f> +<sg> +<acc>
+lodní +<adj> +<ma> +<sg> +<nom>
+lodní +<adj> +<f> +<sg> +<ins>
+lodní +<adj> +<mi> +<pl> +<nom>
+lodní +<adj> +<f> +<sg> +<dat>
+lodní +<adj> +<mi> +<pl> +<voc>
+lodní +<adj> +<nt> +<pl> +<nom>
+lodní +<adj> +<ma> +<pl> +<acc>
+lodní +<adj> +<mi> +<sg> +<nom>
+lodní +<adj> +<f> +<pl> +<nom>
+velký +<adj> +<sint> +<mi> +<sg> +<ins>
+velký +<adj> +<nt> +<pl> +<dat>
+velký +<adj> +<sint> +<nt> +<pl> +<dat>
+velký +<adj> +<ma> +<sg> +<ins>
+velký +<adj> +<mi> +<pl> +<dat>
+velký +<adj> +<sint> +<f> +<pl> +<dat>
+velký +<adj> +<sint> +<mi> +<pl> +<dat>
+velký +<adj> +<sint> +<nt> +<sg> +<ins>
+velký +<adj> +<sint> +<ma> +<sg> +<ins>
+velký +<adj> +<nt> +<sg> +<ins>
+velký +<adj> +<f> +<pl> +<dat>
+velký +<adj> +<mi> +<sg> +<ins>
+velký +<adj> +<sint> +<ma> +<pl> +<dat>
+velký +<adj> +<ma> +<pl> +<dat>
+pěstovat +<vblex> +<impf> +<pp> +<nt> +<pl>
+pěstovat +<vblex> +<impf> +<pp> +<f> +<sg>
+pěstovat +<vblex> +<impf> +<pp> +<impers> +<f> +<sg>
+pěstovat +<vblex> +<impf> +<pp> +<impers> +<nt> +<pl>
+slovník +<n> +<mi> +<sg> +<nom>
+slovník +<n> +<mi> +<sg> +<acc>
+zlato +<n> +<nt> +<pl> +<voc>
+zlato +<n> +<nt> +<pl> +<nom>
+zlato +<n> +<nt> +<sg> +<gen>
+zlato +<n> +<nt> +<pl> +<acc>
+počasí +<n> +<nt> +<pl> +<voc>
+počasí +<n> +<nt> +<sg> +<dat>
+počasí +<n> +<nt> +<pl> +<gen>
+počasí +<n> +<nt> +<sg> +<loc>
+počasí +<n> +<nt> +<sg> +<gen>
+počasí +<n> +<nt> +<pl> +<nom>
+počasí +<n> +<nt> +<pl> +<loc>
+počasí +<n> +<nt> +<pl> +<dat>
+počasí +<n> +<nt> +<sg> +<voc>
+počasí +<n> +<nt> +<pl> +<acc>
+počasí +<n> +<nt> +<sg> +<nom>
+počasí +<n> +<nt> +<sg> +<acc>
+vzdělávací +<adj> +<nt> +<pl> +<gen>
+vzdělávací +<adj> +<mi> +<pl> +<gen>
+vzdělávací +<adj> +<mi> +<pl> +<loc>
+vzdělávací +<adj> +<ma> +<pl> +<loc>
+vzdělávací +<adj> +<ma> +<pl> +<gen>
+vzdělávací +<adj> +<f> +<pl> +<loc>
+vzdělávací +<adj> +<f> +<pl> +<gen>
+vzdělávací +<adj> +<nt> +<pl> +<loc>
+průmyslový +<adj> +<sint> +<nt> +<sg> +<voc>
+průmyslový +<adj> +<sint> +<f> +<pl> +<voc>
+průmyslový +<adj> +<sint> +<mi> +<pl> +<acc>
+průmyslový +<adj> +<sint> +<mi> +<pl> +<voc>
+průmyslový +<adj> +<sint> +<nt> +<sg> +<nom>
+průmyslový +<adj> +<sint> +<f> +<sg> +<gen>
+průmyslový +<adj> +<sint> +<f> +<sg> +<dat>
+průmyslový +<adj> +<sint> +<ma> +<pl> +<acc>
+průmyslový +<adj> +<sint> +<f> +<pl> +<acc>
+průmyslový +<adj> +<sint> +<f> +<pl> +<nom>
+průmyslový +<adj> +<sint> +<mi> +<pl> +<nom>
+průmyslový +<adj> +<sint> +<f> +<sg> +<loc>
+průmyslový +<adj> +<sint> +<nt> +<sg> +<acc>
+vlastnost +<n> +<f> +<pl> +<ins>
+rozdělit +<vblex> +<perf> +<inf>
+svobodný +<adj> +<sint> +<ma> +<pl> +<acc>
+svobodný +<adj> +<sint> +<f> +<pl> +<voc>
+svobodný +<adj> +<sint> +<f> +<sg> +<gen>
+svobodný +<adj> +<sint> +<nt> +<sg> +<nom>
+svobodný +<adj> +<sint> +<f> +<pl> +<nom>
+svobodný +<adj> +<sint> +<mi> +<pl> +<voc>
+svobodný +<adj> +<sint> +<mi> +<pl> +<acc>
+svobodný +<adj> +<sint> +<f> +<pl> +<acc>
+svobodný +<adj> +<sint> +<nt> +<sg> +<acc>
+svobodný +<adj> +<sint> +<f> +<sg> +<dat>
+svobodný +<adj> +<sint> +<nt> +<sg> +<voc>
+svobodný +<adj> +<sint> +<f> +<sg> +<loc>
+svobodný +<adj> +<sint> +<mi> +<pl> +<nom>
+budoucí +<adj> +<ma> +<sg> +<ins>
+budoucí +<adj> +<f> +<pl> +<dat>
+budoucí +<adj> +<mi> +<sg> +<loc>
+budoucí +<adj> +<mi> +<sg> +<ins>
+budoucí +<adj> +<nt> +<sg> +<ins>
+budoucí +<adj> +<nt> +<sg> +<loc>
+budoucí +<adj> +<mi> +<pl> +<dat>
+budoucí +<adj> +<ma> +<pl> +<dat>
+budoucí +<adj> +<ma> +<sg> +<loc>
+budoucí +<adj> +<nt> +<pl> +<dat>
+stěna +<n> +<f> +<pl> +<gen>
+poplatek +<n> +<mi> +<pl> +<ins>
+poplatek +<n> +<mi> +<pl> +<nom>
+poplatek +<n> +<mi> +<pl> +<acc>
+poplatek +<n> +<mi> +<pl> +<voc>
+důležitý +<adj> +<sint> +<f> +<sg> +<gen>
+důležitý +<adj> +<sint> +<f> +<pl> +<voc>
+důležitý +<adj> +<sint> +<f> +<pl> +<nom>
+důležitý +<adj> +<sint> +<f> +<pl> +<acc>
+důležitý +<adj> +<sint> +<nt> +<sg> +<voc>
+důležitý +<adj> +<sint> +<f> +<sg> +<loc>
+důležitý +<adj> +<sint> +<nt> +<sg> +<nom>
+důležitý +<adj> +<sint> +<f> +<sg> +<dat>
+důležitý +<adj> +<sint> +<mi> +<pl> +<nom>
+důležitý +<adj> +<sint> +<ma> +<pl> +<acc>
+důležitý +<adj> +<sint> +<mi> +<pl> +<voc>
+důležitý +<adj> +<sint> +<mi> +<pl> +<acc>
+důležitý +<adj> +<sint> +<nt> +<sg> +<acc>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<nt> +<sg> +<nom>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<nt> +<pl> +<nom>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<nt> +<sg> +<voc>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<nom>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<gen>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<pl> +<nom>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<mi> +<pl> +<acc>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<nt> +<pl> +<acc>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<pl> +<voc>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<mi> +<pl> +<nom>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<ma> +<sg> +<nom>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<acc>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<pl> +<acc>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<ma> +<sg> +<voc>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<nt> +<pl> +<voc>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<mi> +<sg> +<acc>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<dat>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<mi> +<pl> +<voc>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<ma> +<pl> +<voc>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<mi> +<sg> +<voc>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<ma> +<pl> +<acc>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<voc>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<loc>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<f> +<sg> +<ins>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<ma> +<pl> +<nom>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<mi> +<sg> +<nom>
+vystupovat +<vblex> +<impf> +<pprs> +<adj> +<nt> +<sg> +<acc>
+sestava +<n> +<f> +<sg> +<loc>
+sestava +<n> +<f> +<sg> +<dat>
+užitý +<adj> +<sint> +<ma> +<pl> +<nom>
+užitý +<adj> +<sint> +<ma> +<pl> +<voc>
+bývat +<vblex> +<impf> +<past> +<f> +<sg>
+bývat +<vblex> +<impf> +<past> +<nt> +<pl>
+kukuřice +<n> +<f> +<sg> +<gen>
+kukuřice +<n> +<f> +<pl> +<voc>
+kukuřice +<n> +<f> +<sg> +<voc>
+kukuřice +<n> +<f> +<sg> +<nom>
+kukuřice +<n> +<f> +<pl> +<nom>
+kukuřice +<n> +<f> +<pl> +<acc>
+uprchnout +<vblex> +<impf> +<past> +<m> +<sg>
+účinný +<adj> +<sint> +<nt> +<sg> +<voc>
+účinný +<adj> +<sint> +<f> +<sg> +<gen>
+účinný +<adj> +<sint> +<f> +<sg> +<loc>
+účinný +<adj> +<sint> +<mi> +<pl> +<voc>
+účinný +<adj> +<sint> +<mi> +<pl> +<nom>
+účinný +<adj> +<sint> +<f> +<pl> +<voc>
+účinný +<adj> +<sint> +<ma> +<pl> +<acc>
+účinný +<adj> +<sint> +<nt> +<sg> +<acc>
+účinný +<adj> +<sint> +<f> +<pl> +<acc>
+účinný +<adj> +<sint> +<nt> +<sg> +<nom>
+účinný +<adj> +<sint> +<mi> +<pl> +<acc>
+účinný +<adj> +<sint> +<f> +<pl> +<nom>
+účinný +<adj> +<sint> +<f> +<sg> +<dat>
+tón +<n> +<mi> +<sg> +<gen>
+tón +<n> +<mi> +<sg> +<dat>
+tón +<n> +<mi> +<sg> +<voc>
+tón +<n> +<mi> +<sg> +<loc>
+svatební +<adj> +<mi> +<sg> +<voc>
+svatební +<adj> +<f> +<sg> +<ins>
+svatební +<adj> +<mi> +<pl> +<nom>
+svatební +<adj> +<nt> +<sg> +<voc>
+svatební +<adj> +<f> +<sg> +<nom>
+svatební +<adj> +<mi> +<pl> +<voc>
+svatební +<adj> +<nt> +<sg> +<acc>
+svatební +<adj> +<ma> +<pl> +<voc>
+svatební +<adj> +<nt> +<pl> +<nom>
+svatební +<adj> +<ma> +<sg> +<voc>
+svatební +<adj> +<mi> +<sg> +<nom>
+svatební +<adj> +<ma> +<pl> +<nom>
+svatební +<adj> +<f> +<sg> +<loc>
+svatební +<adj> +<f> +<sg> +<voc>
+svatební +<adj> +<nt> +<pl> +<voc>
+svatební +<adj> +<f> +<sg> +<gen>
+svatební +<adj> +<f> +<pl> +<acc>
+svatební +<adj> +<f> +<pl> +<nom>
+svatební +<adj> +<ma> +<pl> +<acc>
+svatební +<adj> +<f> +<pl> +<voc>
+svatební +<adj> +<f> +<sg> +<dat>
+svatební +<adj> +<ma> +<sg> +<nom>
+svatební +<adj> +<f> +<sg> +<acc>
+svatební +<adj> +<mi> +<sg> +<acc>
+svatební +<adj> +<nt> +<pl> +<acc>
+svatební +<adj> +<mi> +<pl> +<acc>
+svatební +<adj> +<nt> +<sg> +<nom>
+rezidence +<n> +<f> +<sg> +<acc>
+rezidence +<n> +<f> +<sg> +<dat>
+rezidence +<n> +<f> +<sg> +<loc>
+rozdělit +<vblex> +<perf> +<past> +<ma> +<pl>
+kaple +<n> +<f> +<sg> +<loc>
+kaple +<n> +<f> +<sg> +<dat>
+kaple +<n> +<f> +<sg> +<acc>
+masakr +<n> +<mi> +<sg> +<loc>
+masakr +<n> +<mi> +<sg> +<dat>
+masakr +<n> +<mi> +<sg> +<gen>
+masakr +<n> +<mi> +<sg> +<voc>
+terén +<n> +<mi> +<sg> +<nom>
+terén +<n> +<mi> +<sg> +<acc>
+kandidát +<n> +<ma> +<sg> +<nom>
+kurs +<n> +<mi> +<sg> +<gen>
+kurs +<n> +<mi> +<sg> +<dat>
+kurs +<n> +<mi> +<sg> +<loc>
+úprava +<n> +<f> +<sg> +<nom>
+román +<n> +<mi> +<sg> +<loc>
+román +<n> +<mi> +<sg> +<gen>
+román +<n> +<mi> +<sg> +<dat>
+studentský +<adj> +<f> +<pl> +<voc>
+studentský +<adj> +<nt> +<sg> +<acc>
+studentský +<adj> +<f> +<sg> +<dat>
+studentský +<adj> +<f> +<pl> +<nom>
+studentský +<adj> +<nt> +<sg> +<voc>
+studentský +<adj> +<nt> +<sg> +<nom>
+studentský +<adj> +<mi> +<pl> +<voc>
+studentský +<adj> +<f> +<sg> +<loc>
+studentský +<adj> +<f> +<sg> +<gen>
+studentský +<adj> +<mi> +<pl> +<acc>
+studentský +<adj> +<mi> +<pl> +<nom>
+studentský +<adj> +<ma> +<pl> +<acc>
+studentský +<adj> +<f> +<pl> +<acc>
+dirigent +<n> +<ma> +<sg> +<nom>
+strana +<n> +<f> +<sg> +<ins>
+srna +<n> +<f> +<pl> +<gen>
+používat +<vblex> +<impf> +<past> +<m> +<sg>
+spolkový +<adj> +<sint> +<mi> +<pl> +<nom>
+spolkový +<adj> +<sint> +<f> +<sg> +<loc>
+spolkový +<adj> +<sint> +<nt> +<sg> +<voc>
+spolkový +<adj> +<sint> +<nt> +<sg> +<acc>
+spolkový +<adj> +<sint> +<ma> +<pl> +<acc>
+spolkový +<adj> +<sint> +<f> +<pl> +<voc>
+spolkový +<adj> +<sint> +<nt> +<sg> +<nom>
+spolkový +<adj> +<sint> +<mi> +<pl> +<acc>
+spolkový +<adj> +<sint> +<mi> +<pl> +<voc>
+spolkový +<adj> +<sint> +<f> +<pl> +<nom>
+spolkový +<adj> +<sint> +<f> +<pl> +<acc>
+spolkový +<adj> +<sint> +<f> +<sg> +<gen>
+spolkový +<adj> +<sint> +<f> +<sg> +<dat>
+filozofie +<n> +<f> +<sg> +<dat>
+filosofie +<n> +<f> +<sg> +<acc>
+filozofie +<n> +<f> +<sg> +<acc>
+filozofie +<n> +<f> +<sg> +<loc>
+filosofie +<n> +<f> +<sg> +<loc>
+filosofie +<n> +<f> +<sg> +<dat>
+slovenský +<adj> +<nt> +<pl> +<acc>
+slovenský +<adj> +<nt> +<pl> +<voc>
+slovenský +<adj> +<f> +<sg> +<nom>
+slovenský +<adj> +<f> +<sg> +<voc>
+slovenský +<adj> +<nt> +<pl> +<nom>
+debut +<n> +<mi> +<sg> +<acc>
+debut +<n> +<mi> +<sg> +<nom>
+sada +<n> +<f> +<sg> +<nom>
+lokalita +<n> +<f> +<sg> +<dat>
+lokalita +<n> +<f> +<sg> +<loc>
+ocas +<n> +<mi> +<sg> +<dat>
+ocas +<n> +<mi> +<sg> +<loc>
+ocas +<n> +<mi> +<sg> +<gen>
+půda +<n> +<f> +<sg> +<nom>
+občanský +<adj> +<f> +<sg> +<ins>
+občanský +<adj> +<f> +<sg> +<acc>
+zkušenost +<n> +<f> +<pl> +<gen>
+zkušenost +<n> +<f> +<sg> +<ins>
+volný +<adj> +<sint> +<mi> +<pl> +<loc>
+volný +<adj> +<sint> +<nt> +<pl> +<loc>
+volný +<adj> +<sint> +<f> +<pl> +<gen>
+volný +<adj> +<sint> +<mi> +<pl> +<gen>
+volný +<adj> +<sint> +<ma> +<pl> +<loc>
+volný +<adj> +<sint> +<f> +<pl> +<loc>
+volný +<adj> +<sint> +<nt> +<pl> +<gen>
+volný +<adj> +<sint> +<ma> +<pl> +<gen>
+začínat +<vblex> +<impf> +<pres> +<p3> +<sg>
+africký +<adj> +<f> +<sg> +<loc>
+africký +<adj> +<mi> +<pl> +<nom>
+africký +<adj> +<mi> +<pl> +<voc>
+africký +<adj> +<mi> +<pl> +<acc>
+africký +<adj> +<nt> +<sg> +<acc>
+africký +<adj> +<f> +<pl> +<nom>
+africký +<adj> +<f> +<pl> +<acc>
+africký +<adj> +<f> +<pl> +<voc>
+africký +<adj> +<ma> +<pl> +<acc>
+africký +<adj> +<nt> +<sg> +<nom>
+africký +<adj> +<nt> +<sg> +<voc>
+africký +<adj> +<f> +<sg> +<gen>
+africký +<adj> +<f> +<sg> +<dat>
+přípravek +<n> +<mi> +<pl> +<ins>
+přípravka +<n> +<f> +<pl> +<acc>
+přípravka +<n> +<f> +<pl> +<voc>
+přípravek +<n> +<mi> +<pl> +<acc>
+přípravka +<n> +<f> +<pl> +<nom>
+přípravek +<n> +<mi> +<pl> +<voc>
+přípravka +<n> +<f> +<sg> +<gen>
+přípravek +<n> +<mi> +<pl> +<nom>
+vysoký +<adj> +<sint> +<nt> +<pl> +<gen>
+vysoký +<adj> +<nt> +<pl> +<loc>
+vysoký +<adj> +<sint> +<mi> +<pl> +<loc>
+vysoký +<adj> +<sint> +<f> +<pl> +<loc>
+vysoký +<adj> +<sint> +<nt> +<pl> +<loc>
+vysoký +<adj> +<mi> +<pl> +<loc>
+vysoký +<adj> +<mi> +<pl> +<gen>
+vysoký +<adj> +<f> +<pl> +<loc>
+vysoký +<adj> +<sint> +<ma> +<pl> +<gen>
+vysoký +<adj> +<sint> +<ma> +<pl> +<loc>
+vysoký +<adj> +<sint> +<f> +<pl> +<gen>
+vysoký +<adj> +<f> +<pl> +<gen>
+vysoký +<adj> +<nt> +<pl> +<gen>
+vysoký +<adj> +<ma> +<pl> +<loc>
+vysoký +<adj> +<sint> +<mi> +<pl> +<gen>
+vysoký +<adj> +<ma> +<pl> +<gen>
+publikovat +<vblex> +<impf> +<pp> +<impers> +<mi> +<pl>
+publikovat +<vblex> +<impf> +<pp> +<f> +<pl>
+publikovat +<vblex> +<impf> +<pp> +<impers> +<f> +<pl>
+publikovat +<vblex> +<impf> +<pp> +<mi> +<pl>
+římský +<adj> +<nt> +<pl> +<nom>
+římský +<adj> +<nt> +<pl> +<voc>
+římský +<adj> +<f> +<sg> +<nom>
+římský +<adj> +<f> +<sg> +<voc>
+římský +<adj> +<nt> +<pl> +<acc>
+přesunout +<vblex> +<perf> +<past> +<f> +<sg>
+přesunout +<vblex> +<perf> +<past> +<nt> +<pl>
+stáří +<n> +<mi> +<sg> +<loc>
+stáří +<n> +<mi> +<pl> +<voc>
+stáří +<n> +<mi> +<sg> +<dat>
+stáří +<n> +<mi> +<pl> +<gen>
+stáří +<n> +<mi> +<sg> +<voc>
+stáří +<n> +<mi> +<sg> +<acc>
+stáří +<n> +<mi> +<sg> +<gen>
+stáří +<n> +<mi> +<pl> +<nom>
+stáří +<n> +<mi> +<pl> +<acc>
+stáří +<n> +<mi> +<sg> +<nom>
+etymologie +<n> +<f> +<sg> +<nom>
+etymologie +<n> +<f> +<pl> +<acc>
+etymologie +<n> +<f> +<pl> +<nom>
+etymologie +<n> +<f> +<sg> +<gen>
+pluk +<n> +<mi> +<sg> +<acc>
+pluk +<n> +<mi> +<sg> +<nom>
+hodnost +<n> +<f> +<pl> +<gen>
+hodnost +<n> +<f> +<sg> +<ins>
+nízký +<adj> +<sint> +<mi> +<pl> +<acc>
+nízký +<adj> +<mi> +<pl> +<acc>
+nízký +<adj> +<sint> +<f> +<pl> +<nom>
+nízký +<adj> +<nt> +<sg> +<acc>
+nízký +<adj> +<sint> +<f> +<sg> +<loc>
+nízký +<adj> +<sint> +<nt> +<sg> +<voc>
+nízký +<adj> +<sint> +<f> +<sg> +<gen>
+nízký +<adj> +<sint> +<f> +<pl> +<acc>
+nízký +<adj> +<nt> +<sg> +<nom>
+nízký +<adj> +<nt> +<sg> +<voc>
+nízký +<adj> +<sint> +<nt> +<sg> +<nom>
+nízký +<adj> +<sint> +<mi> +<pl> +<nom>
+nízký +<adj> +<f> +<pl> +<voc>
+nízký +<adj> +<sint> +<f> +<pl> +<voc>
+nízký +<adj> +<sint> +<mi> +<pl> +<voc>
+nízký +<adj> +<mi> +<pl> +<nom>
+nízký +<adj> +<ma> +<pl> +<acc>
+nízký +<adj> +<f> +<sg> +<dat>
+nízký +<adj> +<f> +<pl> +<nom>
+nízký +<adj> +<f> +<sg> +<gen>
+nízký +<adj> +<mi> +<pl> +<voc>
+nízký +<adj> +<f> +<pl> +<acc>
+nízký +<adj> +<sint> +<nt> +<sg> +<acc>
+nízký +<adj> +<f> +<sg> +<loc>
+nízký +<adj> +<sint> +<ma> +<pl> +<acc>
+nízký +<adj> +<sint> +<f> +<sg> +<dat>
+škola +<n> +<f> +<sg> +<ins>
+mluvit +<vblex> +<impf> +<pres> +<p3> +<sg>
+mluvit +<vblex> +<impf> +<pres> +<p3> +<pl>
+funkcionář +<n> +<ma> +<sg> +<nom>
+zásadní +<adj> +<f> +<pl> +<dat>
+zásadní +<adj> +<nt> +<pl> +<dat>
+zásadní +<adj> +<mi> +<sg> +<ins>
+zásadní +<adj> +<ma> +<pl> +<dat>
+zásadní +<adj> +<ma> +<sg> +<loc>
+zásadní +<adj> +<nt> +<sg> +<loc>
+zásadní +<adj> +<mi> +<pl> +<dat>
+zásadní +<adj> +<ma> +<sg> +<ins>
+zásadní +<adj> +<mi> +<sg> +<loc>
+zásadní +<adj> +<nt> +<sg> +<ins>
+protékat +<vblex> +<impf> +<pres> +<p3> +<sg>
+významný +<adj> +<sint> +<ma> +<sg> +<gen>
+významný +<adj> +<sint> +<nt> +<sg> +<gen>
+významný +<adj> +<sint> +<ma> +<sg> +<acc>
+významný +<adj> +<sint> +<mi> +<sg> +<gen>
+západní +<adj> +<ma> +<sg> +<acc>
+západní +<adj> +<mi> +<sg> +<gen>
+západní +<adj> +<ma> +<sg> +<gen>
+západní +<adj> +<nt> +<sg> +<gen>
+následník +<n> +<ma> +<sg> +<acc>
+následník +<n> +<ma> +<sg> +<gen>
+napoleonský +<adj> +<ma> +<pl> +<gen>
+napoleonský +<adj> +<nt> +<pl> +<loc>
+napoleonský +<adj> +<ma> +<pl> +<loc>
+napoleonský +<adj> +<f> +<pl> +<loc>
+napoleonský +<adj> +<f> +<pl> +<gen>
+napoleonský +<adj> +<mi> +<pl> +<gen>
+napoleonský +<adj> +<nt> +<pl> +<gen>
+napoleonský +<adj> +<mi> +<pl> +<loc>
+pojmenovaný +<adj> +<sint> +<f> +<sg> +<nom>
+pojmenovaný +<adj> +<sint> +<nt> +<pl> +<acc>
+pojmenovaný +<adj> +<sint> +<nt> +<pl> +<voc>
+pojmenovaný +<adj> +<sint> +<nt> +<pl> +<nom>
+pojmenovaný +<adj> +<sint> +<f> +<sg> +<voc>
+mnohý +<adj> +<f> +<sg> +<voc>
+mnohý +<adj> +<nt> +<pl> +<voc>
+mnohý +<adj> +<nt> +<pl> +<nom>
+mnohý +<adj> +<nt> +<pl> +<acc>
+mnohý +<adj> +<f> +<sg> +<nom>
+obyvatel +<n> +<ma> +<pl> +<gen>
+obyvatel +<n> +<ma> +<sg> +<nom>
+dlouholetý +<adj> +<sint> +<ma> +<sg> +<voc>
+dlouholetý +<adj> +<sint> +<mi> +<sg> +<voc>
+dlouholetý +<adj> +<sint> +<mi> +<sg> +<nom>
+dlouholetý +<adj> +<sint> +<mi> +<sg> +<acc>
+dlouholetý +<adj> +<sint> +<ma> +<sg> +<nom>
+žena +<n> +<f> +<pl> +<gen>
+infarkt +<n> +<mi> +<sg> +<nom>
+infarkt +<n> +<mi> +<sg> +<acc>
+počet +<n> +<mi> +<sg> +<acc>
+počet +<n> +<mi> +<sg> +<nom>
+smíšený +<adj> +<sint> +<nt> +<pl> +<dat>
+smíšený +<adj> +<sint> +<nt> +<sg> +<ins>
+smíšený +<adj> +<sint> +<ma> +<pl> +<dat>
+smíšený +<adj> +<sint> +<ma> +<sg> +<ins>
+smíšený +<adj> +<sint> +<mi> +<pl> +<dat>
+smíšený +<adj> +<sint> +<f> +<pl> +<dat>
+smíšený +<adj> +<sint> +<mi> +<sg> +<ins>
+dlouhodobý +<adj> +<sint> +<mi> +<sg> +<acc>
+dlouhodobý +<adj> +<sint> +<ma> +<sg> +<voc>
+dlouhodobý +<adj> +<sint> +<ma> +<sg> +<nom>
+dlouhodobý +<adj> +<sint> +<mi> +<sg> +<nom>
+dlouhodobý +<adj> +<sint> +<mi> +<sg> +<voc>
+nárůst +<n> +<mi> +<sg> +<dat>
+nárůst +<n> +<mi> +<sg> +<gen>
+nárůst +<n> +<mi> +<sg> +<voc>
+nárůst +<n> +<mi> +<sg> +<loc>
+vůz +<n> +<mi> +<sg> +<ins>
+ztratit +<vblex> +<perf> +<past> +<m> +<sg>
+důkaz +<n> +<mi> +<pl> +<gen>
+vysoký +<adj> +<mi> +<sg> +<gen>
+vysoký +<adj> +<sint> +<nt> +<sg> +<gen>
+vysoký +<adj> +<ma> +<sg> +<gen>
+vysoký +<adj> +<ma> +<sg> +<acc>
+vysoký +<adj> +<nt> +<sg> +<gen>
+vysoký +<adj> +<sint> +<ma> +<sg> +<acc>
+vysoký +<adj> +<sint> +<ma> +<sg> +<gen>
+vysoký +<adj> +<sint> +<mi> +<sg> +<gen>
+kytara +<n> +<f> +<sg> +<acc>
+místní +<adj> +<ma> +<pl> +<dat>
+místní +<adj> +<nt> +<sg> +<loc>
+místní +<adj> +<nt> +<sg> +<ins>
+místní +<adj> +<mi> +<pl> +<dat>
+místní +<adj> +<nt> +<pl> +<dat>
+místní +<adj> +<ma> +<sg> +<loc>
+místní +<adj> +<ma> +<sg> +<ins>
+místní +<adj> +<f> +<pl> +<dat>
+místní +<adj> +<mi> +<sg> +<ins>
+místní +<adj> +<mi> +<sg> +<loc>
+soud +<n> +<mi> +<sg> +<ins>
+výstupní +<adj> +<nt> +<sg> +<nom>
+výstupní +<adj> +<mi> +<sg> +<acc>
+výstupní +<adj> +<f> +<pl> +<nom>
+výstupní +<adj> +<f> +<sg> +<acc>
+výstupní +<adj> +<mi> +<sg> +<voc>
+výstupní +<adj> +<ma> +<pl> +<acc>
+výstupní +<adj> +<ma> +<pl> +<voc>
+výstupní +<adj> +<ma> +<sg> +<voc>
+výstupní +<adj> +<mi> +<sg> +<nom>
+výstupní +<adj> +<mi> +<pl> +<acc>
+výstupní +<adj> +<nt> +<pl> +<acc>
+výstupní +<adj> +<f> +<sg> +<dat>
+výstupní +<adj> +<f> +<sg> +<voc>
+výstupní +<adj> +<mi> +<pl> +<nom>
+výstupní +<adj> +<ma> +<pl> +<nom>
+výstupní +<adj> +<f> +<pl> +<voc>
+výstupní +<adj> +<mi> +<pl> +<voc>
+výstupní +<adj> +<nt> +<pl> +<voc>
+výstupní +<adj> +<nt> +<pl> +<nom>
+výstupní +<adj> +<f> +<sg> +<nom>
+výstupní +<adj> +<ma> +<sg> +<nom>
+výstupní +<adj> +<nt> +<sg> +<acc>
+výstupní +<adj> +<f> +<sg> +<loc>
+výstupní +<adj> +<nt> +<sg> +<voc>
+výstupní +<adj> +<f> +<sg> +<ins>
+výstupní +<adj> +<f> +<sg> +<gen>
+výstupní +<adj> +<f> +<pl> +<acc>
+umělec +<n> +<ma> +<pl> +<gen>
+revoluce +<n> +<f> +<pl> +<gen>
+revoluce +<n> +<f> +<sg> +<ins>
+mig +<n> +<mi> +<sg> +<nom>
+mig +<n> +<mi> +<sg> +<acc>
+příkop +<n> +<mi> +<sg> +<ins>
+nádraží +<n> +<mi> +<sg> +<acc>
+nádraží +<n> +<mi> +<pl> +<acc>
+nádraží +<n> +<mi> +<sg> +<voc>
+nádraží +<n> +<mi> +<sg> +<gen>
+nádraží +<n> +<mi> +<sg> +<dat>
+nádraží +<n> +<mi> +<pl> +<gen>
+nádraží +<n> +<mi> +<sg> +<loc>
+nádraží +<n> +<mi> +<pl> +<voc>
+nádraží +<n> +<mi> +<sg> +<nom>
+nádraží +<n> +<mi> +<pl> +<nom>
+nazývat +<vblex> +<impf> +<pres> +<p1> +<pl>
+inženýrství +<n> +<mi> +<pl> +<gen>
+inženýrství +<n> +<mi> +<sg> +<acc>
+inženýrství +<n> +<mi> +<pl> +<voc>
+inženýrství +<n> +<mi> +<sg> +<nom>
+inženýrství +<n> +<mi> +<pl> +<nom>
+inženýrství +<n> +<mi> +<sg> +<loc>
+inženýrství +<n> +<mi> +<pl> +<acc>
+inženýrství +<n> +<mi> +<sg> +<gen>
+inženýrství +<n> +<mi> +<sg> +<dat>
+inženýrství +<n> +<mi> +<sg> +<voc>
+založit +<vblex> +<perf> +<ger> +<nt> +<sg> +<gen>
+založit +<vblex> +<perf> +<ger> +<nt> +<pl> +<voc>
+založený +<adj> +<sint> +<ma> +<pl> +<nom>
+založit +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<nom>
+založený +<adj> +<sint> +<ma> +<pl> +<voc>
+založit +<vblex> +<perf> +<pp> +<adj> +<ma> +<pl> +<voc>
+založit +<vblex> +<perf> +<ger> +<nt> +<pl> +<gen>
+založit +<vblex> +<perf> +<ger> +<nt> +<sg> +<voc>
+založit +<vblex> +<perf> +<ger> +<nt> +<sg> +<nom>
+založit +<vblex> +<perf> +<ger> +<nt> +<pl> +<nom>
+založit +<vblex> +<perf> +<ger> +<nt> +<sg> +<dat>
+založit +<vblex> +<perf> +<ger> +<nt> +<sg> +<loc>
+založit +<vblex> +<perf> +<ger> +<nt> +<pl> +<acc>
+založit +<vblex> +<perf> +<ger> +<nt> +<sg> +<acc>
+prodejní +<adj> +<f> +<sg> +<acc>
+prodejní +<adj> +<ma> +<pl> +<nom>
+prodejní +<adj> +<f> +<sg> +<nom>
+prodejní +<adj> +<nt> +<pl> +<voc>
+prodejný +<adj> +<sint> +<ma> +<pl> +<nom>
+prodejní +<adj> +<f> +<pl> +<nom>
+prodejní +<adj> +<ma> +<pl> +<acc>
+prodejní +<adj> +<f> +<sg> +<gen>
+prodejní +<adj> +<nt> +<pl> +<acc>
+prodejní +<adj> +<mi> +<sg> +<acc>
+prodejní +<adj> +<nt> +<sg> +<voc>
+prodejní +<adj> +<f> +<pl> +<acc>
+prodejní +<adj> +<f> +<sg> +<ins>
+prodejní +<adj> +<mi> +<sg> +<voc>
+prodejní +<adj> +<mi> +<pl> +<nom>
+prodejní +<adj> +<mi> +<pl> +<acc>
+prodejní +<adj> +<ma> +<sg> +<nom>
+prodejný +<adj> +<sint> +<ma> +<pl> +<voc>
+prodejní +<adj> +<ma> +<sg> +<voc>
+prodejní +<adj> +<f> +<sg> +<loc>
+prodejní +<adj> +<f> +<sg> +<voc>
+prodejní +<adj> +<f> +<pl> +<voc>
+prodejní +<adj> +<mi> +<pl> +<voc>
+prodejní +<adj> +<nt> +<sg> +<nom>
+prodejní +<adj> +<ma> +<pl> +<voc>
+prodejní +<adj> +<mi> +<sg> +<nom>
+prodejní +<adj> +<f> +<sg> +<dat>
+prodejní +<adj> +<nt> +<sg> +<acc>
+prodejní +<adj> +<nt> +<pl> +<nom>
+fakulta +<n> +<f> +<sg> +<loc>
+fakulta +<n> +<f> +<sg> +<dat>
+nízký +<adj> +<sint> +<comp> +<nt> +<pl> +<loc>
+nízký +<adj> +<sint> +<comp> +<f> +<pl> +<loc>
+nízký +<adj> +<sint> +<comp> +<mi> +<pl> +<loc>
+nízký +<adj> +<sint> +<comp> +<nt> +<pl> +<gen>
+nízký +<adj> +<sint> +<comp> +<ma> +<pl> +<gen>
+nízký +<adj> +<sint> +<comp> +<f> +<pl> +<gen>
+nízký +<adj> +<sint> +<comp> +<mi> +<pl> +<gen>
+nízký +<adj> +<sint> +<comp> +<ma> +<pl> +<loc>
+kruh +<n> +<mi> +<pl> +<gen>
+kilogram +<n> +<mi> +<pl> +<gen>
+těžký +<adj> +<sint> +<nt> +<pl> +<acc>
+těžký +<adj> +<f> +<sg> +<nom>
+těžký +<adj> +<sint> +<f> +<sg> +<voc>
+těžký +<adj> +<sint> +<f> +<sg> +<nom>
+těžký +<adj> +<sint> +<nt> +<pl> +<voc>
+těžký +<adj> +<nt> +<pl> +<nom>
+těžký +<adj> +<nt> +<pl> +<voc>
+těžký +<adj> +<sint> +<nt> +<pl> +<nom>
+těžkat +<vblex> +<impf> +<pres> +<p3> +<sg>
+těžký +<adj> +<nt> +<pl> +<acc>
+těžký +<adj> +<f> +<sg> +<voc>
+množina +<n> +<f> +<pl> +<gen>
+letoun +<n> +<mi> +<sg> +<nom>
+letoun +<n> +<mi> +<sg> +<acc>
+délka +<n> +<f> +<sg> +<acc>
+tvrdý +<adj> +<ma> +<pl> +<nom>
+tvrdý +<adj> +<ma> +<pl> +<voc>
+tvrdý +<adj> +<sint> +<ma> +<pl> +<nom>
+tvrdý +<adj> +<sint> +<ma> +<pl> +<voc>
+pseudonym +<n> +<mi> +<sg> +<ins>
+habsburský +<adj> +<mi> +<pl> +<voc>
+habsburský +<adj> +<ma> +<pl> +<acc>
+habsburský +<adj> +<nt> +<sg> +<voc>
+habsburský +<adj> +<f> +<pl> +<acc>
+habsburský +<adj> +<mi> +<pl> +<acc>
+habsburský +<adj> +<f> +<pl> +<nom>
+habsburský +<adj> +<f> +<pl> +<voc>
+habsburský +<adj> +<f> +<sg> +<dat>
+habsburský +<adj> +<f> +<sg> +<gen>
+habsburský +<adj> +<nt> +<sg> +<acc>
+habsburský +<adj> +<nt> +<sg> +<nom>
+habsburský +<adj> +<mi> +<pl> +<nom>
+habsburský +<adj> +<f> +<sg> +<loc>
+tradiční +<adj> +<f> +<sg> +<voc>
+tradiční +<adj> +<mi> +<pl> +<acc>
+tradiční +<adj> +<nt> +<pl> +<nom>
+tradiční +<adj> +<mi> +<pl> +<voc>
+tradiční +<adj> +<f> +<sg> +<loc>
+tradiční +<adj> +<nt> +<pl> +<voc>
+tradiční +<adj> +<f> +<sg> +<dat>
+tradiční +<adj> +<f> +<sg> +<ins>
+tradiční +<adj> +<f> +<sg> +<acc>
+tradiční +<adj> +<nt> +<sg> +<voc>
+tradiční +<adj> +<nt> +<sg> +<acc>
+tradiční +<adj> +<ma> +<pl> +<voc>
+tradiční +<adj> +<ma> +<sg> +<voc>
+tradiční +<adj> +<ma> +<sg> +<nom>
+tradiční +<adj> +<mi> +<pl> +<nom>
+tradiční +<adj> +<nt> +<sg> +<nom>
+tradiční +<adj> +<mi> +<sg> +<acc>
+tradiční +<adj> +<mi> +<sg> +<nom>
+tradiční +<adj> +<f> +<pl> +<voc>
+tradiční +<adj> +<mi> +<sg> +<voc>
+tradiční +<adj> +<f> +<sg> +<gen>
+tradiční +<adj> +<nt> +<pl> +<acc>
+tradiční +<adj> +<ma> +<pl> +<acc>
+tradiční +<adj> +<f> +<sg> +<nom>
+tradiční +<adj> +<ma> +<pl> +<nom>
+tradiční +<adj> +<f> +<pl> +<acc>
+tradiční +<adj> +<f> +<pl> +<nom>
+vlak +<n> +<mi> +<sg> +<nom>
+vlak +<n> +<mi> +<sg> +<acc>
+nej +<adv>+blízký +<adj> +<sint> +<comp> +<ma> +<sg> +<ins>
+nej +<adv>+blízký +<adj> +<sint> +<comp> +<f> +<pl> +<dat>
+nej +<adv>+blízký +<adj> +<sint> +<comp> +<nt> +<pl> +<dat>
+nej +<adv>+blízký +<adj> +<sint> +<comp> +<mi> +<sg> +<loc>
+nej +<adv>+blízký +<adj> +<sint> +<comp> +<ma> +<pl> +<dat>
+nej +<adv>+blízký +<adj> +<sint> +<comp> +<mi> +<sg> +<ins>
+nej +<adv>+blízký +<adj> +<sint> +<comp> +<nt> +<sg> +<loc>
+nej +<adv>+blízký +<adj> +<sint> +<comp> +<ma> +<sg> +<loc>
+nej +<adv>+blízký +<adj> +<sint> +<comp> +<nt> +<sg> +<ins>
+nej +<adv>+blízký +<adj> +<sint> +<comp> +<mi> +<pl> +<dat>
+stěna +<n> +<f> +<pl> +<loc>
+psát +<vblex> +<impf> +<past> +<m> +<sg>
+odměna +<n> +<f> +<sg> +<acc>
+nový +<adj> +<sint> +<ma> +<pl> +<nom>
+nový +<adj> +<sint> +<ma> +<pl> +<voc>
+pozdní +<adj> +<ma> +<sg> +<gen>
+pozdní +<adj> +<nt> +<sg> +<gen>
+pozdní +<adj> +<mi> +<sg> +<gen>
+pozdní +<adj> +<ma> +<sg> +<acc>
+vůz +<n> +<mi> +<pl> +<gen>
+lad +<n> +<mi> +<pl> +<nom>
+lad +<n> +<mi> +<pl> +<ins>
+lad +<n> +<mi> +<pl> +<voc>
+lad +<n> +<mi> +<pl> +<acc>
+současnost +<n> +<f> +<pl> +<voc>
+současnost +<n> +<f> +<sg> +<loc>
+současnost +<n> +<f> +<pl> +<acc>
+současnost +<n> +<f> +<sg> +<voc>
+současnost +<n> +<f> +<sg> +<gen>
+současnost +<n> +<f> +<pl> +<nom>
+současnost +<n> +<f> +<sg> +<dat>
+klavírista +<n> +<ma> +<sg> +<nom>
+hráč +<n> +<ma> +<sg> +<nom>
+pilot +<n> +<mi> +<sg> +<acc>
+pilot +<n> +<ma> +<sg> +<nom>
+pilot +<n> +<mi> +<sg> +<nom>
+pilota +<n> +<f> +<pl> +<gen>
+udělat +<vblex> +<perf> +<past> +<f> +<sg>
+udělat +<vblex> +<perf> +<past> +<nt> +<pl>
+skutečný +<adj> +<sint> +<ma> +<pl> +<dat>
+skutečný +<adj> +<sint> +<f> +<pl> +<dat>
+skutečný +<adj> +<sint> +<mi> +<sg> +<ins>
+skutečný +<adj> +<sint> +<nt> +<sg> +<ins>
+skutečný +<adj> +<sint> +<nt> +<pl> +<dat>
+skutečný +<adj> +<sint> +<ma> +<sg> +<ins>
+skutečný +<adj> +<sint> +<mi> +<pl> +<dat>
+proměnit +<vblex> +<perf> +<past> +<m> +<sg>
+kus +<n> +<mi> +<pl> +<gen>
+pokračovat +<vblex> +<impf> +<pres> +<p3> +<pl>
+sbírka +<n> +<f> +<sg> +<nom>
+rekord +<n> +<mi> +<pl> +<gen>
+digitální +<adj> +<ma> +<pl> +<gen>
+digitální +<adj> +<ma> +<pl> +<loc>
+digitální +<adj> +<nt> +<pl> +<gen>
+digitální +<adj> +<mi> +<pl> +<loc>
+digitální +<adj> +<nt> +<pl> +<loc>
+digitální +<adj> +<f> +<pl> +<loc>
+digitální +<adj> +<f> +<pl> +<gen>
+digitální +<adj> +<mi> +<pl> +<gen>
+kněz +<n> +<ma> +<sg> +<nom>
+populární +<adj> +<f> +<sg> +<gen>
+populární +<adj> +<nt> +<pl> +<voc>
+populární +<adj> +<nt> +<sg> +<voc>
+populární +<adj> +<nt> +<sg> +<nom>
+populární +<adj> +<f> +<sg> +<acc>
+populární +<adj> +<f> +<sg> +<loc>
+populární +<adj> +<f> +<sg> +<dat>
+populární +<adj> +<ma> +<pl> +<acc>
+populární +<adj> +<mi> +<pl> +<voc>
+populární +<adj> +<f> +<pl> +<acc>
+populární +<adj> +<f> +<sg> +<voc>
+populární +<adj> +<ma> +<pl> +<voc>
+populární +<adj> +<ma> +<pl> +<nom>
+populární +<adj> +<mi> +<sg> +<voc>
+populární +<adj> +<f> +<pl> +<nom>
+populární +<adj> +<f> +<sg> +<ins>
+populární +<adj> +<f> +<sg> +<nom>
+populární +<adj> +<nt> +<sg> +<acc>
+populární +<adj> +<ma> +<sg> +<nom>
+populární +<adj> +<mi> +<pl> +<acc>
+populární +<adj> +<mi> +<sg> +<acc>
+populární +<adj> +<ma> +<sg> +<voc>
+populární +<adj> +<nt> +<pl> +<nom>
+populární +<adj> +<f> +<pl> +<voc>
+populární +<adj> +<mi> +<pl> +<nom>
+populární +<adj> +<nt> +<pl> +<acc>
+populární +<adj> +<mi> +<sg> +<nom>
+bílý +<adj> +<sint> +<nt> +<pl> +<acc>
+bílý +<adj> +<sint> +<nt> +<pl> +<voc>
+bílý +<adj> +<sint> +<f> +<sg> +<nom>
+bílý +<adj> +<sint> +<nt> +<pl> +<nom>
+bílý +<adj> +<sint> +<f> +<sg> +<voc>
+potenciální +<adj> +<mi> +<sg> +<nom>
+potenciální +<adj> +<ma> +<sg> +<voc>
+potenciální +<adj> +<ma> +<pl> +<nom>
+potenciální +<adj> +<mi> +<pl> +<nom>
+potenciální +<adj> +<f> +<sg> +<acc>
+potenciální +<adj> +<f> +<sg> +<dat>
+potenciální +<adj> +<mi> +<pl> +<voc>
+potenciální +<adj> +<nt> +<sg> +<nom>
+potenciální +<adj> +<nt> +<sg> +<acc>
+potenciální +<adj> +<mi> +<pl> +<acc>
+potenciální +<adj> +<ma> +<pl> +<acc>
+potenciální +<adj> +<f> +<sg> +<loc>
+potenciální +<adj> +<f> +<sg> +<nom>
+potenciální +<adj> +<mi> +<sg> +<voc>
+potenciální +<adj> +<f> +<pl> +<acc>
+potenciální +<adj> +<f> +<sg> +<ins>
+potenciální +<adj> +<nt> +<pl> +<nom>
+potenciální +<adj> +<f> +<pl> +<voc>
+potenciální +<adj> +<f> +<sg> +<voc>
+potenciální +<adj> +<ma> +<pl> +<voc>
+potenciální +<adj> +<f> +<pl> +<nom>
+potenciální +<adj> +<ma> +<sg> +<nom>
+potenciální +<adj> +<nt> +<sg> +<voc>
+potenciální +<adj> +<nt> +<pl> +<voc>
+potenciální +<adj> +<f> +<sg> +<gen>
+potenciální +<adj> +<mi> +<sg> +<acc>
+potenciální +<adj> +<nt> +<pl> +<acc>
+syndrom +<n> +<mi> +<sg> +<acc>
+syndrom +<n> +<mi> +<sg> +<nom>
+mléko +<n> +<nt> +<sg> +<voc>
+mléko +<n> +<nt> +<sg> +<nom>
+mléko +<n> +<nt> +<sg> +<acc>
+probíhat +<vblex> +<impf> +<past> +<nt> +<sg>
+minulost +<n> +<f> +<sg> +<acc>
+minulost +<n> +<f> +<sg> +<nom>
+název +<n> +<mi> +<pl> +<gen>
+hala +<n> +<f> +<sg> +<nom>
+zaplatit +<vblex> +<perf> +<inf>
+samostatný +<adj> +<sint> +<f> +<sg> +<nom>
+samostatný +<adj> +<sint> +<nt> +<pl> +<nom>
+samostatný +<adj> +<sint> +<f> +<sg> +<voc>
+samostatný +<adj> +<sint> +<nt> +<pl> +<voc>
+samostatný +<adj> +<sint> +<nt> +<pl> +<acc>
+myšlenka +<n> +<f> +<sg> +<nom>
+luční +<adj> +<f> +<sg> +<gen>
+luční +<adj> +<f> +<sg> +<loc>
+luční +<adj> +<f> +<sg> +<voc>
+luční +<adj> +<nt> +<sg> +<voc>
+luční +<adj> +<nt> +<pl> +<acc>
+luční +<adj> +<f> +<pl> +<acc>
+luční +<adj> +<ma> +<pl> +<acc>
+luční +<adj> +<ma> +<sg> +<voc>
+luční +<adj> +<f> +<sg> +<dat>
+luční +<adj> +<nt> +<pl> +<voc>
+luční +<adj> +<nt> +<pl> +<nom>
+luční +<adj> +<mi> +<pl> +<voc>
+luční +<adj> +<mi> +<pl> +<acc>
+luční +<adj> +<f> +<pl> +<voc>
+luční +<adj> +<mi> +<sg> +<voc>
+luční +<adj> +<f> +<sg> +<nom>
+luční +<adj> +<ma> +<pl> +<voc>
+luční +<adj> +<ma> +<sg> +<nom>
+luční +<adj> +<nt> +<sg> +<acc>
+luční +<adj> +<nt> +<sg> +<nom>
+luční +<adj> +<mi> +<pl> +<nom>
+luční +<adj> +<mi> +<sg> +<nom>
+luční +<adj> +<f> +<pl> +<nom>
+luční +<adj> +<f> +<sg> +<acc>
+luční +<adj> +<mi> +<sg> +<acc>
+luční +<adj> +<f> +<sg> +<ins>
+luční +<adj> +<ma> +<pl> +<nom>
+přízemí +<n> +<mi> +<sg> +<dat>
+přízemí +<n> +<mi> +<sg> +<acc>
+přízemí +<n> +<mi> +<sg> +<nom>
+přízemí +<n> +<mi> +<sg> +<voc>
+přízemí +<n> +<mi> +<sg> +<loc>
+přízemí +<n> +<mi> +<sg> +<gen>
+přízemí +<n> +<mi> +<pl> +<voc>
+přízemí +<n> +<mi> +<pl> +<gen>
+přízemí +<n> +<mi> +<pl> +<nom>
+přízemí +<n> +<mi> +<pl> +<acc>
+kvalifikovat +<vblex> +<impf> +<past> +<m> +<sg>
+sídlit +<vblex> +<impf> +<pres> +<p3> +<pl>
+sídlit +<vblex> +<impf> +<pres> +<p3> +<sg>
+pít +<vblex> +<impf> +<pp> +<adj> +<ma> +<pl> +<voc>
+pít +<vblex> +<impf> +<ger> +<nt> +<pl> +<nom>
+pít +<vblex> +<impf> +<ger> +<nt> +<pl> +<acc>
+pít +<vblex> +<impf> +<ger> +<nt> +<sg> +<loc>
+pít +<vblex> +<impf> +<ger> +<nt> +<sg> +<gen>
+pít +<vblex> +<impf> +<ger> +<nt> +<sg> +<acc>
+pít +<vblex> +<impf> +<ger> +<nt> +<sg> +<nom>
+pít +<vblex> +<impf> +<ger> +<nt> +<sg> +<dat>
+pít +<vblex> +<impf> +<pp> +<adj> +<ma> +<pl> +<nom>
+pít +<vblex> +<impf> +<ger> +<nt> +<pl> +<voc>
+pít +<vblex> +<impf> +<ger> +<nt> +<pl> +<gen>
+pít +<vblex> +<impf> +<ger> +<nt> +<sg> +<voc>
+vidět +<vblex> +<impf> +<inf>
+školní +<adj> +<mi> +<pl> +<loc>
+školní +<adj> +<ma> +<pl> +<gen>
+školní +<adj> +<f> +<pl> +<loc>
+školní +<adj> +<nt> +<pl> +<loc>
+školní +<adj> +<mi> +<pl> +<gen>
+školní +<adj> +<f> +<pl> +<gen>
+školní +<adj> +<ma> +<pl> +<loc>
+školní +<adj> +<nt> +<pl> +<gen>
+označit +<vblex> +<perf> +<pp> +<impers> +<m> +<sg>
+zákoník +<n> +<mi> +<sg> +<voc>
+zákoník +<n> +<mi> +<sg> +<gen>
+zákoník +<n> +<mi> +<sg> +<loc>
+zákoník +<n> +<mi> +<sg> +<dat>
+kontroverzní +<adj> +<f> +<pl> +<acc>
+kontroverzní +<adj> +<ma> +<pl> +<acc>
+kontroverzní +<adj> +<mi> +<pl> +<acc>
+kontroverzní +<adj> +<nt> +<sg> +<voc>
+kontroverzní +<adj> +<mi> +<pl> +<voc>
+kontroverzní +<adj> +<f> +<sg> +<acc>
+kontroverzní +<adj> +<ma> +<pl> +<nom>
+kontroverzní +<adj> +<f> +<pl> +<nom>
+kontroverzní +<adj> +<nt> +<sg> +<acc>
+kontroverzní +<adj> +<f> +<pl> +<voc>
+kontroverzní +<adj> +<nt> +<pl> +<nom>
+kontroverzní +<adj> +<ma> +<sg> +<nom>
+kontroverzní +<adj> +<ma> +<pl> +<voc>
+kontroverzní +<adj> +<mi> +<sg> +<voc>
+kontroverzní +<adj> +<f> +<sg> +<ins>
+kontroverzní +<adj> +<f> +<sg> +<dat>
+kontroverzní +<adj> +<f> +<sg> +<gen>
+kontroverzní +<adj> +<ma> +<sg> +<voc>
+kontroverzní +<adj> +<mi> +<pl> +<nom>
+kontroverzní +<adj> +<f> +<sg> +<loc>
+kontroverzní +<adj> +<mi> +<sg> +<nom>
+kontroverzní +<adj> +<mi> +<sg> +<acc>
+kontroverzní +<adj> +<f> +<sg> +<nom>
+kontroverzní +<adj> +<nt> +<pl> +<acc>
+kontroverzní +<adj> +<nt> +<pl> +<voc>
+kontroverzní +<adj> +<f> +<sg> +<voc>
+kontroverzní +<adj> +<nt> +<sg> +<nom>
+kolo +<n> +<nt> +<sg> +<ins>
+plaz +<n> +<ma> +<pl> +<gen>
+blízký +<adj> +<sint> +<f> +<pl> +<acc>
+blízký +<adj> +<ma> +<pl> +<acc>
+blízký +<adj> +<sint> +<f> +<sg> +<gen>
+blízký +<adj> +<mi> +<pl> +<acc>
+blízký +<adj> +<mi> +<pl> +<voc>
+blízký +<adj> +<f> +<sg> +<dat>
+blízký +<adj> +<f> +<pl> +<acc>
+blízký +<adj> +<sint> +<f> +<pl> +<nom>
+blízký +<adj> +<nt> +<sg> +<acc>
+blízký +<adj> +<sint> +<mi> +<pl> +<nom>
+blízký +<adj> +<f> +<sg> +<gen>
+blízký +<adj> +<sint> +<nt> +<sg> +<nom>
+blízký +<adj> +<nt> +<sg> +<voc>
+blízký +<adj> +<f> +<pl> +<voc>
+blízký +<adj> +<nt> +<sg> +<nom>
+blízký +<adj> +<mi> +<pl> +<nom>
+blízký +<adj> +<sint> +<ma> +<pl> +<acc>
+blízký +<adj> +<sint> +<f> +<pl> +<voc>
+blízký +<adj> +<f> +<sg> +<loc>
+blízký +<adj> +<sint> +<f> +<sg> +<dat>
+blízký +<adj> +<sint> +<nt> +<sg> +<voc>
+blízký +<adj> +<sint> +<f> +<sg> +<loc>
+blízký +<adj> +<sint> +<mi> +<pl> +<acc>
+blízký +<adj> +<sint> +<nt> +<sg> +<acc>
+blízký +<adj> +<sint> +<mi> +<pl> +<voc>
+blízký +<adj> +<f> +<pl> +<nom>
+výjimka +<n> +<f> +<pl> +<acc>
+výjimka +<n> +<f> +<pl> +<nom>
+výjimka +<n> +<f> +<sg> +<gen>
+výjimka +<n> +<f> +<pl> +<voc>
+další +<adj> +<mi> +<sg> +<gen>
+další +<adj> +<ma> +<sg> +<acc>
+další +<adj> +<ma> +<sg> +<gen>
+další +<adj> +<nt> +<sg> +<gen>
+inscenace +<n> +<f> +<pl> +<acc>
+inscenace +<n> +<f> +<sg> +<nom>
+inscenace +<n> +<f> +<sg> +<gen>
+inscenace +<n> +<f> +<pl> +<nom>
+projekt +<n> +<mi> +<pl> +<gen>
+hrát +<vblex> +<impf> +<past> +<ma> +<pl>

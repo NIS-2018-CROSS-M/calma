@@ -3,32 +3,32 @@ from collections import defaultdict as dd
 from random import shuffle
 
 if __name__=='__main__':
-    lanlist=argv[2:]
-    targetdir=argv[1]
+    filenames=argv[1:]
 
-    for lan in lanlist:
+    for filename in filenames:
         analyses = dd(set)
-        for line in open('data/%s.ud' % lan):
-            line = line.strip('\n')
-            lang, wf, lemma, pos, msd = line.split('\t')
-            lemma = ' '.join(lemma)
-            wf = ' '.join(wf)
-            msd = msd.split('|')
-            a = '%s %s' % (lemma,
-                           ' '.join(['+%s' % x for x in [pos] + msd]))
-            analyses[wf].add(a)
 
-        src_train = open('%s/%s-src-train.txt' % (targetdir,lan),'w')
-        tgt_train = open('%s/%s-tgt-train.txt' % (targetdir,lan),'w')
-        
-        src_val = open('%s/%s-src-val.txt' % (targetdir,lan),'w')
-        tgt_val = open('%s/%s-tgt-val.txt' % (targetdir,lan),'w')
-        
-        src_val_all = open('%s/%s-src-val.all.txt' % (targetdir,lan),'w')
-        tgt_val_all = open('%s/%s-tgt-val.all.txt' % (targetdir,lan),'w')
-        
-        src_test = open('%s/%s-src-test.txt' % (targetdir,lan),'w')
-        tgt_test = open('%s/%s-tgt-test.all.txt' % (targetdir,lan),'w')
+        for line in open(filename, "r", encoding="utf-8"):
+            line = line.strip()
+            freq, apertium_analysis_output = line.split()
+
+            wf = apertium_analysis_output.split("/")[0].lstrip("^")
+            for apertium_analysis in apertium_analysis_output.split("/")[1:]:
+                # todo: is the plus sign necessary?
+                analyses[wf].add(" +<".join(apertium_analysis.rstrip("$").split("<")))
+
+        pretty_filename = filename.replace("10000.txt","")
+        src_train = open('%s-src-train.txt' % pretty_filename, 'w', encoding='utf-8')
+        tgt_train = open('%s-tgt-train.txt' % pretty_filename, 'w', encoding='utf-8')
+
+        src_val = open('%s-src-val.txt' % pretty_filename, 'w', encoding='utf-8')
+        tgt_val = open('%s-tgt-val.txt' % pretty_filename, 'w', encoding='utf-8')
+
+        src_val_all = open('%s-src-val.all.txt' % pretty_filename, 'w', encoding='utf-8')
+        tgt_val_all = open('%s-tgt-val.all.txt' % pretty_filename, 'w', encoding='utf-8')
+
+        src_test = open('%s-src-test.txt' % pretty_filename, 'w', encoding='utf-8')
+        tgt_test = open('%s-tgt-test.all.txt' % pretty_filename, 'w', encoding='utf-8')
         
         analyses = list(analyses.items())
         shuffle(analyses)
