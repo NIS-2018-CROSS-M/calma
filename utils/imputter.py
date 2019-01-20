@@ -262,7 +262,7 @@ def build_dataset(fields, data_type, src,
     dataset_classes = {
         'text': TextDataset, 'img': ImageDataset, 'audio': AudioDataset
     }
-    print("data_type: " + data_type)
+    logger.info("data_type: " + data_type)
     assert data_type in dataset_classes
     assert src is not None
     if data_type == 'text':
