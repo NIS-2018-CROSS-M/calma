@@ -596,7 +596,7 @@ def translate_opts(parser):
               action=StoreLoggingLevelAction,
               choices=StoreLoggingLevelAction.CHOICES,
               default="0")
-    group.add('--attn_debug', '-attn_debug', action="store_true",
+    group.add('--attn_debug', '-attn_debug', action="store_false",
               help='Print best attn for each word')
     group.add('--dump_beam', '-dump_beam', type=str, default="",
               help='File to dump beam information to.')
